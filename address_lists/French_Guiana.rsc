@@ -2,7 +2,6 @@
 add address=5.102.79.0/24 list=French_Guiana
 add address=37.35.105.206/31 list=French_Guiana
 add address=45.169.164.0/22 list=French_Guiana
-add address=45.169.164.0/22 list=French_Guiana
 add address=45.169.166.0/23 list=French_Guiana
 add address=46.193.3.116/32 list=French_Guiana
 add address=46.193.53.128/32 list=French_Guiana
@@ -52,10 +51,8 @@ add address=94.124.156.0/24 list=French_Guiana
 add address=94.198.182.0/24 list=French_Guiana
 add address=104.28.10.67/32 list=French_Guiana
 add address=104.28.10.68/31 list=French_Guiana
-add address=104.28.10.68/31 list=French_Guiana
 add address=104.28.36.87/32 list=French_Guiana
 add address=104.28.36.88/32 list=French_Guiana
-add address=104.28.47.210/31 list=French_Guiana
 add address=104.28.47.210/31 list=French_Guiana
 add address=104.28.61.75/32 list=French_Guiana
 add address=104.28.61.76/32 list=French_Guiana
@@ -63,10 +60,8 @@ add address=104.28.63.207/32 list=French_Guiana
 add address=104.28.63.208/32 list=French_Guiana
 add address=104.28.221.51/32 list=French_Guiana
 add address=104.28.221.52/30 list=French_Guiana
-add address=104.28.221.52/30 list=French_Guiana
 add address=104.28.221.56/32 list=French_Guiana
 add address=104.28.253.51/32 list=French_Guiana
-add address=104.28.253.52/30 list=French_Guiana
 add address=104.28.253.52/30 list=French_Guiana
 add address=104.28.253.56/32 list=French_Guiana
 add address=109.62.24.0/21 list=French_Guiana
@@ -74,8 +69,6 @@ add address=109.62.56.0/21 list=French_Guiana
 add address=109.62.64.0/22 list=French_Guiana
 add address=128.201.88.0/22 list=French_Guiana
 add address=129.224.208.0/24 list=French_Guiana
-add address=129.224.208.0/24 list=French_Guiana
-add address=138.84.57.0/24 list=French_Guiana
 add address=138.84.57.0/24 list=French_Guiana
 add address=140.248.24.48/31 list=French_Guiana
 add address=140.248.34.104/31 list=French_Guiana
@@ -89,7 +82,6 @@ add address=140.248.60.79/32 list=French_Guiana
 add address=140.248.61.79/32 list=French_Guiana
 add address=140.248.62.79/32 list=French_Guiana
 add address=140.248.63.79/32 list=French_Guiana
-add address=143.105.35.0/24 list=French_Guiana
 add address=143.105.35.0/24 list=French_Guiana
 add address=146.75.169.104/31 list=French_Guiana
 add address=157.5.124.164/31 list=French_Guiana
@@ -112,6 +104,5 @@ add address=194.50.99.81/32 list=French_Guiana
 add address=200.13.136.0/21 list=French_Guiana
 add address=212.115.153.96/30 list=French_Guiana
 add address=212.222.117.172/30 list=French_Guiana
-add address=212.222.118.0/29 list=French_Guiana
 add address=212.222.118.0/29 list=French_Guiana
 add address=213.188.160.0/22 list=French_Guiana

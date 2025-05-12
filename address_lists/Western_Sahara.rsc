@@ -1,7 +1,6 @@
 /ip firewall address-list
 add address=46.243.148.240/28 list=Western_Sahara
 add address=104.28.9.164/31 list=Western_Sahara
-add address=104.28.9.164/31 list=Western_Sahara
 add address=104.28.9.166/32 list=Western_Sahara
 add address=136.23.0.150/32 list=Western_Sahara
 add address=136.23.20.2/32 list=Western_Sahara

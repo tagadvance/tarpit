@@ -44,18 +44,14 @@ add address=93.187.0.0/21 list=Guernsey
 add address=93.187.144.0/21 list=Guernsey
 add address=93.189.160.0/21 list=Guernsey
 add address=104.28.10.70/31 list=Guernsey
-add address=104.28.10.70/31 list=Guernsey
 add address=104.28.10.72/32 list=Guernsey
 add address=104.28.40.89/32 list=Guernsey
 add address=104.28.40.168/32 list=Guernsey
 add address=104.28.89.10/31 list=Guernsey
-add address=104.28.89.10/31 list=Guernsey
 add address=104.28.207.183/32 list=Guernsey
-add address=104.28.207.184/31 list=Guernsey
 add address=104.28.207.184/31 list=Guernsey
 add address=104.28.207.186/32 list=Guernsey
 add address=104.28.239.183/32 list=Guernsey
-add address=104.28.239.184/31 list=Guernsey
 add address=104.28.239.184/31 list=Guernsey
 add address=104.28.239.186/32 list=Guernsey
 add address=136.23.0.159/32 list=Guernsey
@@ -71,7 +67,6 @@ add address=140.248.60.80/32 list=Guernsey
 add address=140.248.61.80/32 list=Guernsey
 add address=140.248.62.80/32 list=Guernsey
 add address=140.248.63.80/32 list=Guernsey
-add address=145.224.92.0/24 list=Guernsey
 add address=145.224.92.0/24 list=Guernsey
 add address=146.75.174.100/31 list=Guernsey
 add address=150.48.138.246/31 list=Guernsey

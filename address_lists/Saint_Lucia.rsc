@@ -27,14 +27,10 @@ add address=69.80.32.0/22 list=Saint_Lucia
 add address=72.14.98.0/23 list=Saint_Lucia
 add address=104.28.11.165/32 list=Saint_Lucia
 add address=104.28.11.166/31 list=Saint_Lucia
-add address=104.28.11.166/31 list=Saint_Lucia
-add address=104.28.32.60/31 list=Saint_Lucia
 add address=104.28.32.60/31 list=Saint_Lucia
 add address=104.28.32.90/32 list=Saint_Lucia
 add address=104.28.92.133/32 list=Saint_Lucia
 add address=104.28.223.36/30 list=Saint_Lucia
-add address=104.28.223.36/30 list=Saint_Lucia
-add address=104.28.255.36/30 list=Saint_Lucia
 add address=104.28.255.36/30 list=Saint_Lucia
 add address=104.218.216.0/22 list=Saint_Lucia
 add address=104.255.252.0/22 list=Saint_Lucia
@@ -50,7 +46,6 @@ add address=140.248.60.127/32 list=Saint_Lucia
 add address=140.248.61.127/32 list=Saint_Lucia
 add address=140.248.62.127/32 list=Saint_Lucia
 add address=140.248.63.127/32 list=Saint_Lucia
-add address=143.105.130.0/23 list=Saint_Lucia
 add address=143.105.130.0/23 list=Saint_Lucia
 add address=146.75.130.28/31 list=Saint_Lucia
 add address=146.75.150.20/31 list=Saint_Lucia

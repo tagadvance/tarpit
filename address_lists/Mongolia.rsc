@@ -3,7 +3,6 @@ add address=5.62.63.21/32 list=Mongolia
 add address=5.62.63.22/31 list=Mongolia
 add address=14.0.59.0/24 list=Mongolia
 add address=14.1.81.0/24 list=Mongolia
-add address=14.1.81.0/24 list=Mongolia
 add address=14.1.124.0/22 list=Mongolia
 add address=27.123.212.0/22 list=Mongolia
 add address=36.50.6.0/23 list=Mongolia
@@ -102,10 +101,8 @@ add address=103.242.44.0/22 list=Mongolia
 add address=103.254.120.0/24 list=Mongolia
 add address=104.28.11.223/32 list=Mongolia
 add address=104.28.11.224/31 list=Mongolia
-add address=104.28.11.224/31 list=Mongolia
 add address=104.28.38.56/31 list=Mongolia
 add address=104.28.66.24/32 list=Mongolia
-add address=104.28.66.72/31 list=Mongolia
 add address=104.28.66.72/31 list=Mongolia
 add address=104.28.68.89/32 list=Mongolia
 add address=104.28.68.90/32 list=Mongolia
@@ -119,17 +116,13 @@ add address=104.28.100.80/32 list=Mongolia
 add address=104.28.102.79/32 list=Mongolia
 add address=104.28.102.80/32 list=Mongolia
 add address=104.28.149.56/31 list=Mongolia
-add address=104.28.149.56/31 list=Mongolia
 add address=104.28.149.161/32 list=Mongolia
 add address=104.28.157.56/31 list=Mongolia
-add address=104.28.157.56/31 list=Mongolia
 add address=104.28.157.161/32 list=Mongolia
-add address=104.28.206.12/30 list=Mongolia
 add address=104.28.206.12/30 list=Mongolia
 add address=104.28.216.176/30 list=Mongolia
 add address=104.28.216.180/31 list=Mongolia
 add address=104.28.216.182/32 list=Mongolia
-add address=104.28.238.12/30 list=Mongolia
 add address=104.28.238.12/30 list=Mongolia
 add address=104.28.248.176/30 list=Mongolia
 add address=104.28.248.180/31 list=Mongolia
@@ -153,7 +146,6 @@ add address=140.248.60.146/32 list=Mongolia
 add address=140.248.61.146/32 list=Mongolia
 add address=140.248.62.146/32 list=Mongolia
 add address=140.248.63.146/32 list=Mongolia
-add address=143.105.19.0/24 list=Mongolia
 add address=143.105.19.0/24 list=Mongolia
 add address=146.75.154.4/30 list=Mongolia
 add address=146.75.160.82/31 list=Mongolia

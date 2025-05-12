@@ -5,7 +5,6 @@ add address=5.62.58.165/32 list=Pitcairn
 add address=5.62.58.166/31 list=Pitcairn
 add address=104.28.12.135/32 list=Pitcairn
 add address=104.28.12.136/31 list=Pitcairn
-add address=104.28.12.136/31 list=Pitcairn
 add address=136.23.3.231/32 list=Pitcairn
 add address=136.23.11.199/32 list=Pitcairn
 add address=140.248.56.180/32 list=Pitcairn
@@ -19,5 +18,4 @@ add address=140.248.63.180/32 list=Pitcairn
 add address=162.120.204.58/32 list=Pitcairn
 add address=162.120.216.72/32 list=Pitcairn
 add address=194.50.99.182/32 list=Pitcairn
-add address=206.83.126.0/24 list=Pitcairn
 add address=206.83.126.0/24 list=Pitcairn

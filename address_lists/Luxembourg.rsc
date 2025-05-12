@@ -15,7 +15,6 @@ add address=5.181.24.0/24 list=Luxembourg
 add address=5.181.26.0/24 list=Luxembourg
 add address=5.183.52.0/22 list=Luxembourg
 add address=5.188.134.0/23 list=Luxembourg
-add address=5.188.134.0/23 list=Luxembourg
 add address=5.188.189.0/24 list=Luxembourg
 add address=5.189.220.0/24 list=Luxembourg
 add address=5.196.183.184/30 list=Luxembourg
@@ -123,7 +122,6 @@ add address=62.229.112.0/21 list=Luxembourg
 add address=62.233.40.0/24 list=Luxembourg
 add address=64.187.108.0/24 list=Luxembourg
 add address=66.203.124.0/23 list=Luxembourg
-add address=66.203.124.0/23 list=Luxembourg
 add address=72.14.201.87/32 list=Luxembourg
 add address=77.67.86.56/29 list=Luxembourg
 add address=77.77.180.184/29 list=Luxembourg
@@ -175,7 +173,6 @@ add address=80.247.156.0/22 list=Luxembourg
 add address=80.253.96.48/29 list=Luxembourg
 add address=80.253.97.64/30 list=Luxembourg
 add address=80.253.102.48/29 list=Luxembourg
-add address=80.253.102.128/28 list=Luxembourg
 add address=80.253.102.128/28 list=Luxembourg
 add address=80.253.114.216/29 list=Luxembourg
 add address=80.253.117.36/30 list=Luxembourg
@@ -279,7 +276,6 @@ add address=85.234.87.0/24 list=Luxembourg
 add address=85.254.123.0/24 list=Luxembourg
 add address=87.240.192.0/18 list=Luxembourg
 add address=87.251.24.0/24 list=Luxembourg
-add address=87.251.24.0/24 list=Luxembourg
 add address=87.254.96.0/19 list=Luxembourg
 add address=88.204.42.0/24 list=Luxembourg
 add address=88.207.128.0/17 list=Luxembourg
@@ -312,7 +308,6 @@ add address=92.38.146.0/23 list=Luxembourg
 add address=92.38.157.0/24 list=Luxembourg
 add address=92.38.158.0/24 list=Luxembourg
 add address=92.38.162.0/23 list=Luxembourg
-add address=92.38.162.0/23 list=Luxembourg
 add address=92.38.172.0/24 list=Luxembourg
 add address=92.42.176.0/21 list=Luxembourg
 add address=92.71.68.0/23 list=Luxembourg
@@ -320,8 +315,6 @@ add address=92.223.7.0/24 list=Luxembourg
 add address=92.223.15.0/24 list=Luxembourg
 add address=92.223.19.0/24 list=Luxembourg
 add address=92.223.20.0/22 list=Luxembourg
-add address=92.223.20.0/22 list=Luxembourg
-add address=92.223.24.0/22 list=Luxembourg
 add address=92.223.24.0/22 list=Luxembourg
 add address=92.223.42.0/24 list=Luxembourg
 add address=92.223.48.0/24 list=Luxembourg
@@ -337,12 +330,9 @@ add address=92.223.84.88/29 list=Luxembourg
 add address=92.223.84.96/27 list=Luxembourg
 add address=92.223.84.128/25 list=Luxembourg
 add address=92.223.88.0/23 list=Luxembourg
-add address=92.223.88.0/23 list=Luxembourg
 add address=92.223.97.0/24 list=Luxembourg
 add address=92.223.98.0/24 list=Luxembourg
 add address=92.223.104.0/23 list=Luxembourg
-add address=92.223.104.0/23 list=Luxembourg
-add address=92.223.112.0/23 list=Luxembourg
 add address=92.223.112.0/23 list=Luxembourg
 add address=93.93.48.0/21 list=Luxembourg
 add address=93.94.41.98/32 list=Luxembourg
@@ -372,28 +362,21 @@ add address=103.22.194.0/24 list=Luxembourg
 add address=103.215.217.0/24 list=Luxembourg
 add address=104.28.11.183/32 list=Luxembourg
 add address=104.28.11.184/31 list=Luxembourg
-add address=104.28.11.184/31 list=Luxembourg
 add address=104.28.40.69/32 list=Luxembourg
 add address=104.28.40.70/32 list=Luxembourg
 add address=104.28.42.63/32 list=Luxembourg
 add address=104.28.42.64/32 list=Luxembourg
 add address=104.28.54.80/31 list=Luxembourg
-add address=104.28.54.80/31 list=Luxembourg
 add address=104.28.62.75/32 list=Luxembourg
 add address=104.28.62.76/32 list=Luxembourg
-add address=104.28.135.66/31 list=Luxembourg
 add address=104.28.135.66/31 list=Luxembourg
 add address=104.28.147.158/32 list=Luxembourg
 add address=104.28.155.158/32 list=Luxembourg
 add address=104.28.215.3/32 list=Luxembourg
 add address=104.28.215.4/30 list=Luxembourg
-add address=104.28.215.4/30 list=Luxembourg
-add address=104.28.215.8/29 list=Luxembourg
 add address=104.28.215.8/29 list=Luxembourg
 add address=104.28.247.3/32 list=Luxembourg
 add address=104.28.247.4/30 list=Luxembourg
-add address=104.28.247.4/30 list=Luxembourg
-add address=104.28.247.8/29 list=Luxembourg
 add address=104.28.247.8/29 list=Luxembourg
 add address=104.30.161.126/32 list=Luxembourg
 add address=104.30.164.34/32 list=Luxembourg
@@ -559,7 +542,6 @@ add address=149.6.66.124/30 list=Luxembourg
 add address=149.6.66.132/30 list=Luxembourg
 add address=149.6.66.136/29 list=Luxembourg
 add address=149.6.66.144/28 list=Luxembourg
-add address=149.6.66.144/28 list=Luxembourg
 add address=149.6.66.160/28 list=Luxembourg
 add address=149.6.66.160/27 list=Luxembourg
 add address=149.6.66.184/29 list=Luxembourg
@@ -586,7 +568,6 @@ add address=149.6.67.160/27 list=Luxembourg
 add address=149.6.67.176/28 list=Luxembourg
 add address=149.6.67.192/27 list=Luxembourg
 add address=149.6.67.208/28 list=Luxembourg
-add address=149.6.67.224/28 list=Luxembourg
 add address=149.6.67.224/28 list=Luxembourg
 add address=149.6.67.248/29 list=Luxembourg
 add address=149.6.72.72/29 list=Luxembourg
@@ -642,12 +623,10 @@ add address=154.14.47.168/30 list=Luxembourg
 add address=154.14.55.176/28 list=Luxembourg
 add address=154.14.101.0/29 list=Luxembourg
 add address=154.14.112.64/28 list=Luxembourg
-add address=154.14.112.64/28 list=Luxembourg
 add address=154.14.120.40/29 list=Luxembourg
 add address=154.14.124.56/30 list=Luxembourg
 add address=154.14.181.24/29 list=Luxembourg
 add address=154.14.184.104/29 list=Luxembourg
-add address=154.14.184.112/28 list=Luxembourg
 add address=154.14.184.112/28 list=Luxembourg
 add address=154.14.184.128/29 list=Luxembourg
 add address=154.14.184.160/29 list=Luxembourg
@@ -992,7 +971,6 @@ add address=194.7.77.230/32 list=Luxembourg
 add address=194.26.137.0/24 list=Luxembourg
 add address=194.36.224.0/20 list=Luxembourg
 add address=194.42.98.0/23 list=Luxembourg
-add address=194.42.98.0/23 list=Luxembourg
 add address=194.48.192.0/23 list=Luxembourg
 add address=194.48.252.0/23 list=Luxembourg
 add address=194.50.99.135/32 list=Luxembourg
@@ -1283,7 +1261,6 @@ add address=213.246.253.48/30 list=Luxembourg
 add address=213.246.253.66/31 list=Luxembourg
 add address=213.246.253.216/30 list=Luxembourg
 add address=213.246.254.118/31 list=Luxembourg
-add address=213.248.108.128/28 list=Luxembourg
 add address=213.248.108.128/28 list=Luxembourg
 add address=213.251.27.176/29 list=Luxembourg
 add address=216.66.90.128/26 list=Luxembourg

@@ -6,7 +6,6 @@ add address=5.62.62.90/31 list=Cocos_Islands
 add address=45.138.10.4/30 list=Cocos_Islands
 add address=69.30.251.142/32 list=Cocos_Islands
 add address=104.28.9.12/31 list=Cocos_Islands
-add address=104.28.9.12/31 list=Cocos_Islands
 add address=104.28.9.14/32 list=Cocos_Islands
 add address=136.23.3.229/32 list=Cocos_Islands
 add address=136.23.11.197/32 list=Cocos_Islands

@@ -1,7 +1,6 @@
 /ip firewall address-list
 add address=104.28.10.101/32 list=South_Georgia_and_the_South_Sandwich_Islands
 add address=104.28.10.102/31 list=South_Georgia_and_the_South_Sandwich_Islands
-add address=104.28.10.102/31 list=South_Georgia_and_the_South_Sandwich_Islands
 add address=128.90.30.0/32 list=South_Georgia_and_the_South_Sandwich_Islands
 add address=136.23.1.142/32 list=South_Georgia_and_the_South_Sandwich_Islands
 add address=136.23.21.42/32 list=South_Georgia_and_the_South_Sandwich_Islands

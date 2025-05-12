@@ -6,15 +6,11 @@ add address=5.62.58.114/31 list=Haiti
 add address=57.74.112.0/23 list=Haiti
 add address=66.9.168.0/23 list=Haiti
 add address=66.9.170.0/24 list=Haiti
-add address=66.9.170.0/24 list=Haiti
 add address=66.51.62.0/24 list=Haiti
 add address=66.96.122.0/26 list=Haiti
 add address=104.28.10.167/32 list=Haiti
 add address=104.28.10.168/31 list=Haiti
-add address=104.28.10.168/31 list=Haiti
 add address=104.28.32.68/31 list=Haiti
-add address=104.28.32.68/31 list=Haiti
-add address=104.28.36.98/31 list=Haiti
 add address=104.28.36.98/31 list=Haiti
 add address=104.28.76.51/32 list=Haiti
 add address=104.28.76.52/32 list=Haiti
@@ -30,13 +26,9 @@ add address=104.28.145.47/32 list=Haiti
 add address=104.28.153.47/32 list=Haiti
 add address=104.28.221.211/32 list=Haiti
 add address=104.28.221.212/30 list=Haiti
-add address=104.28.221.212/30 list=Haiti
-add address=104.28.221.216/31 list=Haiti
 add address=104.28.221.216/31 list=Haiti
 add address=104.28.253.211/32 list=Haiti
 add address=104.28.253.212/30 list=Haiti
-add address=104.28.253.212/30 list=Haiti
-add address=104.28.253.216/31 list=Haiti
 add address=104.28.253.216/31 list=Haiti
 add address=108.171.107.192/26 list=Haiti
 add address=136.23.22.49/32 list=Haiti
@@ -51,7 +43,6 @@ add address=140.248.60.98/32 list=Haiti
 add address=140.248.61.98/32 list=Haiti
 add address=140.248.62.98/32 list=Haiti
 add address=140.248.63.98/32 list=Haiti
-add address=143.105.42.0/24 list=Haiti
 add address=143.105.42.0/24 list=Haiti
 add address=146.75.148.8/31 list=Haiti
 add address=146.75.244.8/31 list=Haiti

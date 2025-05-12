@@ -1,7 +1,6 @@
 /ip firewall address-list
 add address=69.30.251.141/32 list=Bouvet_Island
 add address=104.28.8.236/31 list=Bouvet_Island
-add address=104.28.8.236/31 list=Bouvet_Island
 add address=104.28.8.238/32 list=Bouvet_Island
 add address=136.23.6.122/32 list=Bouvet_Island
 add address=136.23.20.50/32 list=Bouvet_Island

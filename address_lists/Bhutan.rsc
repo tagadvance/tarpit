@@ -6,7 +6,6 @@ add address=5.62.62.38/31 list=Bhutan
 add address=5.182.196.0/24 list=Bhutan
 add address=8.20.124.0/24 list=Bhutan
 add address=14.1.76.0/24 list=Bhutan
-add address=14.1.76.0/24 list=Bhutan
 add address=36.50.37.0/24 list=Bhutan
 add address=43.229.124.0/22 list=Bhutan
 add address=43.230.208.0/24 list=Bhutan
@@ -40,7 +39,6 @@ add address=103.245.240.0/22 list=Bhutan
 add address=103.252.84.0/24 list=Bhutan
 add address=104.28.8.233/32 list=Bhutan
 add address=104.28.8.234/31 list=Bhutan
-add address=104.28.8.234/31 list=Bhutan
 add address=104.28.37.21/32 list=Bhutan
 add address=104.28.37.22/32 list=Bhutan
 add address=104.28.43.13/32 list=Bhutan
@@ -57,14 +55,10 @@ add address=104.28.147.107/32 list=Bhutan
 add address=104.28.155.107/32 list=Bhutan
 add address=104.28.201.53/32 list=Bhutan
 add address=104.28.201.54/31 list=Bhutan
-add address=104.28.201.54/31 list=Bhutan
-add address=104.28.201.56/30 list=Bhutan
 add address=104.28.201.56/30 list=Bhutan
 add address=104.28.201.60/32 list=Bhutan
 add address=104.28.233.53/32 list=Bhutan
 add address=104.28.233.54/31 list=Bhutan
-add address=104.28.233.54/31 list=Bhutan
-add address=104.28.233.56/30 list=Bhutan
 add address=104.28.233.56/30 list=Bhutan
 add address=104.28.233.60/32 list=Bhutan
 add address=108.171.110.192/26 list=Bhutan

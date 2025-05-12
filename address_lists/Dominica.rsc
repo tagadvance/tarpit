@@ -18,13 +18,9 @@ add address=69.80.36.0/22 list=Dominica
 add address=69.80.40.0/22 list=Dominica
 add address=69.80.44.0/23 list=Dominica
 add address=104.28.9.146/31 list=Dominica
-add address=104.28.9.146/31 list=Dominica
 add address=104.28.9.148/32 list=Dominica
 add address=104.28.36.68/31 list=Dominica
-add address=104.28.36.68/31 list=Dominica
 add address=104.28.76.42/31 list=Dominica
-add address=104.28.76.42/31 list=Dominica
-add address=104.28.78.42/31 list=Dominica
 add address=104.28.78.42/31 list=Dominica
 add address=104.28.92.63/32 list=Dominica
 add address=104.28.92.64/32 list=Dominica
@@ -35,13 +31,9 @@ add address=104.28.109.58/32 list=Dominica
 add address=104.28.126.63/32 list=Dominica
 add address=104.28.126.64/32 list=Dominica
 add address=104.28.218.26/31 list=Dominica
-add address=104.28.218.26/31 list=Dominica
-add address=104.28.218.28/31 list=Dominica
 add address=104.28.218.28/31 list=Dominica
 add address=104.28.218.30/32 list=Dominica
 add address=104.28.250.26/31 list=Dominica
-add address=104.28.250.26/31 list=Dominica
-add address=104.28.250.28/31 list=Dominica
 add address=104.28.250.28/31 list=Dominica
 add address=104.28.250.30/32 list=Dominica
 add address=104.153.248.0/22 list=Dominica
@@ -59,7 +51,6 @@ add address=140.248.60.59/32 list=Dominica
 add address=140.248.61.59/32 list=Dominica
 add address=140.248.62.59/32 list=Dominica
 add address=140.248.63.59/32 list=Dominica
-add address=143.105.168.0/23 list=Dominica
 add address=143.105.168.0/23 list=Dominica
 add address=157.5.67.116/31 list=Dominica
 add address=157.5.91.115/32 list=Dominica

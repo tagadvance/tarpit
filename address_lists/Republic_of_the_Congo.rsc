@@ -22,7 +22,6 @@ add address=102.223.220.0/22 list=Republic_of_the_Congo
 add address=103.21.52.0/24 list=Republic_of_the_Congo
 add address=104.28.9.21/32 list=Republic_of_the_Congo
 add address=104.28.9.22/31 list=Republic_of_the_Congo
-add address=104.28.9.22/31 list=Republic_of_the_Congo
 add address=104.28.34.21/32 list=Republic_of_the_Congo
 add address=104.28.34.22/32 list=Republic_of_the_Congo
 add address=104.28.46.17/32 list=Republic_of_the_Congo
@@ -32,16 +31,11 @@ add address=104.28.60.28/32 list=Republic_of_the_Congo
 add address=104.28.82.21/32 list=Republic_of_the_Congo
 add address=104.28.82.22/32 list=Republic_of_the_Congo
 add address=104.28.88.14/31 list=Republic_of_the_Congo
-add address=104.28.88.14/31 list=Republic_of_the_Congo
 add address=104.28.201.209/32 list=Republic_of_the_Congo
 add address=104.28.201.210/31 list=Republic_of_the_Congo
-add address=104.28.201.210/31 list=Republic_of_the_Congo
-add address=104.28.201.212/31 list=Republic_of_the_Congo
 add address=104.28.201.212/31 list=Republic_of_the_Congo
 add address=104.28.233.209/32 list=Republic_of_the_Congo
 add address=104.28.233.210/31 list=Republic_of_the_Congo
-add address=104.28.233.210/31 list=Republic_of_the_Congo
-add address=104.28.233.212/31 list=Republic_of_the_Congo
 add address=104.28.233.212/31 list=Republic_of_the_Congo
 add address=140.248.40.14/31 list=Republic_of_the_Congo
 add address=140.248.56.41/32 list=Republic_of_the_Congo

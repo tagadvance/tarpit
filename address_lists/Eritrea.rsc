@@ -10,12 +10,8 @@ add address=84.254.152.0/24 list=Eritrea
 add address=88.202.80.0/24 list=Eritrea
 add address=104.28.9.167/32 list=Eritrea
 add address=104.28.9.168/31 list=Eritrea
-add address=104.28.9.168/31 list=Eritrea
-add address=104.28.37.54/31 list=Eritrea
 add address=104.28.37.54/31 list=Eritrea
 add address=104.28.60.52/31 list=Eritrea
-add address=104.28.60.52/31 list=Eritrea
-add address=104.28.80.54/31 list=Eritrea
 add address=104.28.80.54/31 list=Eritrea
 add address=104.28.106.43/32 list=Eritrea
 add address=104.28.106.44/32 list=Eritrea
@@ -23,14 +19,10 @@ add address=104.28.130.27/32 list=Eritrea
 add address=104.28.130.28/32 list=Eritrea
 add address=104.28.205.145/32 list=Eritrea
 add address=104.28.205.146/31 list=Eritrea
-add address=104.28.205.146/31 list=Eritrea
-add address=104.28.205.148/31 list=Eritrea
 add address=104.28.205.148/31 list=Eritrea
 add address=104.28.205.150/32 list=Eritrea
 add address=104.28.237.145/32 list=Eritrea
 add address=104.28.237.146/31 list=Eritrea
-add address=104.28.237.146/31 list=Eritrea
-add address=104.28.237.148/31 list=Eritrea
 add address=104.28.237.148/31 list=Eritrea
 add address=104.28.237.150/32 list=Eritrea
 add address=136.23.0.153/32 list=Eritrea

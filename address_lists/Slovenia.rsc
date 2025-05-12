@@ -13,7 +13,6 @@ add address=5.32.136.0/21 list=Slovenia
 add address=5.62.63.125/32 list=Slovenia
 add address=5.62.63.126/31 list=Slovenia
 add address=5.134.208.132/31 list=Slovenia
-add address=5.134.208.132/31 list=Slovenia
 add address=5.134.208.146/32 list=Slovenia
 add address=5.157.72.0/21 list=Slovenia
 add address=5.182.130.60/30 list=Slovenia
@@ -184,7 +183,6 @@ add address=88.200.0.0/17 list=Slovenia
 add address=89.116.184.0/23 list=Slovenia
 add address=89.142.0.0/15 list=Slovenia
 add address=89.212.0.0/16 list=Slovenia
-add address=89.212.0.0/16 list=Slovenia
 add address=89.233.112.0/20 list=Slovenia
 add address=89.248.69.0/24 list=Slovenia
 add address=90.157.128.0/17 list=Slovenia
@@ -329,7 +327,6 @@ add address=92.63.16.0/20 list=Slovenia
 add address=92.118.71.0/24 list=Slovenia
 add address=92.244.64.0/19 list=Slovenia
 add address=93.103.0.0/16 list=Slovenia
-add address=93.103.0.0/16 list=Slovenia
 add address=93.115.0.0/24 list=Slovenia
 add address=94.23.190.200/30 list=Slovenia
 add address=94.103.64.0/20 list=Slovenia
@@ -352,7 +349,6 @@ add address=103.211.146.0/25 list=Slovenia
 add address=103.225.128.0/24 list=Slovenia
 add address=104.28.13.19/32 list=Slovenia
 add address=104.28.13.20/31 list=Slovenia
-add address=104.28.13.20/31 list=Slovenia
 add address=104.28.60.192/31 list=Slovenia
 add address=104.28.98.80/31 list=Slovenia
 add address=104.28.114.59/32 list=Slovenia
@@ -372,7 +368,6 @@ add address=109.182.0.0/16 list=Slovenia
 add address=109.202.120.0/21 list=Slovenia
 add address=109.224.228.0/22 list=Slovenia
 add address=109.239.176.0/20 list=Slovenia
-add address=119.12.128.0/20 list=Slovenia
 add address=119.12.128.0/20 list=Slovenia
 add address=128.77.18.0/24 list=Slovenia
 add address=128.77.100.64/26 list=Slovenia
@@ -463,18 +458,13 @@ add address=149.5.194.0/24 list=Slovenia
 add address=149.6.52.0/30 list=Slovenia
 add address=149.6.52.8/30 list=Slovenia
 add address=149.6.52.32/28 list=Slovenia
-add address=149.6.52.32/28 list=Slovenia
 add address=149.6.52.48/29 list=Slovenia
 add address=149.6.52.56/30 list=Slovenia
 add address=149.6.52.64/29 list=Slovenia
 add address=149.6.52.80/28 list=Slovenia
-add address=149.6.52.80/28 list=Slovenia
-add address=149.6.52.96/27 list=Slovenia
 add address=149.6.52.96/27 list=Slovenia
 add address=149.6.52.136/29 list=Slovenia
 add address=149.6.52.144/28 list=Slovenia
-add address=149.6.52.144/28 list=Slovenia
-add address=149.6.52.160/28 list=Slovenia
 add address=149.6.52.160/28 list=Slovenia
 add address=149.62.64.0/18 list=Slovenia
 add address=149.126.128.0/19 list=Slovenia
@@ -946,7 +936,6 @@ add address=212.103.132.0/22 list=Slovenia
 add address=212.103.136.0/21 list=Slovenia
 add address=212.103.144.0/20 list=Slovenia
 add address=212.105.158.0/24 list=Slovenia
-add address=212.105.158.0/24 list=Slovenia
 add address=212.115.180.240/29 list=Slovenia
 add address=212.115.181.176/29 list=Slovenia
 add address=212.115.186.212/30 list=Slovenia
@@ -985,6 +974,5 @@ add address=213.253.125.0/24 list=Slovenia
 add address=213.253.126.0/24 list=Slovenia
 add address=217.61.252.0/24 list=Slovenia
 add address=217.72.64.0/19 list=Slovenia
-add address=217.142.29.0/24 list=Slovenia
 add address=217.142.29.0/24 list=Slovenia
 add address=217.199.128.0/20 list=Slovenia

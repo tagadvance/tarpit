@@ -19,7 +19,6 @@ add address=5.133.24.0/21 list=Palestinian_Territory
 add address=5.182.106.0/24 list=Palestinian_Territory
 add address=5.253.68.0/22 list=Palestinian_Territory
 add address=24.42.64.0/18 list=Palestinian_Territory
-add address=24.42.64.0/18 list=Palestinian_Territory
 add address=31.13.160.0/21 list=Palestinian_Territory
 add address=31.25.72.0/21 list=Palestinian_Territory
 add address=31.186.180.0/22 list=Palestinian_Territory
@@ -121,16 +120,13 @@ add address=103.248.36.0/22 list=Palestinian_Territory
 add address=103.248.244.0/22 list=Palestinian_Territory
 add address=104.28.12.141/32 list=Palestinian_Territory
 add address=104.28.12.142/31 list=Palestinian_Territory
-add address=104.28.12.142/31 list=Palestinian_Territory
 add address=104.28.62.95/32 list=Palestinian_Territory
 add address=104.28.62.96/32 list=Palestinian_Territory
 add address=104.28.80.4/32 list=Palestinian_Territory
 add address=104.28.196.181/32 list=Palestinian_Territory
 add address=104.28.196.182/31 list=Palestinian_Territory
-add address=104.28.196.182/31 list=Palestinian_Territory
 add address=104.28.196.184/32 list=Palestinian_Territory
 add address=104.28.228.181/32 list=Palestinian_Territory
-add address=104.28.228.182/31 list=Palestinian_Territory
 add address=104.28.228.182/31 list=Palestinian_Territory
 add address=104.28.228.184/32 list=Palestinian_Territory
 add address=109.73.240.0/20 list=Palestinian_Territory
@@ -227,7 +223,6 @@ add address=185.203.66.0/24 list=Palestinian_Territory
 add address=185.209.108.0/22 list=Palestinian_Territory
 add address=185.225.116.0/22 list=Palestinian_Territory
 add address=188.0.96.0/19 list=Palestinian_Territory
-add address=188.0.96.0/19 list=Palestinian_Territory
 add address=188.161.0.0/16 list=Palestinian_Territory
 add address=188.209.208.0/22 list=Palestinian_Territory
 add address=188.215.33.0/24 list=Palestinian_Territory
@@ -292,7 +287,6 @@ add address=213.6.0.0/16 list=Palestinian_Territory
 add address=213.182.200.0/24 list=Palestinian_Territory
 add address=213.182.202.0/23 list=Palestinian_Territory
 add address=213.244.64.0/18 list=Palestinian_Territory
-add address=216.128.20.0/23 list=Palestinian_Territory
 add address=216.128.20.0/23 list=Palestinian_Territory
 add address=217.21.0.0/20 list=Palestinian_Territory
 add address=217.66.224.0/19 list=Palestinian_Territory

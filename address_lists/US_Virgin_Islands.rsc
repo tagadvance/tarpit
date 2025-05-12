@@ -30,7 +30,6 @@ add address=66.248.160.0/19 list=US_Virgin_Islands
 add address=67.211.240.0/20 list=US_Virgin_Islands
 add address=69.30.251.136/31 list=US_Virgin_Islands
 add address=98.97.53.0/24 list=US_Virgin_Islands
-add address=98.97.53.0/24 list=US_Virgin_Islands
 add address=98.142.160.0/23 list=US_Virgin_Islands
 add address=98.142.162.0/24 list=US_Virgin_Islands
 add address=98.142.163.0/26 list=US_Virgin_Islands
@@ -45,20 +44,15 @@ add address=98.142.164.0/22 list=US_Virgin_Islands
 add address=98.142.168.0/21 list=US_Virgin_Islands
 add address=104.28.15.81/32 list=US_Virgin_Islands
 add address=104.28.15.82/31 list=US_Virgin_Islands
-add address=104.28.15.82/31 list=US_Virgin_Islands
 add address=104.28.50.230/31 list=US_Virgin_Islands
-add address=104.28.50.230/31 list=US_Virgin_Islands
-add address=104.28.50.232/31 list=US_Virgin_Islands
 add address=104.28.50.232/31 list=US_Virgin_Islands
 add address=104.28.92.237/32 list=US_Virgin_Islands
 add address=104.28.203.254/32 list=US_Virgin_Islands
 add address=104.28.204.1/32 list=US_Virgin_Islands
 add address=104.28.204.2/31 list=US_Virgin_Islands
-add address=104.28.204.2/31 list=US_Virgin_Islands
 add address=104.28.204.4/32 list=US_Virgin_Islands
 add address=104.28.235.254/32 list=US_Virgin_Islands
 add address=104.28.236.1/32 list=US_Virgin_Islands
-add address=104.28.236.2/31 list=US_Virgin_Islands
 add address=104.28.236.2/31 list=US_Virgin_Islands
 add address=104.28.236.4/32 list=US_Virgin_Islands
 add address=104.192.186.0/23 list=US_Virgin_Islands
@@ -85,7 +79,6 @@ add address=140.248.61.239/32 list=US_Virgin_Islands
 add address=140.248.62.239/32 list=US_Virgin_Islands
 add address=140.248.63.239/32 list=US_Virgin_Islands
 add address=142.147.102.0/23 list=US_Virgin_Islands
-add address=143.105.33.0/24 list=US_Virgin_Islands
 add address=143.105.33.0/24 list=US_Virgin_Islands
 add address=146.75.232.36/31 list=US_Virgin_Islands
 add address=146.75.248.36/31 list=US_Virgin_Islands

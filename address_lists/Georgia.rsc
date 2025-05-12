@@ -4,7 +4,6 @@ add address=2.57.216.0/22 list=Georgia
 add address=5.10.32.0/21 list=Georgia
 add address=5.44.128.0/21 list=Georgia
 add address=5.59.0.0/23 list=Georgia
-add address=5.59.0.0/23 list=Georgia
 add address=5.59.56.0/24 list=Georgia
 add address=5.62.60.145/32 list=Georgia
 add address=5.62.60.146/31 list=Georgia
@@ -195,17 +194,13 @@ add address=95.210.176.0/24 list=Georgia
 add address=95.210.233.0/24 list=Georgia
 add address=103.173.127.0/24 list=Georgia
 add address=104.28.10.64/31 list=Georgia
-add address=104.28.10.64/31 list=Georgia
 add address=104.28.10.66/32 list=Georgia
 add address=104.28.51.30/31 list=Georgia
-add address=104.28.51.30/31 list=Georgia
-add address=104.28.80.58/31 list=Georgia
 add address=104.28.80.58/31 list=Georgia
 add address=104.28.106.47/32 list=Georgia
 add address=104.28.106.48/32 list=Georgia
 add address=104.28.130.29/32 list=Georgia
 add address=104.28.130.30/32 list=Georgia
-add address=104.28.131.34/31 list=Georgia
 add address=104.28.131.34/31 list=Georgia
 add address=104.28.139.1/32 list=Georgia
 add address=104.28.147.5/32 list=Georgia
@@ -213,13 +208,9 @@ add address=104.28.155.5/32 list=Georgia
 add address=104.28.164.1/32 list=Georgia
 add address=104.28.200.67/32 list=Georgia
 add address=104.28.200.68/30 list=Georgia
-add address=104.28.200.68/30 list=Georgia
-add address=104.28.200.72/31 list=Georgia
 add address=104.28.200.72/31 list=Georgia
 add address=104.28.232.67/32 list=Georgia
 add address=104.28.232.68/30 list=Georgia
-add address=104.28.232.68/30 list=Georgia
-add address=104.28.232.72/31 list=Georgia
 add address=104.28.232.72/31 list=Georgia
 add address=104.30.133.56/32 list=Georgia
 add address=104.30.160.164/32 list=Georgia
@@ -270,8 +261,6 @@ add address=154.6.167.0/24 list=Georgia
 add address=154.14.122.56/29 list=Georgia
 add address=154.220.156.0/24 list=Georgia
 add address=156.246.206.0/23 list=Georgia
-add address=156.246.206.0/23 list=Georgia
-add address=156.246.208.0/22 list=Georgia
 add address=156.246.208.0/22 list=Georgia
 add address=157.5.102.14/31 list=Georgia
 add address=157.5.110.14/31 list=Georgia
@@ -458,10 +447,8 @@ add address=206.53.48.0/24 list=Georgia
 add address=212.27.228.62/31 list=Georgia
 add address=212.27.228.94/31 list=Georgia
 add address=212.27.228.96/30 list=Georgia
-add address=212.27.228.96/30 list=Georgia
 add address=212.47.201.62/32 list=Georgia
 add address=212.47.201.92/32 list=Georgia
-add address=212.47.201.114/31 list=Georgia
 add address=212.47.201.114/31 list=Georgia
 add address=212.52.18.0/24 list=Georgia
 add address=212.58.96.0/19 list=Georgia
@@ -477,6 +464,5 @@ add address=217.11.160.0/22 list=Georgia
 add address=217.11.164.0/23 list=Georgia
 add address=217.11.172.0/23 list=Georgia
 add address=217.26.222.0/24 list=Georgia
-add address=217.142.28.0/24 list=Georgia
 add address=217.142.28.0/24 list=Georgia
 add address=217.147.224.0/20 list=Georgia

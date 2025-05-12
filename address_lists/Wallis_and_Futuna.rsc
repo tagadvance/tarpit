@@ -4,7 +4,6 @@ add address=46.36.203.144/30 list=Wallis_and_Futuna
 add address=103.235.110.0/23 list=Wallis_and_Futuna
 add address=104.28.15.91/32 list=Wallis_and_Futuna
 add address=104.28.15.92/31 list=Wallis_and_Futuna
-add address=104.28.15.92/31 list=Wallis_and_Futuna
 add address=104.28.29.50/32 list=Wallis_and_Futuna
 add address=104.28.93.13/32 list=Wallis_and_Futuna
 add address=104.28.207.83/32 list=Wallis_and_Futuna

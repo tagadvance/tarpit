@@ -7,13 +7,10 @@ add address=57.70.188.0/22 list=Marshall_Islands
 add address=81.30.106.0/24 list=Marshall_Islands
 add address=103.202.148.0/22 list=Marshall_Islands
 add address=104.28.11.210/31 list=Marshall_Islands
-add address=104.28.11.210/31 list=Marshall_Islands
 add address=104.28.11.212/32 list=Marshall_Islands
 add address=104.28.29.75/32 list=Marshall_Islands
 add address=104.28.29.76/32 list=Marshall_Islands
 add address=104.28.35.88/31 list=Marshall_Islands
-add address=104.28.35.88/31 list=Marshall_Islands
-add address=104.28.72.24/31 list=Marshall_Islands
 add address=104.28.72.24/31 list=Marshall_Islands
 add address=104.28.84.93/32 list=Marshall_Islands
 add address=104.28.84.94/32 list=Marshall_Islands
@@ -23,13 +20,9 @@ add address=104.28.102.89/32 list=Marshall_Islands
 add address=104.28.102.90/32 list=Marshall_Islands
 add address=104.28.215.93/32 list=Marshall_Islands
 add address=104.28.215.94/31 list=Marshall_Islands
-add address=104.28.215.94/31 list=Marshall_Islands
-add address=104.28.215.96/31 list=Marshall_Islands
 add address=104.28.215.96/31 list=Marshall_Islands
 add address=104.28.247.93/32 list=Marshall_Islands
 add address=104.28.247.94/31 list=Marshall_Islands
-add address=104.28.247.94/31 list=Marshall_Islands
-add address=104.28.247.96/31 list=Marshall_Islands
 add address=104.28.247.96/31 list=Marshall_Islands
 add address=117.103.88.0/21 list=Marshall_Islands
 add address=140.248.33.38/31 list=Marshall_Islands

@@ -1,7 +1,6 @@
 /ip firewall address-list
 add address=8.37.233.83/32 list=United_States_Minor_Outlying_Islands
 add address=14.1.88.0/24 list=United_States_Minor_Outlying_Islands
-add address=14.1.88.0/24 list=United_States_Minor_Outlying_Islands
 add address=46.243.207.34/32 list=United_States_Minor_Outlying_Islands
 add address=46.243.207.48/32 list=United_States_Minor_Outlying_Islands
 add address=64.9.239.112/29 list=United_States_Minor_Outlying_Islands
@@ -14,7 +13,6 @@ add address=64.9.255.112/29 list=United_States_Minor_Outlying_Islands
 add address=64.9.255.240/29 list=United_States_Minor_Outlying_Islands
 add address=69.179.9.158/32 list=United_States_Minor_Outlying_Islands
 add address=104.28.13.151/32 list=United_States_Minor_Outlying_Islands
-add address=104.28.13.152/31 list=United_States_Minor_Outlying_Islands
 add address=104.28.13.152/31 list=United_States_Minor_Outlying_Islands
 add address=136.22.79.112/29 list=United_States_Minor_Outlying_Islands
 add address=136.22.79.240/29 list=United_States_Minor_Outlying_Islands

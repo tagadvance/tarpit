@@ -59,7 +59,6 @@ add address=102.222.48.0/22 list=Botswana
 add address=102.222.173.0/24 list=Botswana
 add address=104.28.8.239/32 list=Botswana
 add address=104.28.8.240/31 list=Botswana
-add address=104.28.8.240/31 list=Botswana
 add address=104.28.37.23/32 list=Botswana
 add address=104.28.37.24/32 list=Botswana
 add address=104.28.46.5/32 list=Botswana
@@ -75,17 +74,11 @@ add address=104.28.146.130/32 list=Botswana
 add address=104.28.154.130/32 list=Botswana
 add address=104.28.160.122/32 list=Botswana
 add address=104.28.212.54/31 list=Botswana
-add address=104.28.212.54/31 list=Botswana
 add address=104.28.212.56/30 list=Botswana
-add address=104.28.212.56/30 list=Botswana
-add address=104.28.212.60/31 list=Botswana
 add address=104.28.212.60/31 list=Botswana
 add address=104.28.212.62/32 list=Botswana
 add address=104.28.244.54/31 list=Botswana
-add address=104.28.244.54/31 list=Botswana
 add address=104.28.244.56/30 list=Botswana
-add address=104.28.244.56/30 list=Botswana
-add address=104.28.244.60/31 list=Botswana
 add address=104.28.244.60/31 list=Botswana
 add address=104.28.244.62/32 list=Botswana
 add address=105.235.240.0/20 list=Botswana
@@ -101,8 +94,6 @@ add address=140.248.62.34/32 list=Botswana
 add address=140.248.63.34/32 list=Botswana
 add address=141.98.57.0/24 list=Botswana
 add address=143.105.47.0/24 list=Botswana
-add address=143.105.47.0/24 list=Botswana
-add address=143.105.49.0/24 list=Botswana
 add address=143.105.49.0/24 list=Botswana
 add address=146.75.168.14/31 list=Botswana
 add address=146.75.198.4/31 list=Botswana
@@ -150,5 +141,4 @@ add address=199.19.254.16/28 list=Botswana
 add address=206.62.0.0/19 list=Botswana
 add address=213.193.40.0/21 list=Botswana
 add address=213.193.61.0/24 list=Botswana
-add address=216.234.219.0/24 list=Botswana
 add address=216.234.219.0/24 list=Botswana

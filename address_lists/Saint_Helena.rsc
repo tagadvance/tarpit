@@ -2,7 +2,6 @@
 add address=5.62.63.89/32 list=Saint_Helena
 add address=5.62.63.90/31 list=Saint_Helena
 add address=104.28.13.16/31 list=Saint_Helena
-add address=104.28.13.16/31 list=Saint_Helena
 add address=104.28.13.18/32 list=Saint_Helena
 add address=136.23.1.141/32 list=Saint_Helena
 add address=136.23.21.41/32 list=Saint_Helena

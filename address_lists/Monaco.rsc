@@ -37,7 +37,6 @@ add address=98.159.226.208/28 list=Monaco
 add address=102.38.240.0/24 list=Monaco
 add address=104.28.11.195/32 list=Monaco
 add address=104.28.11.196/31 list=Monaco
-add address=104.28.11.196/31 list=Monaco
 add address=104.28.34.79/32 list=Monaco
 add address=104.28.34.80/32 list=Monaco
 add address=104.28.60.113/32 list=Monaco
@@ -45,19 +44,13 @@ add address=104.28.60.114/32 list=Monaco
 add address=104.28.96.73/32 list=Monaco
 add address=104.28.96.74/32 list=Monaco
 add address=104.28.98.70/31 list=Monaco
-add address=104.28.98.70/31 list=Monaco
-add address=104.28.135.68/31 list=Monaco
 add address=104.28.135.68/31 list=Monaco
 add address=104.28.222.165/32 list=Monaco
 add address=104.28.222.166/31 list=Monaco
-add address=104.28.222.166/31 list=Monaco
-add address=104.28.222.168/31 list=Monaco
 add address=104.28.222.168/31 list=Monaco
 add address=104.28.222.170/32 list=Monaco
 add address=104.28.254.165/32 list=Monaco
 add address=104.28.254.166/31 list=Monaco
-add address=104.28.254.166/31 list=Monaco
-add address=104.28.254.168/31 list=Monaco
 add address=104.28.254.168/31 list=Monaco
 add address=104.28.254.170/32 list=Monaco
 add address=109.172.8.0/24 list=Monaco

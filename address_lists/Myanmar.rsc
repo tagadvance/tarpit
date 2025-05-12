@@ -16,7 +16,6 @@ add address=38.52.124.0/22 list=Myanmar
 add address=38.83.17.0/24 list=Myanmar
 add address=38.83.18.0/23 list=Myanmar
 add address=38.158.204.0/22 list=Myanmar
-add address=38.158.204.0/22 list=Myanmar
 add address=38.225.238.0/23 list=Myanmar
 add address=42.156.32.0/22 list=Myanmar
 add address=43.224.40.0/22 list=Myanmar
@@ -230,7 +229,6 @@ add address=103.251.10.0/23 list=Myanmar
 add address=103.255.172.0/22 list=Myanmar
 add address=104.28.11.219/32 list=Myanmar
 add address=104.28.11.220/31 list=Myanmar
-add address=104.28.11.220/31 list=Myanmar
 add address=104.28.11.222/32 list=Myanmar
 add address=104.28.37.27/32 list=Myanmar
 add address=104.28.37.28/32 list=Myanmar
@@ -246,20 +244,14 @@ add address=104.28.120.15/32 list=Myanmar
 add address=104.28.120.16/32 list=Myanmar
 add address=104.28.148.183/32 list=Myanmar
 add address=104.28.148.184/31 list=Myanmar
-add address=104.28.148.184/31 list=Myanmar
 add address=104.28.156.183/32 list=Myanmar
-add address=104.28.156.184/31 list=Myanmar
 add address=104.28.156.184/31 list=Myanmar
 add address=104.28.219.149/32 list=Myanmar
 add address=104.28.219.150/31 list=Myanmar
-add address=104.28.219.150/31 list=Myanmar
-add address=104.28.219.152/30 list=Myanmar
 add address=104.28.219.152/30 list=Myanmar
 add address=104.28.219.156/32 list=Myanmar
 add address=104.28.251.149/32 list=Myanmar
 add address=104.28.251.150/31 list=Myanmar
-add address=104.28.251.150/31 list=Myanmar
-add address=104.28.251.152/30 list=Myanmar
 add address=104.28.251.152/30 list=Myanmar
 add address=104.28.251.156/32 list=Myanmar
 add address=116.206.136.0/22 list=Myanmar
@@ -271,14 +263,12 @@ add address=120.88.32.0/20 list=Myanmar
 add address=121.46.71.0/24 list=Myanmar
 add address=121.54.164.0/22 list=Myanmar
 add address=122.10.248.0/23 list=Myanmar
-add address=122.10.248.0/23 list=Myanmar
 add address=122.248.96.0/19 list=Myanmar
 add address=123.253.20.0/22 list=Myanmar
 add address=123.253.228.0/22 list=Myanmar
 add address=128.1.124.0/24 list=Myanmar
 add address=128.77.23.128/26 list=Myanmar
 add address=128.77.101.224/27 list=Myanmar
-add address=129.224.202.0/23 list=Myanmar
 add address=129.224.202.0/23 list=Myanmar
 add address=130.41.154.224/27 list=Myanmar
 add address=131.125.102.111/32 list=Myanmar
@@ -301,7 +291,6 @@ add address=140.248.60.145/32 list=Myanmar
 add address=140.248.61.145/32 list=Myanmar
 add address=140.248.62.145/32 list=Myanmar
 add address=140.248.63.145/32 list=Myanmar
-add address=143.105.55.0/24 list=Myanmar
 add address=143.105.55.0/24 list=Myanmar
 add address=144.125.16.96/27 list=Myanmar
 add address=146.75.160.80/31 list=Myanmar
@@ -351,7 +340,6 @@ add address=162.120.184.247/32 list=Myanmar
 add address=162.120.185.55/32 list=Myanmar
 add address=162.120.185.119/32 list=Myanmar
 add address=162.128.18.0/23 list=Myanmar
-add address=162.128.18.0/23 list=Myanmar
 add address=162.245.127.0/25 list=Myanmar
 add address=162.245.127.128/26 list=Myanmar
 add address=162.245.127.192/27 list=Myanmar
@@ -381,7 +369,6 @@ add address=182.255.52.0/22 list=Myanmar
 add address=185.112.134.14/32 list=Myanmar
 add address=185.133.212.0/22 list=Myanmar
 add address=185.205.140.0/22 list=Myanmar
-add address=188.240.216.0/23 list=Myanmar
 add address=188.240.216.0/23 list=Myanmar
 add address=192.109.41.72/29 list=Myanmar
 add address=192.169.116.0/24 list=Myanmar

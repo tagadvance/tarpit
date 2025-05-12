@@ -5,7 +5,6 @@ add address=5.62.62.85/32 list=Christmas_Island
 add address=5.62.62.86/31 list=Christmas_Island
 add address=45.138.10.24/30 list=Christmas_Island
 add address=104.28.9.66/31 list=Christmas_Island
-add address=104.28.9.66/31 list=Christmas_Island
 add address=104.28.9.68/32 list=Christmas_Island
 add address=136.23.3.228/32 list=Christmas_Island
 add address=136.23.11.196/32 list=Christmas_Island

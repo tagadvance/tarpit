@@ -342,15 +342,10 @@ add address=102.222.25.0/24 list=Mauritius
 add address=102.222.104.0/22 list=Mauritius
 add address=102.223.206.0/23 list=Mauritius
 add address=104.28.11.244/31 list=Mauritius
-add address=104.28.11.244/31 list=Mauritius
 add address=104.28.11.246/32 list=Mauritius
 add address=104.28.38.54/31 list=Mauritius
-add address=104.28.38.54/31 list=Mauritius
-add address=104.28.44.156/31 list=Mauritius
 add address=104.28.44.156/31 list=Mauritius
 add address=104.28.46.54/31 list=Mauritius
-add address=104.28.46.54/31 list=Mauritius
-add address=104.28.82.62/31 list=Mauritius
 add address=104.28.82.62/31 list=Mauritius
 add address=104.28.146.148/32 list=Mauritius
 add address=104.28.150.114/32 list=Mauritius
@@ -358,9 +353,7 @@ add address=104.28.154.148/32 list=Mauritius
 add address=104.28.158.114/32 list=Mauritius
 add address=104.28.218.119/32 list=Mauritius
 add address=104.28.218.120/30 list=Mauritius
-add address=104.28.218.120/30 list=Mauritius
 add address=104.28.250.119/32 list=Mauritius
-add address=104.28.250.120/30 list=Mauritius
 add address=104.28.250.120/30 list=Mauritius
 add address=105.16.0.0/20 list=Mauritius
 add address=105.16.20.0/23 list=Mauritius

@@ -11,13 +11,10 @@ add address=92.142.208.0/20 list=Mayotte
 add address=94.124.154.0/24 list=Mayotte
 add address=94.124.159.0/24 list=Mayotte
 add address=98.97.181.0/24 list=Mayotte
-add address=98.97.181.0/24 list=Mayotte
 add address=102.135.226.0/23 list=Mayotte
 add address=102.135.229.0/24 list=Mayotte
 add address=104.28.15.100/31 list=Mayotte
-add address=104.28.15.100/31 list=Mayotte
 add address=104.28.15.102/32 list=Mayotte
-add address=104.28.37.48/31 list=Mayotte
 add address=104.28.37.48/31 list=Mayotte
 add address=104.28.46.15/32 list=Mayotte
 add address=104.28.46.16/32 list=Mayotte
@@ -27,13 +24,9 @@ add address=104.28.82.19/32 list=Mayotte
 add address=104.28.82.20/32 list=Mayotte
 add address=104.28.199.165/32 list=Mayotte
 add address=104.28.199.166/31 list=Mayotte
-add address=104.28.199.166/31 list=Mayotte
-add address=104.28.199.168/31 list=Mayotte
 add address=104.28.199.168/31 list=Mayotte
 add address=104.28.231.165/32 list=Mayotte
 add address=104.28.231.166/31 list=Mayotte
-add address=104.28.231.166/31 list=Mayotte
-add address=104.28.231.168/31 list=Mayotte
 add address=104.28.231.168/31 list=Mayotte
 add address=109.122.176.0/20 list=Mayotte
 add address=139.26.0.0/18 list=Mayotte
@@ -47,7 +40,6 @@ add address=140.248.60.245/32 list=Mayotte
 add address=140.248.61.245/32 list=Mayotte
 add address=140.248.62.245/32 list=Mayotte
 add address=140.248.63.245/32 list=Mayotte
-add address=143.105.5.0/24 list=Mayotte
 add address=143.105.5.0/24 list=Mayotte
 add address=146.75.166.144/31 list=Mayotte
 add address=146.75.168.182/31 list=Mayotte
@@ -75,6 +67,5 @@ add address=193.253.110.0/23 list=Mayotte
 add address=193.253.126.0/23 list=Mayotte
 add address=194.3.192.0/19 list=Mayotte
 add address=194.50.99.247/32 list=Mayotte
-add address=212.105.137.0/24 list=Mayotte
 add address=212.105.137.0/24 list=Mayotte
 add address=213.55.56.0/21 list=Mayotte

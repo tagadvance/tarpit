@@ -16,7 +16,6 @@ add address=103.254.224.0/22 list=French_Polynesia
 add address=103.254.232.0/22 list=French_Polynesia
 add address=104.28.12.101/32 list=French_Polynesia
 add address=104.28.12.102/31 list=French_Polynesia
-add address=104.28.12.102/31 list=French_Polynesia
 add address=104.28.29.47/32 list=French_Polynesia
 add address=104.28.29.48/32 list=French_Polynesia
 add address=104.28.35.50/31 list=French_Polynesia
@@ -33,13 +32,11 @@ add address=104.28.200.178/31 list=French_Polynesia
 add address=104.28.200.180/30 list=French_Polynesia
 add address=104.28.200.184/32 list=French_Polynesia
 add address=104.28.202.202/31 list=French_Polynesia
-add address=104.28.202.202/31 list=French_Polynesia
 add address=104.28.220.254/32 list=French_Polynesia
 add address=104.28.221.1/32 list=French_Polynesia
 add address=104.28.232.178/31 list=French_Polynesia
 add address=104.28.232.180/30 list=French_Polynesia
 add address=104.28.232.184/32 list=French_Polynesia
-add address=104.28.234.202/31 list=French_Polynesia
 add address=104.28.234.202/31 list=French_Polynesia
 add address=104.28.252.254/32 list=French_Polynesia
 add address=104.28.253.1/32 list=French_Polynesia

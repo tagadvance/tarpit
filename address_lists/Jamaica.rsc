@@ -27,7 +27,6 @@ add address=64.64.117.64/27 list=Jamaica
 add address=64.112.16.0/22 list=Jamaica
 add address=65.183.0.0/20 list=Jamaica
 add address=66.9.166.0/23 list=Jamaica
-add address=66.9.166.0/23 list=Jamaica
 add address=66.54.112.0/21 list=Jamaica
 add address=66.54.126.0/23 list=Jamaica
 add address=66.71.196.0/23 list=Jamaica
@@ -69,10 +68,7 @@ add address=98.159.232.72/29 list=Jamaica
 add address=98.159.232.80/28 list=Jamaica
 add address=104.28.11.53/32 list=Jamaica
 add address=104.28.11.54/31 list=Jamaica
-add address=104.28.11.54/31 list=Jamaica
 add address=104.28.32.74/31 list=Jamaica
-add address=104.28.32.74/31 list=Jamaica
-add address=104.28.36.104/31 list=Jamaica
 add address=104.28.36.104/31 list=Jamaica
 add address=104.28.76.53/32 list=Jamaica
 add address=104.28.76.54/32 list=Jamaica
@@ -90,15 +86,11 @@ add address=104.28.210.253/32 list=Jamaica
 add address=104.28.210.254/32 list=Jamaica
 add address=104.28.211.1/32 list=Jamaica
 add address=104.28.211.2/31 list=Jamaica
-add address=104.28.211.2/31 list=Jamaica
-add address=104.28.211.4/31 list=Jamaica
 add address=104.28.211.4/31 list=Jamaica
 add address=104.28.242.253/32 list=Jamaica
 add address=104.28.242.254/32 list=Jamaica
 add address=104.28.243.1/32 list=Jamaica
 add address=104.28.243.2/31 list=Jamaica
-add address=104.28.243.2/31 list=Jamaica
-add address=104.28.243.4/31 list=Jamaica
 add address=104.28.243.4/31 list=Jamaica
 add address=104.30.161.84/32 list=Jamaica
 add address=104.152.236.0/22 list=Jamaica
@@ -119,7 +111,6 @@ add address=140.248.61.111/32 list=Jamaica
 add address=140.248.62.111/32 list=Jamaica
 add address=140.248.63.111/32 list=Jamaica
 add address=142.0.224.0/20 list=Jamaica
-add address=143.105.43.0/24 list=Jamaica
 add address=143.105.43.0/24 list=Jamaica
 add address=146.75.232.22/31 list=Jamaica
 add address=146.75.232.24/31 list=Jamaica

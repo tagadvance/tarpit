@@ -43,10 +43,7 @@ add address=103.197.164.0/22 list=Maldives
 add address=103.248.112.0/22 list=Maldives
 add address=104.28.11.247/32 list=Maldives
 add address=104.28.11.248/31 list=Maldives
-add address=104.28.11.248/31 list=Maldives
 add address=104.28.38.52/31 list=Maldives
-add address=104.28.38.52/31 list=Maldives
-add address=104.28.44.154/31 list=Maldives
 add address=104.28.44.154/31 list=Maldives
 add address=104.28.68.87/32 list=Maldives
 add address=104.28.68.88/32 list=Maldives
@@ -61,16 +58,10 @@ add address=104.28.150.68/32 list=Maldives
 add address=104.28.155.6/32 list=Maldives
 add address=104.28.158.68/32 list=Maldives
 add address=104.28.211.210/31 list=Maldives
-add address=104.28.211.210/31 list=Maldives
-add address=104.28.211.212/30 list=Maldives
 add address=104.28.211.212/30 list=Maldives
 add address=104.28.211.216/31 list=Maldives
-add address=104.28.211.216/31 list=Maldives
-add address=104.28.243.210/31 list=Maldives
 add address=104.28.243.210/31 list=Maldives
 add address=104.28.243.212/30 list=Maldives
-add address=104.28.243.212/30 list=Maldives
-add address=104.28.243.216/31 list=Maldives
 add address=104.28.243.216/31 list=Maldives
 add address=115.84.128.0/19 list=Maldives
 add address=123.176.0.0/19 list=Maldives
@@ -136,7 +127,6 @@ add address=196.199.128.0/24 list=Maldives
 add address=202.1.192.0/20 list=Maldives
 add address=202.21.176.0/20 list=Maldives
 add address=202.153.80.0/21 list=Maldives
-add address=203.17.86.0/24 list=Maldives
 add address=203.17.86.0/24 list=Maldives
 add address=203.82.2.0/23 list=Maldives
 add address=203.104.24.0/21 list=Maldives

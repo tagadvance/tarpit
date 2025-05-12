@@ -7,7 +7,6 @@ add address=2.132.0.0/14 list=Kazakhstan
 add address=5.23.24.0/28 list=Kazakhstan
 add address=5.34.0.0/17 list=Kazakhstan
 add address=5.35.80.0/23 list=Kazakhstan
-add address=5.35.80.0/23 list=Kazakhstan
 add address=5.35.104.0/21 list=Kazakhstan
 add address=5.42.222.0/24 list=Kazakhstan
 add address=5.45.213.0/24 list=Kazakhstan
@@ -77,7 +76,6 @@ add address=37.228.64.0/21 list=Kazakhstan
 add address=37.230.251.0/24 list=Kazakhstan
 add address=37.233.81.0/24 list=Kazakhstan
 add address=38.107.234.0/23 list=Kazakhstan
-add address=38.107.238.0/23 list=Kazakhstan
 add address=38.107.238.0/23 list=Kazakhstan
 add address=38.179.0.0/24 list=Kazakhstan
 add address=38.180.36.0/22 list=Kazakhstan
@@ -282,9 +280,7 @@ add address=86.54.107.0/24 list=Kazakhstan
 add address=86.54.184.0/24 list=Kazakhstan
 add address=86.104.73.0/24 list=Kazakhstan
 add address=86.107.44.0/23 list=Kazakhstan
-add address=86.107.44.0/23 list=Kazakhstan
 add address=86.107.128.0/20 list=Kazakhstan
-add address=86.107.198.0/23 list=Kazakhstan
 add address=86.107.198.0/23 list=Kazakhstan
 add address=87.76.32.0/19 list=Kazakhstan
 add address=87.236.150.0/24 list=Kazakhstan
@@ -301,13 +297,11 @@ add address=88.151.118.0/24 list=Kazakhstan
 add address=88.151.176.0/21 list=Kazakhstan
 add address=88.204.128.0/17 list=Kazakhstan
 add address=88.218.68.0/22 list=Kazakhstan
-add address=88.218.68.0/22 list=Kazakhstan
 add address=89.20.48.0/24 list=Kazakhstan
 add address=89.28.128.0/21 list=Kazakhstan
 add address=89.33.41.0/24 list=Kazakhstan
 add address=89.33.112.0/22 list=Kazakhstan
 add address=89.33.208.0/20 list=Kazakhstan
-add address=89.35.124.0/23 list=Kazakhstan
 add address=89.35.124.0/23 list=Kazakhstan
 add address=89.35.252.0/22 list=Kazakhstan
 add address=89.36.164.0/22 list=Kazakhstan
@@ -329,7 +323,6 @@ add address=89.46.34.0/24 list=Kazakhstan
 add address=89.106.232.0/21 list=Kazakhstan
 add address=89.107.96.0/21 list=Kazakhstan
 add address=89.169.36.0/23 list=Kazakhstan
-add address=89.169.36.0/23 list=Kazakhstan
 add address=89.184.16.0/24 list=Kazakhstan
 add address=89.207.248.0/21 list=Kazakhstan
 add address=89.208.123.0/24 list=Kazakhstan
@@ -348,7 +341,6 @@ add address=90.156.147.0/24 list=Kazakhstan
 add address=90.156.222.0/23 list=Kazakhstan
 add address=90.156.230.0/24 list=Kazakhstan
 add address=90.156.248.0/22 list=Kazakhstan
-add address=90.156.252.0/23 list=Kazakhstan
 add address=90.156.252.0/23 list=Kazakhstan
 add address=91.90.208.0/24 list=Kazakhstan
 add address=91.103.104.0/22 list=Kazakhstan
@@ -410,7 +402,6 @@ add address=91.216.178.0/24 list=Kazakhstan
 add address=91.216.189.0/24 list=Kazakhstan
 add address=91.217.10.0/23 list=Kazakhstan
 add address=91.218.140.0/23 list=Kazakhstan
-add address=91.218.140.0/23 list=Kazakhstan
 add address=91.218.180.0/23 list=Kazakhstan
 add address=91.222.88.0/22 list=Kazakhstan
 add address=91.224.74.0/23 list=Kazakhstan
@@ -450,7 +441,6 @@ add address=93.159.220.0/24 list=Kazakhstan
 add address=93.159.222.0/24 list=Kazakhstan
 add address=93.170.36.0/22 list=Kazakhstan
 add address=93.170.72.0/23 list=Kazakhstan
-add address=93.170.212.0/22 list=Kazakhstan
 add address=93.170.212.0/22 list=Kazakhstan
 add address=93.171.0.0/23 list=Kazakhstan
 add address=93.171.64.0/21 list=Kazakhstan
@@ -493,7 +483,6 @@ add address=95.46.137.64/26 list=Kazakhstan
 add address=95.46.137.128/25 list=Kazakhstan
 add address=95.46.138.0/23 list=Kazakhstan
 add address=95.46.224.0/20 list=Kazakhstan
-add address=95.47.32.0/22 list=Kazakhstan
 add address=95.47.32.0/22 list=Kazakhstan
 add address=95.47.58.0/24 list=Kazakhstan
 add address=95.47.108.0/23 list=Kazakhstan
@@ -538,9 +527,7 @@ add address=98.159.232.65/32 list=Kazakhstan
 add address=103.106.3.0/24 list=Kazakhstan
 add address=103.111.62.0/24 list=Kazakhstan
 add address=103.116.196.0/22 list=Kazakhstan
-add address=103.116.196.0/22 list=Kazakhstan
 add address=103.241.108.0/22 list=Kazakhstan
-add address=104.28.11.156/31 list=Kazakhstan
 add address=104.28.11.156/31 list=Kazakhstan
 add address=104.28.11.158/32 list=Kazakhstan
 add address=104.28.31.25/32 list=Kazakhstan
@@ -679,7 +666,6 @@ add address=140.248.63.124/32 list=Kazakhstan
 add address=141.8.147.176/29 list=Kazakhstan
 add address=141.197.18.0/23 list=Kazakhstan
 add address=143.105.166.0/23 list=Kazakhstan
-add address=143.105.166.0/23 list=Kazakhstan
 add address=144.209.82.0/24 list=Kazakhstan
 add address=145.249.120.0/21 list=Kazakhstan
 add address=145.249.192.0/18 list=Kazakhstan
@@ -728,11 +714,9 @@ add address=151.236.192.0/21 list=Kazakhstan
 add address=151.237.144.0/20 list=Kazakhstan
 add address=154.6.187.0/24 list=Kazakhstan
 add address=154.205.230.0/23 list=Kazakhstan
-add address=154.205.230.0/23 list=Kazakhstan
 add address=154.205.232.0/23 list=Kazakhstan
 add address=154.205.232.0/22 list=Kazakhstan
 add address=154.205.234.0/23 list=Kazakhstan
-add address=154.205.236.0/23 list=Kazakhstan
 add address=154.205.236.0/23 list=Kazakhstan
 add address=154.217.49.0/24 list=Kazakhstan
 add address=155.2.162.200/29 list=Kazakhstan
@@ -743,7 +727,6 @@ add address=155.254.193.0/24 list=Kazakhstan
 add address=156.109.248.0/29 list=Kazakhstan
 add address=156.109.248.184/29 list=Kazakhstan
 add address=156.241.20.0/24 list=Kazakhstan
-add address=156.253.236.0/23 list=Kazakhstan
 add address=156.253.236.0/23 list=Kazakhstan
 add address=157.5.102.18/31 list=Kazakhstan
 add address=157.5.102.20/30 list=Kazakhstan
@@ -844,7 +827,6 @@ add address=185.0.22.0/24 list=Kazakhstan
 add address=185.2.224.0/22 list=Kazakhstan
 add address=185.4.180.0/22 list=Kazakhstan
 add address=185.5.206.0/23 list=Kazakhstan
-add address=185.5.206.0/23 list=Kazakhstan
 add address=185.8.232.0/22 list=Kazakhstan
 add address=185.9.120.0/24 list=Kazakhstan
 add address=185.9.122.0/23 list=Kazakhstan
@@ -900,16 +882,13 @@ add address=185.103.184.0/22 list=Kazakhstan
 add address=185.106.156.0/22 list=Kazakhstan
 add address=185.107.172.0/22 list=Kazakhstan
 add address=185.111.104.0/22 list=Kazakhstan
-add address=185.111.104.0/22 list=Kazakhstan
 add address=185.112.132.68/32 list=Kazakhstan
 add address=185.113.36.0/22 list=Kazakhstan
 add address=185.113.132.0/22 list=Kazakhstan
 add address=185.113.134.0/23 list=Kazakhstan
 add address=185.116.140.0/22 list=Kazakhstan
 add address=185.116.192.0/22 list=Kazakhstan
-add address=185.116.192.0/22 list=Kazakhstan
 add address=185.120.76.0/22 list=Kazakhstan
-add address=185.121.80.0/22 list=Kazakhstan
 add address=185.121.80.0/22 list=Kazakhstan
 add address=185.122.32.0/22 list=Kazakhstan
 add address=185.123.16.0/22 list=Kazakhstan
@@ -991,7 +970,6 @@ add address=188.130.238.0/24 list=Kazakhstan
 add address=188.130.246.0/24 list=Kazakhstan
 add address=188.225.31.0/24 list=Kazakhstan
 add address=188.241.216.0/23 list=Kazakhstan
-add address=188.241.216.0/23 list=Kazakhstan
 add address=188.244.115.0/24 list=Kazakhstan
 add address=188.246.236.0/22 list=Kazakhstan
 add address=188.246.240.0/20 list=Kazakhstan
@@ -1036,7 +1014,6 @@ add address=194.0.124.0/22 list=Kazakhstan
 add address=194.0.188.0/23 list=Kazakhstan
 add address=194.0.244.0/23 list=Kazakhstan
 add address=194.4.56.0/22 list=Kazakhstan
-add address=194.4.56.0/22 list=Kazakhstan
 add address=194.9.30.0/23 list=Kazakhstan
 add address=194.26.205.0/24 list=Kazakhstan
 add address=194.26.220.0/24 list=Kazakhstan
@@ -1063,7 +1040,6 @@ add address=194.105.104.0/21 list=Kazakhstan
 add address=194.110.54.0/23 list=Kazakhstan
 add address=194.116.140.0/24 list=Kazakhstan
 add address=194.135.25.0/24 list=Kazakhstan
-add address=194.146.40.0/22 list=Kazakhstan
 add address=194.146.40.0/22 list=Kazakhstan
 add address=194.164.115.0/24 list=Kazakhstan
 add address=194.165.63.0/24 list=Kazakhstan
@@ -1148,13 +1124,9 @@ add address=213.134.30.0/24 list=Kazakhstan
 add address=213.141.160.0/19 list=Kazakhstan
 add address=213.148.1.0/24 list=Kazakhstan
 add address=213.148.2.0/23 list=Kazakhstan
-add address=213.148.2.0/23 list=Kazakhstan
 add address=213.148.4.0/22 list=Kazakhstan
-add address=213.148.4.0/22 list=Kazakhstan
-add address=213.148.8.0/21 list=Kazakhstan
 add address=213.148.8.0/21 list=Kazakhstan
 add address=213.148.19.0/24 list=Kazakhstan
-add address=213.148.24.0/22 list=Kazakhstan
 add address=213.148.24.0/22 list=Kazakhstan
 add address=213.156.137.0/24 list=Kazakhstan
 add address=213.156.158.0/24 list=Kazakhstan

@@ -10,11 +10,9 @@ add address=84.254.160.0/24 list=GuineaBissau
 add address=95.210.6.0/24 list=GuineaBissau
 add address=102.219.174.0/23 list=GuineaBissau
 add address=104.28.10.110/31 list=GuineaBissau
-add address=104.28.10.110/31 list=GuineaBissau
 add address=104.28.10.112/32 list=GuineaBissau
 add address=104.28.34.145/32 list=GuineaBissau
 add address=104.28.34.146/32 list=GuineaBissau
-add address=104.28.61.94/31 list=GuineaBissau
 add address=104.28.61.94/31 list=GuineaBissau
 add address=104.28.87.89/32 list=GuineaBissau
 add address=104.28.87.90/32 list=GuineaBissau
@@ -23,12 +21,8 @@ add address=104.28.88.108/32 list=GuineaBissau
 add address=104.28.96.133/32 list=GuineaBissau
 add address=104.28.96.134/32 list=GuineaBissau
 add address=104.28.214.190/31 list=GuineaBissau
-add address=104.28.214.190/31 list=GuineaBissau
-add address=104.28.214.192/30 list=GuineaBissau
 add address=104.28.214.192/30 list=GuineaBissau
 add address=104.28.246.190/31 list=GuineaBissau
-add address=104.28.246.190/31 list=GuineaBissau
-add address=104.28.246.192/30 list=GuineaBissau
 add address=104.28.246.192/30 list=GuineaBissau
 add address=136.23.0.157/32 list=GuineaBissau
 add address=136.23.5.163/32 list=GuineaBissau

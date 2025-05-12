@@ -7,7 +7,6 @@ add address=24.152.40.0/22 list=Paraguay
 add address=34.100.32.0/22 list=Paraguay
 add address=34.100.60.0/23 list=Paraguay
 add address=37.230.56.0/22 list=Paraguay
-add address=37.230.56.0/22 list=Paraguay
 add address=38.52.132.0/22 list=Paraguay
 add address=38.134.188.0/24 list=Paraguay
 add address=38.165.233.0/24 list=Paraguay
@@ -30,8 +29,6 @@ add address=45.162.180.0/22 list=Paraguay
 add address=45.163.188.0/22 list=Paraguay
 add address=45.165.52.0/23 list=Paraguay
 add address=45.169.112.0/22 list=Paraguay
-add address=45.169.112.0/22 list=Paraguay
-add address=45.170.104.0/22 list=Paraguay
 add address=45.170.104.0/22 list=Paraguay
 add address=45.170.128.0/22 list=Paraguay
 add address=45.172.228.0/22 list=Paraguay
@@ -60,7 +57,6 @@ add address=45.190.92.0/22 list=Paraguay
 add address=45.190.188.0/22 list=Paraguay
 add address=45.191.88.0/22 list=Paraguay
 add address=45.226.180.0/22 list=Paraguay
-add address=45.226.180.0/22 list=Paraguay
 add address=45.226.182.0/24 list=Paraguay
 add address=45.228.60.0/22 list=Paraguay
 add address=45.228.136.0/22 list=Paraguay
@@ -76,10 +72,8 @@ add address=45.235.123.48/28 list=Paraguay
 add address=45.235.123.64/26 list=Paraguay
 add address=45.235.123.128/25 list=Paraguay
 add address=45.236.244.0/22 list=Paraguay
-add address=45.236.244.0/22 list=Paraguay
 add address=45.237.44.0/22 list=Paraguay
 add address=45.238.36.0/22 list=Paraguay
-add address=45.239.44.0/22 list=Paraguay
 add address=45.239.44.0/22 list=Paraguay
 add address=57.74.216.0/22 list=Paraguay
 add address=57.75.64.0/20 list=Paraguay
@@ -91,10 +85,7 @@ add address=98.97.55.0/24 list=Paraguay
 add address=103.173.126.0/24 list=Paraguay
 add address=104.28.12.151/32 list=Paraguay
 add address=104.28.12.152/31 list=Paraguay
-add address=104.28.12.152/31 list=Paraguay
 add address=104.28.47.214/31 list=Paraguay
-add address=104.28.47.214/31 list=Paraguay
-add address=104.28.47.216/31 list=Paraguay
 add address=104.28.47.216/31 list=Paraguay
 add address=104.28.59.140/31 list=Paraguay
 add address=104.28.59.140/30 list=Paraguay
@@ -111,22 +102,14 @@ add address=104.28.152.21/32 list=Paraguay
 add address=104.28.152.22/32 list=Paraguay
 add address=104.28.205.63/32 list=Paraguay
 add address=104.28.205.64/30 list=Paraguay
-add address=104.28.205.64/30 list=Paraguay
-add address=104.28.205.68/31 list=Paraguay
 add address=104.28.205.68/31 list=Paraguay
 add address=104.28.213.96/30 list=Paraguay
-add address=104.28.213.96/30 list=Paraguay
-add address=104.28.213.100/31 list=Paraguay
 add address=104.28.213.100/31 list=Paraguay
 add address=104.28.213.102/32 list=Paraguay
 add address=104.28.237.63/32 list=Paraguay
 add address=104.28.237.64/30 list=Paraguay
-add address=104.28.237.64/30 list=Paraguay
-add address=104.28.237.68/31 list=Paraguay
 add address=104.28.237.68/31 list=Paraguay
 add address=104.28.245.96/30 list=Paraguay
-add address=104.28.245.96/30 list=Paraguay
-add address=104.28.245.100/31 list=Paraguay
 add address=104.28.245.100/31 list=Paraguay
 add address=104.28.245.102/32 list=Paraguay
 add address=128.77.63.192/26 list=Paraguay
@@ -135,7 +118,6 @@ add address=130.41.11.0/26 list=Paraguay
 add address=130.41.69.0/27 list=Paraguay
 add address=130.41.189.224/27 list=Paraguay
 add address=130.41.213.192/27 list=Paraguay
-add address=131.72.24.0/22 list=Paraguay
 add address=131.72.24.0/22 list=Paraguay
 add address=131.100.184.0/22 list=Paraguay
 add address=131.108.192.0/22 list=Paraguay
@@ -197,7 +179,6 @@ add address=134.238.231.224/27 list=Paraguay
 add address=136.227.141.32/30 list=Paraguay
 add address=136.227.141.36/31 list=Paraguay
 add address=138.59.164.0/22 list=Paraguay
-add address=138.59.164.0/22 list=Paraguay
 add address=138.59.224.0/22 list=Paraguay
 add address=138.99.100.0/22 list=Paraguay
 add address=138.122.160.0/22 list=Paraguay
@@ -214,7 +195,6 @@ add address=140.248.61.185/32 list=Paraguay
 add address=140.248.62.185/32 list=Paraguay
 add address=140.248.63.185/32 list=Paraguay
 add address=143.105.108.0/23 list=Paraguay
-add address=143.105.108.0/23 list=Paraguay
 add address=143.202.208.0/22 list=Paraguay
 add address=143.255.140.0/22 list=Paraguay
 add address=144.125.31.64/27 list=Paraguay
@@ -222,7 +202,6 @@ add address=146.75.179.14/31 list=Paraguay
 add address=146.75.179.16/31 list=Paraguay
 add address=146.75.191.14/31 list=Paraguay
 add address=146.75.191.16/31 list=Paraguay
-add address=148.222.128.0/23 list=Paraguay
 add address=148.222.128.0/23 list=Paraguay
 add address=149.126.9.152/29 list=Paraguay
 add address=150.195.192.0/28 list=Paraguay
@@ -331,7 +310,6 @@ add address=167.250.236.0/23 list=Paraguay
 add address=168.90.176.0/22 list=Paraguay
 add address=168.194.240.0/22 list=Paraguay
 add address=168.195.224.0/22 list=Paraguay
-add address=168.195.224.0/22 list=Paraguay
 add address=170.51.0.0/19 list=Paraguay
 add address=170.51.32.0/20 list=Paraguay
 add address=170.51.48.0/21 list=Paraguay
@@ -349,7 +327,6 @@ add address=170.51.57.104/29 list=Paraguay
 add address=170.51.57.112/28 list=Paraguay
 add address=170.51.57.128/25 list=Paraguay
 add address=170.51.58.0/23 list=Paraguay
-add address=170.51.60.0/23 list=Paraguay
 add address=170.51.60.0/23 list=Paraguay
 add address=170.51.64.0/21 list=Paraguay
 add address=170.51.74.0/23 list=Paraguay
@@ -380,7 +357,6 @@ add address=179.63.8.0/23 list=Paraguay
 add address=179.109.100.0/22 list=Paraguay
 add address=179.189.218.0/23 list=Paraguay
 add address=181.1.152.0/22 list=Paraguay
-add address=181.1.152.0/22 list=Paraguay
 add address=181.40.0.0/16 list=Paraguay
 add address=181.41.199.0/24 list=Paraguay
 add address=181.78.27.0/24 list=Paraguay
@@ -388,12 +364,10 @@ add address=181.78.40.0/23 list=Paraguay
 add address=181.78.94.0/23 list=Paraguay
 add address=181.78.216.0/23 list=Paraguay
 add address=181.85.208.0/21 list=Paraguay
-add address=181.85.208.0/21 list=Paraguay
 add address=181.91.84.0/22 list=Paraguay
 add address=181.94.196.0/22 list=Paraguay
 add address=181.94.208.0/20 list=Paraguay
 add address=181.94.224.0/21 list=Paraguay
-add address=181.94.232.0/22 list=Paraguay
 add address=181.94.232.0/22 list=Paraguay
 add address=181.94.236.0/23 list=Paraguay
 add address=181.94.238.0/24 list=Paraguay
@@ -439,7 +413,6 @@ add address=186.122.248.0/21 list=Paraguay
 add address=186.123.0.0/20 list=Paraguay
 add address=186.123.16.0/21 list=Paraguay
 add address=186.123.64.0/20 list=Paraguay
-add address=186.123.64.0/20 list=Paraguay
 add address=186.123.112.0/20 list=Paraguay
 add address=186.123.135.0/24 list=Paraguay
 add address=186.158.152.0/21 list=Paraguay
@@ -455,7 +428,6 @@ add address=186.182.80.0/22 list=Paraguay
 add address=186.182.82.0/23 list=Paraguay
 add address=186.182.104.0/23 list=Paraguay
 add address=186.182.233.0/24 list=Paraguay
-add address=186.182.244.0/23 list=Paraguay
 add address=186.182.244.0/23 list=Paraguay
 add address=190.2.192.0/20 list=Paraguay
 add address=190.23.0.0/16 list=Paraguay

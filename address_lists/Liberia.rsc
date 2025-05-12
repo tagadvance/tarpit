@@ -17,11 +17,9 @@ add address=102.210.76.0/22 list=Liberia
 add address=102.214.136.0/22 list=Liberia
 add address=102.215.52.0/22 list=Liberia
 add address=104.28.11.174/31 list=Liberia
-add address=104.28.11.174/31 list=Liberia
 add address=104.28.11.176/32 list=Liberia
 add address=104.28.34.69/32 list=Liberia
 add address=104.28.34.70/32 list=Liberia
-add address=104.28.61.88/31 list=Liberia
 add address=104.28.61.88/31 list=Liberia
 add address=104.28.87.21/32 list=Liberia
 add address=104.28.87.22/32 list=Liberia
@@ -34,14 +32,10 @@ add address=104.28.154.41/32 list=Liberia
 add address=104.28.200.254/32 list=Liberia
 add address=104.28.201.1/32 list=Liberia
 add address=104.28.201.2/31 list=Liberia
-add address=104.28.201.2/31 list=Liberia
-add address=104.28.201.4/31 list=Liberia
 add address=104.28.201.4/31 list=Liberia
 add address=104.28.232.254/32 list=Liberia
 add address=104.28.233.1/32 list=Liberia
 add address=104.28.233.2/31 list=Liberia
-add address=104.28.233.2/31 list=Liberia
-add address=104.28.233.4/31 list=Liberia
 add address=104.28.233.4/31 list=Liberia
 add address=105.176.167.0/24 list=Liberia
 add address=105.176.234.0/24 list=Liberia
@@ -57,7 +51,6 @@ add address=140.248.60.130/32 list=Liberia
 add address=140.248.61.130/32 list=Liberia
 add address=140.248.62.130/32 list=Liberia
 add address=140.248.63.130/32 list=Liberia
-add address=143.105.144.0/23 list=Liberia
 add address=143.105.144.0/23 list=Liberia
 add address=146.75.166.102/31 list=Liberia
 add address=146.75.174.126/31 list=Liberia

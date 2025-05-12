@@ -2,7 +2,6 @@
 add address=5.62.63.133/32 list=Sri_Lanka
 add address=5.62.63.134/31 list=Sri_Lanka
 add address=14.1.78.0/23 list=Sri_Lanka
-add address=14.1.78.0/23 list=Sri_Lanka
 add address=14.140.56.0/21 list=Sri_Lanka
 add address=23.209.80.0/23 list=Sri_Lanka
 add address=43.224.124.0/22 list=Sri_Lanka
@@ -58,7 +57,6 @@ add address=103.241.27.0/24 list=Sri_Lanka
 add address=103.247.48.0/22 list=Sri_Lanka
 add address=104.28.11.171/32 list=Sri_Lanka
 add address=104.28.11.172/31 list=Sri_Lanka
-add address=104.28.11.172/31 list=Sri_Lanka
 add address=104.28.37.42/31 list=Sri_Lanka
 add address=104.28.43.34/31 list=Sri_Lanka
 add address=104.28.66.28/31 list=Sri_Lanka
@@ -67,9 +65,7 @@ add address=104.28.117.30/31 list=Sri_Lanka
 add address=104.28.120.30/31 list=Sri_Lanka
 add address=104.28.147.7/32 list=Sri_Lanka
 add address=104.28.147.8/31 list=Sri_Lanka
-add address=104.28.147.8/31 list=Sri_Lanka
 add address=104.28.155.7/32 list=Sri_Lanka
-add address=104.28.155.8/31 list=Sri_Lanka
 add address=104.28.155.8/31 list=Sri_Lanka
 add address=104.28.210.96/29 list=Sri_Lanka
 add address=104.28.242.96/29 list=Sri_Lanka

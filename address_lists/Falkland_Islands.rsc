@@ -13,14 +13,11 @@ add address=80.73.218.0/24 list=Falkland_Islands
 add address=83.170.174.0/24 list=Falkland_Islands
 add address=104.28.9.197/32 list=Falkland_Islands
 add address=104.28.9.198/31 list=Falkland_Islands
-add address=104.28.9.198/31 list=Falkland_Islands
 add address=104.28.40.87/32 list=Falkland_Islands
 add address=104.28.40.88/32 list=Falkland_Islands
 add address=104.28.92.132/32 list=Falkland_Islands
 add address=104.28.214.152/31 list=Falkland_Islands
-add address=104.28.214.152/31 list=Falkland_Islands
 add address=104.28.214.154/32 list=Falkland_Islands
-add address=104.28.246.152/31 list=Falkland_Islands
 add address=104.28.246.152/31 list=Falkland_Islands
 add address=104.28.246.154/32 list=Falkland_Islands
 add address=136.23.0.155/32 list=Falkland_Islands

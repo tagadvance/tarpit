@@ -20,10 +20,8 @@ add address=102.216.216.0/22 list=Mauritania
 add address=102.219.207.0/24 list=Mauritania
 add address=104.28.11.235/32 list=Mauritania
 add address=104.28.11.236/31 list=Mauritania
-add address=104.28.11.236/31 list=Mauritania
 add address=104.28.34.77/32 list=Mauritania
 add address=104.28.34.78/32 list=Mauritania
-add address=104.28.61.90/31 list=Mauritania
 add address=104.28.61.90/31 list=Mauritania
 add address=104.28.87.25/32 list=Mauritania
 add address=104.28.87.26/32 list=Mauritania
@@ -33,10 +31,8 @@ add address=104.28.96.71/32 list=Mauritania
 add address=104.28.96.72/32 list=Mauritania
 add address=104.28.199.27/32 list=Mauritania
 add address=104.28.199.28/30 list=Mauritania
-add address=104.28.199.28/30 list=Mauritania
 add address=104.28.199.32/32 list=Mauritania
 add address=104.28.231.27/32 list=Mauritania
-add address=104.28.231.28/30 list=Mauritania
 add address=104.28.231.28/30 list=Mauritania
 add address=104.28.231.32/32 list=Mauritania
 add address=104.167.245.0/24 list=Mauritania

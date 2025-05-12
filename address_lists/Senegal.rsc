@@ -23,11 +23,9 @@ add address=102.209.164.0/22 list=Senegal
 add address=102.209.208.0/22 list=Senegal
 add address=102.214.191.0/24 list=Senegal
 add address=104.28.13.34/31 list=Senegal
-add address=104.28.13.34/31 list=Senegal
 add address=104.28.13.36/32 list=Senegal
 add address=104.28.34.149/32 list=Senegal
 add address=104.28.34.150/32 list=Senegal
-add address=104.28.61.98/31 list=Senegal
 add address=104.28.61.98/31 list=Senegal
 add address=104.28.87.93/32 list=Senegal
 add address=104.28.87.94/32 list=Senegal
@@ -39,10 +37,8 @@ add address=104.28.146.42/32 list=Senegal
 add address=104.28.154.42/32 list=Senegal
 add address=104.28.217.115/32 list=Senegal
 add address=104.28.217.116/30 list=Senegal
-add address=104.28.217.116/30 list=Senegal
 add address=104.28.217.120/32 list=Senegal
 add address=104.28.249.115/32 list=Senegal
-add address=104.28.249.116/30 list=Senegal
 add address=104.28.249.116/30 list=Senegal
 add address=104.28.249.120/32 list=Senegal
 add address=104.30.135.42/31 list=Senegal

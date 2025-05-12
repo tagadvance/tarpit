@@ -130,7 +130,6 @@ add address=86.36.0.0/15 list=Qatar
 add address=86.62.192.0/18 list=Qatar
 add address=89.211.0.0/16 list=Qatar
 add address=91.102.181.0/24 list=Qatar
-add address=91.102.181.0/24 list=Qatar
 add address=91.228.176.0/24 list=Qatar
 add address=92.42.103.0/24 list=Qatar
 add address=94.125.224.0/21 list=Qatar
@@ -144,7 +143,6 @@ add address=103.155.17.0/24 list=Qatar
 add address=103.199.88.0/22 list=Qatar
 add address=103.225.72.0/22 list=Qatar
 add address=104.28.12.154/31 list=Qatar
-add address=104.28.12.154/31 list=Qatar
 add address=104.28.12.156/32 list=Qatar
 add address=104.28.38.91/32 list=Qatar
 add address=104.28.38.92/32 list=Qatar
@@ -153,19 +151,14 @@ add address=104.28.51.168/32 list=Qatar
 add address=104.28.80.197/32 list=Qatar
 add address=104.28.80.198/32 list=Qatar
 add address=104.28.106.144/31 list=Qatar
-add address=104.28.106.144/31 list=Qatar
 add address=104.28.147.65/32 list=Qatar
 add address=104.28.149.150/32 list=Qatar
 add address=104.28.155.65/32 list=Qatar
 add address=104.28.157.150/32 list=Qatar
 add address=104.28.202.54/31 list=Qatar
-add address=104.28.202.54/31 list=Qatar
-add address=104.28.202.56/30 list=Qatar
 add address=104.28.202.56/30 list=Qatar
 add address=104.28.202.60/32 list=Qatar
 add address=104.28.234.54/31 list=Qatar
-add address=104.28.234.54/31 list=Qatar
-add address=104.28.234.56/30 list=Qatar
 add address=104.28.234.56/30 list=Qatar
 add address=104.28.234.60/32 list=Qatar
 add address=104.29.95.0/24 list=Qatar
@@ -297,7 +290,6 @@ add address=155.2.174.176/29 list=Qatar
 add address=156.244.3.0/24 list=Qatar
 add address=156.244.4.0/24 list=Qatar
 add address=156.244.41.0/24 list=Qatar
-add address=156.244.42.0/23 list=Qatar
 add address=156.244.42.0/23 list=Qatar
 add address=157.5.101.148/31 list=Qatar
 add address=157.5.101.150/32 list=Qatar
@@ -469,7 +461,6 @@ add address=212.32.88.0/24 list=Qatar
 add address=212.70.96.0/19 list=Qatar
 add address=212.77.192.0/19 list=Qatar
 add address=212.105.143.0/24 list=Qatar
-add address=212.105.143.0/24 list=Qatar
 add address=213.35.64.0/22 list=Qatar
 add address=213.35.68.0/23 list=Qatar
 add address=213.35.70.0/25 list=Qatar
@@ -478,8 +469,5 @@ add address=213.35.80.0/21 list=Qatar
 add address=213.130.96.0/19 list=Qatar
 add address=213.178.136.0/22 list=Qatar
 add address=217.142.25.0/24 list=Qatar
-add address=217.142.25.0/24 list=Qatar
 add address=217.142.27.0/24 list=Qatar
-add address=217.142.27.0/24 list=Qatar
-add address=217.142.30.0/24 list=Qatar
 add address=217.142.30.0/24 list=Qatar

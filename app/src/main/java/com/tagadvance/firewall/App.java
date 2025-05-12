@@ -33,9 +33,11 @@ public class App {
 					HashMap::new));
 
 		final var ipRecords = ipToCountry().stream()
+			.distinct()
 			.collect(Collectors.groupingBy(IpRecord::getCountryCode));
 
 		final var addressLists = Path.of("../address_lists");
+		System.out.println(addressLists.toAbsolutePath());
 		countryNameByCode.keySet().stream().sorted().forEach(countryCode -> {
 			final var country = countryNameByCode.get(countryCode)
 				.replaceAll("\\s", "_")
@@ -148,6 +150,18 @@ public class App {
 
 		public int getHigh() {
 			return high;
+		}
+
+		@Override
+		public boolean equals(final Object o) {
+			return o instanceof final IpRecord ipRecord && Objects.equals(cidr, ipRecord.cidr)
+				&& Objects.equals(countryCode, ipRecord.countryCode) && Objects.equals(countryName,
+				ipRecord.countryName);
+		}
+
+		@Override
+		public int hashCode() {
+			return Objects.hash(cidr, countryCode, countryName);
 		}
 
 	}

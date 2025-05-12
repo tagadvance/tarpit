@@ -17,7 +17,6 @@ add address=8.40.29.0/24 list=Latvia
 add address=31.24.192.0/21 list=Latvia
 add address=31.42.80.0/20 list=Latvia
 add address=31.128.32.0/22 list=Latvia
-add address=31.128.32.0/22 list=Latvia
 add address=31.131.88.0/22 list=Latvia
 add address=31.170.16.0/21 list=Latvia
 add address=31.222.233.0/24 list=Latvia
@@ -39,7 +38,6 @@ add address=45.80.52.0/22 list=Latvia
 add address=45.85.105.0/25 list=Latvia
 add address=45.128.44.0/24 list=Latvia
 add address=45.128.151.0/24 list=Latvia
-add address=45.130.212.0/22 list=Latvia
 add address=45.130.212.0/22 list=Latvia
 add address=45.131.100.0/22 list=Latvia
 add address=45.133.216.0/24 list=Latvia
@@ -69,8 +67,6 @@ add address=62.128.106.0/30 list=Latvia
 add address=62.128.106.48/29 list=Latvia
 add address=62.128.107.0/24 list=Latvia
 add address=62.128.122.38/31 list=Latvia
-add address=62.128.122.38/31 list=Latvia
-add address=62.128.122.138/31 list=Latvia
 add address=62.128.122.138/31 list=Latvia
 add address=62.192.174.0/24 list=Latvia
 add address=62.205.192.0/18 list=Latvia
@@ -305,7 +301,6 @@ add address=90.139.0.0/18 list=Latvia
 add address=90.139.64.0/19 list=Latvia
 add address=90.139.128.0/17 list=Latvia
 add address=90.156.254.0/23 list=Latvia
-add address=90.156.254.0/23 list=Latvia
 add address=91.90.224.0/19 list=Latvia
 add address=91.105.0.0/17 list=Latvia
 add address=91.105.200.0/22 list=Latvia
@@ -341,7 +336,6 @@ add address=91.216.1.0/24 list=Latvia
 add address=91.216.2.0/24 list=Latvia
 add address=91.217.153.0/24 list=Latvia
 add address=91.218.52.0/22 list=Latvia
-add address=91.218.142.0/23 list=Latvia
 add address=91.218.142.0/23 list=Latvia
 add address=91.220.43.0/24 list=Latvia
 add address=91.221.20.0/23 list=Latvia
@@ -390,7 +384,6 @@ add address=94.140.125.190/32 list=Latvia
 add address=94.140.125.192/26 list=Latvia
 add address=94.140.126.0/23 list=Latvia
 add address=94.158.218.0/23 list=Latvia
-add address=94.158.218.0/23 list=Latvia
 add address=94.177.56.0/23 list=Latvia
 add address=94.186.0.0/19 list=Latvia
 add address=94.186.32.0/23 list=Latvia
@@ -432,20 +425,15 @@ add address=102.38.242.0/24 list=Latvia
 add address=102.38.247.0/24 list=Latvia
 add address=103.231.73.0/24 list=Latvia
 add address=104.28.11.186/31 list=Latvia
-add address=104.28.11.186/31 list=Latvia
 add address=104.28.11.188/32 list=Latvia
 add address=104.28.31.29/32 list=Latvia
 add address=104.28.31.30/32 list=Latvia
 add address=104.28.45.28/31 list=Latvia
-add address=104.28.45.28/31 list=Latvia
 add address=104.28.65.35/32 list=Latvia
 add address=104.28.65.36/32 list=Latvia
 add address=104.28.105.22/31 list=Latvia
-add address=104.28.105.22/31 list=Latvia
-add address=104.28.131.96/31 list=Latvia
 add address=104.28.131.96/31 list=Latvia
 add address=104.28.141.216/32 list=Latvia
-add address=104.28.143.52/31 list=Latvia
 add address=104.28.143.52/31 list=Latvia
 add address=104.28.148.87/32 list=Latvia
 add address=104.28.148.88/32 list=Latvia
@@ -453,16 +441,11 @@ add address=104.28.156.87/32 list=Latvia
 add address=104.28.156.88/32 list=Latvia
 add address=104.28.161.103/32 list=Latvia
 add address=104.28.162.188/31 list=Latvia
-add address=104.28.162.188/31 list=Latvia
 add address=104.28.222.33/32 list=Latvia
 add address=104.28.222.34/31 list=Latvia
-add address=104.28.222.34/31 list=Latvia
-add address=104.28.222.36/31 list=Latvia
 add address=104.28.222.36/31 list=Latvia
 add address=104.28.254.33/32 list=Latvia
 add address=104.28.254.34/31 list=Latvia
-add address=104.28.254.34/31 list=Latvia
-add address=104.28.254.36/31 list=Latvia
 add address=104.28.254.36/31 list=Latvia
 add address=104.30.135.123/32 list=Latvia
 add address=104.30.161.252/32 list=Latvia
@@ -531,7 +514,6 @@ add address=149.14.74.68/30 list=Latvia
 add address=149.14.74.72/29 list=Latvia
 add address=149.14.74.80/28 list=Latvia
 add address=149.14.74.96/28 list=Latvia
-add address=149.14.74.96/28 list=Latvia
 add address=149.14.74.112/29 list=Latvia
 add address=149.100.208.0/20 list=Latvia
 add address=149.143.163.0/24 list=Latvia
@@ -547,18 +529,15 @@ add address=154.50.205.35/32 list=Latvia
 add address=154.50.208.35/32 list=Latvia
 add address=154.204.106.0/24 list=Latvia
 add address=154.205.28.0/23 list=Latvia
-add address=154.205.28.0/23 list=Latvia
 add address=154.205.224.0/23 list=Latvia
 add address=154.205.224.0/22 list=Latvia
 add address=154.205.226.0/23 list=Latvia
-add address=154.205.228.0/23 list=Latvia
 add address=154.205.228.0/23 list=Latvia
 add address=155.2.162.248/29 list=Latvia
 add address=155.2.166.248/29 list=Latvia
 add address=155.2.170.248/29 list=Latvia
 add address=155.2.174.248/29 list=Latvia
 add address=156.246.155.0/24 list=Latvia
-add address=156.246.156.0/22 list=Latvia
 add address=156.246.156.0/22 list=Latvia
 add address=156.246.160.0/24 list=Latvia
 add address=157.5.77.46/32 list=Latvia
@@ -844,7 +823,6 @@ add address=193.45.142.36/30 list=Latvia
 add address=193.45.142.40/32 list=Latvia
 add address=193.46.236.0/24 list=Latvia
 add address=193.68.64.0/19 list=Latvia
-add address=193.68.64.0/19 list=Latvia
 add address=193.84.184.0/24 list=Latvia
 add address=193.91.2.0/23 list=Latvia
 add address=193.91.14.0/23 list=Latvia
@@ -992,7 +970,6 @@ add address=202.181.130.24/29 list=Latvia
 add address=203.8.165.0/24 list=Latvia
 add address=208.167.192.64/29 list=Latvia
 add address=209.198.143.0/24 list=Latvia
-add address=209.198.143.0/24 list=Latvia
 add address=209.206.14.0/24 list=Latvia
 add address=212.3.192.0/19 list=Latvia
 add address=212.6.44.0/24 list=Latvia
@@ -1000,7 +977,6 @@ add address=212.47.201.72/32 list=Latvia
 add address=212.47.201.83/32 list=Latvia
 add address=212.47.201.96/32 list=Latvia
 add address=212.47.201.117/32 list=Latvia
-add address=212.47.201.158/31 list=Latvia
 add address=212.47.201.158/31 list=Latvia
 add address=212.56.7.224/29 list=Latvia
 add address=212.56.12.248/29 list=Latvia
@@ -1087,7 +1063,6 @@ add address=213.180.96.0/19 list=Latvia
 add address=213.226.128.0/21 list=Latvia
 add address=213.226.140.0/22 list=Latvia
 add address=213.248.108.32/28 list=Latvia
-add address=213.248.108.32/28 list=Latvia
 add address=216.173.68.0/22 list=Latvia
 add address=217.18.93.0/24 list=Latvia
 add address=217.21.160.0/20 list=Latvia
@@ -1117,7 +1092,6 @@ add address=217.69.120.0/24 list=Latvia
 add address=217.69.122.0/23 list=Latvia
 add address=217.69.124.0/24 list=Latvia
 add address=217.113.48.0/24 list=Latvia
-add address=217.118.113.184/29 list=Latvia
 add address=217.118.113.184/29 list=Latvia
 add address=217.145.208.0/20 list=Latvia
 add address=217.156.153.112/29 list=Latvia

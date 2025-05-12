@@ -14,7 +14,6 @@ add address=102.215.84.0/22 list=Niger
 add address=102.217.96.0/22 list=Niger
 add address=102.220.24.0/22 list=Niger
 add address=104.28.12.18/31 list=Niger
-add address=104.28.12.18/31 list=Niger
 add address=104.28.12.20/32 list=Niger
 add address=104.28.34.92/31 list=Niger
 add address=104.28.60.117/32 list=Niger
@@ -41,7 +40,6 @@ add address=154.66.220.0/22 list=Niger
 add address=154.127.80.0/20 list=Niger
 add address=157.5.101.136/31 list=Niger
 add address=157.5.109.136/31 list=Niger
-add address=162.43.192.0/23 list=Niger
 add address=162.43.192.0/23 list=Niger
 add address=172.225.99.192/27 list=Niger
 add address=172.225.159.48/28 list=Niger

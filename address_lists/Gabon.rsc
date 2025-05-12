@@ -17,7 +17,6 @@ add address=102.142.0.0/16 list=Gabon
 add address=102.164.124.0/22 list=Gabon
 add address=104.28.10.1/32 list=Gabon
 add address=104.28.10.2/31 list=Gabon
-add address=104.28.10.2/31 list=Gabon
 add address=104.28.34.48/31 list=Gabon
 add address=104.28.46.36/31 list=Gabon
 add address=104.28.60.58/31 list=Gabon

@@ -14,8 +14,6 @@ add address=102.207.176.0/22 list=Comoros
 add address=102.223.120.0/22 list=Comoros
 add address=104.28.11.133/32 list=Comoros
 add address=104.28.11.134/31 list=Comoros
-add address=104.28.11.134/31 list=Comoros
-add address=104.28.37.46/31 list=Comoros
 add address=104.28.37.46/31 list=Comoros
 add address=104.28.46.13/32 list=Comoros
 add address=104.28.46.14/32 list=Comoros
@@ -24,13 +22,9 @@ add address=104.28.80.32/32 list=Comoros
 add address=104.28.82.17/32 list=Comoros
 add address=104.28.82.18/32 list=Comoros
 add address=104.28.221.22/31 list=Comoros
-add address=104.28.221.22/31 list=Comoros
-add address=104.28.221.24/31 list=Comoros
 add address=104.28.221.24/31 list=Comoros
 add address=104.28.221.26/32 list=Comoros
 add address=104.28.253.22/31 list=Comoros
-add address=104.28.253.22/31 list=Comoros
-add address=104.28.253.24/31 list=Comoros
 add address=104.28.253.24/31 list=Comoros
 add address=104.28.253.26/32 list=Comoros
 add address=140.248.40.148/31 list=Comoros

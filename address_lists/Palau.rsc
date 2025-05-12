@@ -7,9 +7,7 @@ add address=103.30.250.0/24 list=Palau
 add address=103.159.28.0/23 list=Palau
 add address=103.251.132.0/23 list=Palau
 add address=104.28.12.148/31 list=Palau
-add address=104.28.12.148/31 list=Palau
 add address=104.28.12.150/32 list=Palau
-add address=104.28.44.162/31 list=Palau
 add address=104.28.44.162/31 list=Palau
 add address=104.28.68.101/32 list=Palau
 add address=104.28.68.102/32 list=Palau
@@ -26,12 +24,8 @@ add address=104.28.119.90/32 list=Palau
 add address=104.28.122.89/32 list=Palau
 add address=104.28.122.90/32 list=Palau
 add address=104.28.216.204/30 list=Palau
-add address=104.28.216.204/30 list=Palau
-add address=104.28.216.208/30 list=Palau
 add address=104.28.216.208/30 list=Palau
 add address=104.28.248.204/30 list=Palau
-add address=104.28.248.204/30 list=Palau
-add address=104.28.248.208/30 list=Palau
 add address=104.28.248.208/30 list=Palau
 add address=136.23.24.19/32 list=Palau
 add address=136.23.34.192/32 list=Palau

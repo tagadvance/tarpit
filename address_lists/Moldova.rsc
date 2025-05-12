@@ -8,7 +8,6 @@ add address=5.62.63.14/31 list=Moldova
 add address=5.63.19.0/24 list=Moldova
 add address=5.180.42.0/24 list=Moldova
 add address=5.181.156.0/23 list=Moldova
-add address=5.181.156.0/23 list=Moldova
 add address=5.181.158.0/24 list=Moldova
 add address=8.39.206.0/24 list=Moldova
 add address=31.14.183.0/24 list=Moldova
@@ -127,7 +126,6 @@ add address=86.107.166.0/23 list=Moldova
 add address=87.229.37.0/24 list=Moldova
 add address=87.236.147.0/24 list=Moldova
 add address=87.248.160.0/19 list=Moldova
-add address=87.251.26.0/24 list=Moldova
 add address=87.251.26.0/24 list=Moldova
 add address=87.251.71.52/32 list=Moldova
 add address=87.255.64.0/19 list=Moldova
@@ -329,17 +327,12 @@ add address=95.182.76.0/24 list=Moldova
 add address=103.35.190.0/23 list=Moldova
 add address=103.197.148.0/22 list=Moldova
 add address=104.28.11.198/31 list=Moldova
-add address=104.28.11.198/31 list=Moldova
 add address=104.28.11.200/32 list=Moldova
 add address=104.28.51.140/31 list=Moldova
-add address=104.28.51.140/31 list=Moldova
-add address=104.28.80.164/31 list=Moldova
 add address=104.28.80.164/31 list=Moldova
 add address=104.28.106.123/32 list=Moldova
 add address=104.28.106.124/32 list=Moldova
 add address=104.28.130.100/31 list=Moldova
-add address=104.28.130.100/31 list=Moldova
-add address=104.28.131.100/31 list=Moldova
 add address=104.28.131.100/31 list=Moldova
 add address=104.28.139.161/32 list=Moldova
 add address=104.28.148.58/32 list=Moldova
@@ -347,13 +340,9 @@ add address=104.28.156.58/32 list=Moldova
 add address=104.28.159.95/32 list=Moldova
 add address=104.28.203.247/32 list=Moldova
 add address=104.28.203.248/30 list=Moldova
-add address=104.28.203.248/30 list=Moldova
-add address=104.28.203.252/31 list=Moldova
 add address=104.28.203.252/31 list=Moldova
 add address=104.28.235.247/32 list=Moldova
 add address=104.28.235.248/30 list=Moldova
-add address=104.28.235.248/30 list=Moldova
-add address=104.28.235.252/31 list=Moldova
 add address=104.28.235.252/31 list=Moldova
 add address=104.30.132.133/32 list=Moldova
 add address=104.30.132.134/32 list=Moldova
@@ -417,12 +406,8 @@ add address=147.78.20.0/22 list=Moldova
 add address=149.3.184.0/21 list=Moldova
 add address=149.14.58.8/29 list=Moldova
 add address=149.14.58.16/28 list=Moldova
-add address=149.14.58.16/28 list=Moldova
-add address=149.14.58.32/27 list=Moldova
 add address=149.14.58.32/27 list=Moldova
 add address=149.14.58.64/27 list=Moldova
-add address=149.14.58.64/27 list=Moldova
-add address=149.14.58.96/30 list=Moldova
 add address=149.14.58.96/30 list=Moldova
 add address=149.14.58.100/31 list=Moldova
 add address=149.14.58.104/29 list=Moldova
@@ -441,10 +426,8 @@ add address=154.50.208.34/32 list=Moldova
 add address=154.56.0.0/23 list=Moldova
 add address=154.56.2.0/24 list=Moldova
 add address=154.203.226.0/23 list=Moldova
-add address=154.203.226.0/23 list=Moldova
 add address=154.203.228.0/23 list=Moldova
 add address=154.220.191.0/24 list=Moldova
-add address=156.246.176.0/23 list=Moldova
 add address=156.246.176.0/23 list=Moldova
 add address=156.246.178.0/24 list=Moldova
 add address=157.5.100.89/32 list=Moldova
@@ -695,7 +678,6 @@ add address=194.28.76.0/22 list=Moldova
 add address=194.31.42.0/24 list=Moldova
 add address=194.31.109.0/24 list=Moldova
 add address=194.33.40.0/23 list=Moldova
-add address=194.33.40.0/23 list=Moldova
 add address=194.33.43.0/24 list=Moldova
 add address=194.50.99.140/32 list=Moldova
 add address=194.50.206.0/23 list=Moldova
@@ -768,7 +750,6 @@ add address=217.12.112.0/20 list=Moldova
 add address=217.19.208.0/20 list=Moldova
 add address=217.26.144.0/20 list=Moldova
 add address=217.26.160.0/20 list=Moldova
-add address=217.142.24.0/24 list=Moldova
 add address=217.142.24.0/24 list=Moldova
 add address=217.156.64.0/22 list=Moldova
 add address=217.156.122.0/23 list=Moldova

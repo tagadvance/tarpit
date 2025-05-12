@@ -19,7 +19,6 @@ add address=38.7.106.0/23 list=Dominican_Republic
 add address=38.7.129.0/24 list=Dominican_Republic
 add address=38.7.131.0/24 list=Dominican_Republic
 add address=38.9.16.0/20 list=Dominican_Republic
-add address=38.9.16.0/20 list=Dominican_Republic
 add address=38.9.33.0/24 list=Dominican_Republic
 add address=38.9.48.0/23 list=Dominican_Republic
 add address=38.10.81.0/24 list=Dominican_Republic
@@ -47,8 +46,6 @@ add address=38.44.80.0/20 list=Dominican_Republic
 add address=38.44.100.0/22 list=Dominican_Republic
 add address=38.44.112.0/20 list=Dominican_Republic
 add address=38.44.240.0/21 list=Dominican_Republic
-add address=38.44.240.0/21 list=Dominican_Republic
-add address=38.45.40.0/21 list=Dominican_Republic
 add address=38.45.40.0/21 list=Dominican_Republic
 add address=38.50.32.0/22 list=Dominican_Republic
 add address=38.50.40.0/22 list=Dominican_Republic
@@ -61,18 +58,14 @@ add address=38.51.0.0/20 list=Dominican_Republic
 add address=38.51.48.0/23 list=Dominican_Republic
 add address=38.51.52.0/24 list=Dominican_Republic
 add address=38.51.60.0/23 list=Dominican_Republic
-add address=38.51.60.0/23 list=Dominican_Republic
 add address=38.51.62.0/24 list=Dominican_Republic
 add address=38.51.188.0/24 list=Dominican_Republic
 add address=38.51.190.0/23 list=Dominican_Republic
 add address=38.52.118.0/23 list=Dominican_Republic
 add address=38.52.160.0/22 list=Dominican_Republic
-add address=38.52.160.0/22 list=Dominican_Republic
-add address=38.52.178.0/23 list=Dominican_Republic
 add address=38.52.178.0/23 list=Dominican_Republic
 add address=38.52.197.0/24 list=Dominican_Republic
 add address=38.52.216.0/24 list=Dominican_Republic
-add address=38.52.220.0/22 list=Dominican_Republic
 add address=38.52.220.0/22 list=Dominican_Republic
 add address=38.56.20.0/23 list=Dominican_Republic
 add address=38.56.70.0/24 list=Dominican_Republic
@@ -88,7 +81,6 @@ add address=38.78.150.0/24 list=Dominican_Republic
 add address=38.78.151.0/28 list=Dominican_Republic
 add address=38.80.12.0/23 list=Dominican_Republic
 add address=38.83.55.0/24 list=Dominican_Republic
-add address=38.83.55.0/24 list=Dominican_Republic
 add address=38.83.56.0/24 list=Dominican_Republic
 add address=38.89.92.0/22 list=Dominican_Republic
 add address=38.95.84.0/24 list=Dominican_Republic
@@ -102,7 +94,6 @@ add address=38.147.152.0/23 list=Dominican_Republic
 add address=38.147.157.0/24 list=Dominican_Republic
 add address=38.156.14.0/24 list=Dominican_Republic
 add address=38.156.20.0/22 list=Dominican_Republic
-add address=38.156.20.0/22 list=Dominican_Republic
 add address=38.156.89.0/24 list=Dominican_Republic
 add address=38.156.91.0/24 list=Dominican_Republic
 add address=38.156.232.0/21 list=Dominican_Republic
@@ -111,11 +102,9 @@ add address=38.156.253.0/24 list=Dominican_Republic
 add address=38.158.80.0/23 list=Dominican_Republic
 add address=38.158.92.0/22 list=Dominican_Republic
 add address=38.158.200.0/23 list=Dominican_Republic
-add address=38.158.200.0/23 list=Dominican_Republic
 add address=38.159.36.0/23 list=Dominican_Republic
 add address=38.159.39.0/24 list=Dominican_Republic
 add address=38.159.96.0/20 list=Dominican_Republic
-add address=38.159.192.0/19 list=Dominican_Republic
 add address=38.159.192.0/19 list=Dominican_Republic
 add address=38.159.226.0/23 list=Dominican_Republic
 add address=38.159.230.0/23 list=Dominican_Republic
@@ -139,7 +128,6 @@ add address=38.183.213.0/24 list=Dominican_Republic
 add address=38.183.214.0/23 list=Dominican_Republic
 add address=38.183.216.0/23 list=Dominican_Republic
 add address=38.188.0.0/19 list=Dominican_Republic
-add address=38.188.0.0/19 list=Dominican_Republic
 add address=38.188.102.0/23 list=Dominican_Republic
 add address=38.188.160.0/20 list=Dominican_Republic
 add address=38.188.160.0/23 list=Dominican_Republic
@@ -153,7 +141,6 @@ add address=38.191.88.0/23 list=Dominican_Republic
 add address=38.191.90.0/24 list=Dominican_Republic
 add address=38.191.160.0/23 list=Dominican_Republic
 add address=38.196.0.0/18 list=Dominican_Republic
-add address=38.196.96.0/19 list=Dominican_Republic
 add address=38.196.96.0/19 list=Dominican_Republic
 add address=38.196.216.0/23 list=Dominican_Republic
 add address=38.196.220.0/23 list=Dominican_Republic
@@ -176,12 +163,10 @@ add address=38.226.220.0/24 list=Dominican_Republic
 add address=38.246.74.0/23 list=Dominican_Republic
 add address=38.246.144.0/22 list=Dominican_Republic
 add address=38.246.152.0/21 list=Dominican_Republic
-add address=38.246.152.0/21 list=Dominican_Republic
 add address=38.246.196.0/24 list=Dominican_Republic
 add address=38.247.46.0/23 list=Dominican_Republic
 add address=38.247.88.0/22 list=Dominican_Republic
 add address=38.247.92.0/24 list=Dominican_Republic
-add address=38.248.80.0/22 list=Dominican_Republic
 add address=38.248.80.0/22 list=Dominican_Republic
 add address=38.252.16.0/20 list=Dominican_Republic
 add address=38.252.128.0/20 list=Dominican_Republic
@@ -195,7 +180,6 @@ add address=38.254.96.0/22 list=Dominican_Republic
 add address=38.255.80.0/24 list=Dominican_Republic
 add address=38.255.90.0/24 list=Dominican_Republic
 add address=38.255.92.0/23 list=Dominican_Republic
-add address=45.5.8.0/22 list=Dominican_Republic
 add address=45.5.8.0/22 list=Dominican_Republic
 add address=45.6.40.0/22 list=Dominican_Republic
 add address=45.61.86.0/24 list=Dominican_Republic
@@ -237,7 +221,6 @@ add address=63.209.154.0/23 list=Dominican_Republic
 add address=64.32.64.0/18 list=Dominican_Republic
 add address=64.64.117.224/27 list=Dominican_Republic
 add address=66.9.172.0/24 list=Dominican_Republic
-add address=66.9.172.0/24 list=Dominican_Republic
 add address=66.98.0.0/18 list=Dominican_Republic
 add address=66.98.64.0/19 list=Dominican_Republic
 add address=69.79.26.0/24 list=Dominican_Republic
@@ -259,40 +242,28 @@ add address=103.7.135.0/24 list=Dominican_Republic
 add address=103.8.92.0/22 list=Dominican_Republic
 add address=104.28.9.149/32 list=Dominican_Republic
 add address=104.28.9.150/31 list=Dominican_Republic
-add address=104.28.9.150/31 list=Dominican_Republic
 add address=104.28.32.57/32 list=Dominican_Republic
 add address=104.28.32.58/31 list=Dominican_Republic
-add address=104.28.32.58/31 list=Dominican_Republic
-add address=104.28.36.70/31 list=Dominican_Republic
 add address=104.28.36.70/31 list=Dominican_Republic
 add address=104.28.36.72/32 list=Dominican_Republic
 add address=104.28.76.44/31 list=Dominican_Republic
-add address=104.28.76.44/31 list=Dominican_Republic
 add address=104.28.76.46/32 list=Dominican_Republic
-add address=104.28.78.44/31 list=Dominican_Republic
 add address=104.28.78.44/31 list=Dominican_Republic
 add address=104.28.78.46/32 list=Dominican_Republic
 add address=104.28.92.65/32 list=Dominican_Republic
 add address=104.28.92.66/31 list=Dominican_Republic
-add address=104.28.92.66/31 list=Dominican_Republic
 add address=104.28.94.65/32 list=Dominican_Republic
 add address=104.28.94.66/31 list=Dominican_Republic
-add address=104.28.94.66/31 list=Dominican_Republic
 add address=104.28.126.65/32 list=Dominican_Republic
-add address=104.28.126.66/31 list=Dominican_Republic
 add address=104.28.126.66/31 list=Dominican_Republic
 add address=104.28.141.47/32 list=Dominican_Republic
 add address=104.28.149.121/32 list=Dominican_Republic
 add address=104.28.157.121/32 list=Dominican_Republic
 add address=104.28.160.215/32 list=Dominican_Republic
 add address=104.28.201.90/31 list=Dominican_Republic
-add address=104.28.201.90/31 list=Dominican_Republic
-add address=104.28.201.92/30 list=Dominican_Republic
 add address=104.28.201.92/30 list=Dominican_Republic
 add address=104.28.201.96/32 list=Dominican_Republic
 add address=104.28.233.90/31 list=Dominican_Republic
-add address=104.28.233.90/31 list=Dominican_Republic
-add address=104.28.233.92/30 list=Dominican_Republic
 add address=104.28.233.92/30 list=Dominican_Republic
 add address=104.28.233.96/32 list=Dominican_Republic
 add address=104.30.133.137/32 list=Dominican_Republic
@@ -301,7 +272,6 @@ add address=104.218.237.160/27 list=Dominican_Republic
 add address=104.234.158.0/24 list=Dominican_Republic
 add address=108.171.105.128/26 list=Dominican_Republic
 add address=109.110.190.0/23 list=Dominican_Republic
-add address=128.201.112.0/23 list=Dominican_Republic
 add address=128.201.112.0/23 list=Dominican_Republic
 add address=128.201.114.0/24 list=Dominican_Republic
 add address=128.201.115.0/29 list=Dominican_Republic
@@ -318,7 +288,6 @@ add address=136.23.23.49/32 list=Dominican_Republic
 add address=136.23.27.33/32 list=Dominican_Republic
 add address=138.36.24.0/22 list=Dominican_Republic
 add address=138.84.36.0/24 list=Dominican_Republic
-add address=138.84.36.0/24 list=Dominican_Republic
 add address=138.97.248.0/22 list=Dominican_Republic
 add address=138.99.236.0/22 list=Dominican_Republic
 add address=138.255.248.0/22 list=Dominican_Republic
@@ -334,7 +303,6 @@ add address=140.248.60.60/32 list=Dominican_Republic
 add address=140.248.61.60/32 list=Dominican_Republic
 add address=140.248.62.60/32 list=Dominican_Republic
 add address=140.248.63.60/32 list=Dominican_Republic
-add address=143.105.81.0/24 list=Dominican_Republic
 add address=143.105.81.0/24 list=Dominican_Republic
 add address=143.137.80.0/22 list=Dominican_Republic
 add address=143.208.164.0/22 list=Dominican_Republic
@@ -420,7 +388,6 @@ add address=170.254.64.0/22 list=Dominican_Republic
 add address=172.69.77.0/24 list=Dominican_Republic
 add address=172.70.226.0/24 list=Dominican_Republic
 add address=172.121.176.0/23 list=Dominican_Republic
-add address=172.121.176.0/23 list=Dominican_Republic
 add address=172.225.32.96/27 list=Dominican_Republic
 add address=172.225.33.240/28 list=Dominican_Republic
 add address=172.225.92.96/28 list=Dominican_Republic
@@ -439,7 +406,6 @@ add address=177.52.221.0/24 list=Dominican_Republic
 add address=177.200.238.0/23 list=Dominican_Republic
 add address=179.43.192.0/18 list=Dominican_Republic
 add address=179.49.202.0/23 list=Dominican_Republic
-add address=179.49.202.0/23 list=Dominican_Republic
 add address=179.51.64.0/20 list=Dominican_Republic
 add address=179.51.74.0/24 list=Dominican_Republic
 add address=179.51.144.0/22 list=Dominican_Republic
@@ -452,7 +418,6 @@ add address=181.214.29.0/24 list=Dominican_Republic
 add address=181.215.241.0/24 list=Dominican_Republic
 add address=181.224.204.0/22 list=Dominican_Republic
 add address=181.232.190.0/23 list=Dominican_Republic
-add address=181.232.190.0/23 list=Dominican_Republic
 add address=181.233.116.0/22 list=Dominican_Republic
 add address=185.112.133.13/32 list=Dominican_Republic
 add address=185.226.104.0/24 list=Dominican_Republic
@@ -464,7 +429,6 @@ add address=186.148.88.0/21 list=Dominican_Republic
 add address=186.149.0.0/16 list=Dominican_Republic
 add address=186.150.0.0/16 list=Dominican_Republic
 add address=187.63.156.0/22 list=Dominican_Republic
-add address=188.240.218.0/23 list=Dominican_Republic
 add address=188.240.218.0/23 list=Dominican_Republic
 add address=190.0.64.0/19 list=Dominican_Republic
 add address=190.6.128.0/19 list=Dominican_Republic
@@ -491,7 +455,6 @@ add address=190.93.120.0/21 list=Dominican_Republic
 add address=190.93.188.0/22 list=Dominican_Republic
 add address=190.94.0.0/17 list=Dominican_Republic
 add address=190.103.180.0/22 list=Dominican_Republic
-add address=190.103.180.0/22 list=Dominican_Republic
 add address=190.106.112.0/21 list=Dominican_Republic
 add address=190.106.112.0/22 list=Dominican_Republic
 add address=190.106.112.0/23 list=Dominican_Republic
@@ -501,7 +464,6 @@ add address=190.110.5.0/24 list=Dominican_Republic
 add address=190.110.32.0/22 list=Dominican_Republic
 add address=190.110.32.0/21 list=Dominican_Republic
 add address=190.113.40.0/22 list=Dominican_Republic
-add address=190.113.40.0/22 list=Dominican_Republic
 add address=190.113.64.0/20 list=Dominican_Republic
 add address=190.122.96.0/19 list=Dominican_Republic
 add address=190.123.76.0/23 list=Dominican_Republic
@@ -509,7 +471,6 @@ add address=190.123.76.0/22 list=Dominican_Republic
 add address=190.123.78.0/23 list=Dominican_Republic
 add address=190.124.64.0/19 list=Dominican_Republic
 add address=190.166.0.0/15 list=Dominican_Republic
-add address=190.171.88.0/22 list=Dominican_Republic
 add address=190.171.88.0/22 list=Dominican_Republic
 add address=190.211.176.0/20 list=Dominican_Republic
 add address=190.242.102.0/24 list=Dominican_Republic
@@ -554,7 +515,6 @@ add address=200.26.168.0/21 list=Dominican_Republic
 add address=200.26.184.0/24 list=Dominican_Republic
 add address=200.26.186.0/23 list=Dominican_Republic
 add address=200.39.60.0/22 list=Dominican_Republic
-add address=200.39.60.0/22 list=Dominican_Republic
 add address=200.42.192.0/18 list=Dominican_Republic
 add address=200.58.240.0/21 list=Dominican_Republic
 add address=200.88.0.0/16 list=Dominican_Republic
@@ -575,11 +535,9 @@ add address=204.157.120.0/22 list=Dominican_Republic
 add address=204.157.126.0/23 list=Dominican_Republic
 add address=204.157.251.0/24 list=Dominican_Republic
 add address=204.157.252.0/23 list=Dominican_Republic
-add address=204.157.252.0/23 list=Dominican_Republic
 add address=204.157.254.0/24 list=Dominican_Republic
 add address=205.137.48.0/20 list=Dominican_Republic
 add address=205.233.76.0/22 list=Dominican_Republic
-add address=206.0.4.0/22 list=Dominican_Republic
 add address=206.0.4.0/22 list=Dominican_Republic
 add address=206.0.152.0/22 list=Dominican_Republic
 add address=206.1.84.0/23 list=Dominican_Republic
@@ -590,7 +548,6 @@ add address=206.85.1.0/24 list=Dominican_Republic
 add address=206.85.14.0/23 list=Dominican_Republic
 add address=206.85.24.0/24 list=Dominican_Republic
 add address=206.85.184.0/22 list=Dominican_Republic
-add address=208.116.200.104/29 list=Dominican_Republic
 add address=208.116.200.104/29 list=Dominican_Republic
 add address=208.234.37.0/24 list=Dominican_Republic
 add address=209.120.190.16/29 list=Dominican_Republic

@@ -3,16 +3,12 @@ add address=67.199.159.16/29 list=British_Indian_Ocean_Territory
 add address=98.124.142.152/29 list=British_Indian_Ocean_Territory
 add address=104.28.11.13/32 list=British_Indian_Ocean_Territory
 add address=104.28.11.14/31 list=British_Indian_Ocean_Territory
-add address=104.28.11.14/31 list=British_Indian_Ocean_Territory
 add address=104.28.66.21/32 list=British_Indian_Ocean_Territory
-add address=104.28.66.22/31 list=British_Indian_Ocean_Territory
 add address=104.28.66.22/31 list=British_Indian_Ocean_Territory
 add address=104.28.117.17/32 list=British_Indian_Ocean_Territory
 add address=104.28.117.18/32 list=British_Indian_Ocean_Territory
 add address=104.28.194.232/30 list=British_Indian_Ocean_Territory
-add address=104.28.194.232/30 list=British_Indian_Ocean_Territory
 add address=104.28.194.236/32 list=British_Indian_Ocean_Territory
-add address=104.28.226.232/30 list=British_Indian_Ocean_Territory
 add address=104.28.226.232/30 list=British_Indian_Ocean_Territory
 add address=104.28.226.236/32 list=British_Indian_Ocean_Territory
 add address=136.23.0.154/32 list=British_Indian_Ocean_Territory

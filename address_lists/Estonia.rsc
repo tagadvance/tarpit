@@ -6,13 +6,11 @@ add address=5.34.240.0/22 list=Estonia
 add address=5.42.221.0/24 list=Estonia
 add address=5.44.184.0/21 list=Estonia
 add address=5.45.112.0/20 list=Estonia
-add address=5.45.112.0/20 list=Estonia
 add address=5.62.60.125/32 list=Estonia
 add address=5.62.60.126/31 list=Estonia
 add address=5.62.62.121/32 list=Estonia
 add address=5.62.62.122/31 list=Estonia
 add address=5.101.47.0/24 list=Estonia
-add address=5.101.112.0/20 list=Estonia
 add address=5.101.112.0/20 list=Estonia
 add address=5.101.176.0/20 list=Estonia
 add address=5.101.176.0/21 list=Estonia
@@ -28,8 +26,6 @@ add address=5.157.52.0/24 list=Estonia
 add address=5.180.40.0/24 list=Estonia
 add address=5.181.23.0/24 list=Estonia
 add address=5.188.16.0/21 list=Estonia
-add address=5.188.16.0/21 list=Estonia
-add address=5.188.24.0/22 list=Estonia
 add address=5.188.24.0/22 list=Estonia
 add address=5.188.200.0/24 list=Estonia
 add address=5.189.219.42/32 list=Estonia
@@ -65,7 +61,6 @@ add address=45.11.183.0/24 list=Estonia
 add address=45.12.28.0/24 list=Estonia
 add address=45.12.137.0/24 list=Estonia
 add address=45.15.161.0/24 list=Estonia
-add address=45.67.128.0/22 list=Estonia
 add address=45.67.128.0/22 list=Estonia
 add address=45.80.108.0/24 list=Estonia
 add address=45.80.110.0/24 list=Estonia
@@ -105,8 +100,6 @@ add address=46.36.216.0/21 list=Estonia
 add address=46.36.216.0/23 list=Estonia
 add address=46.36.217.0/24 list=Estonia
 add address=46.36.218.0/23 list=Estonia
-add address=46.36.218.0/23 list=Estonia
-add address=46.36.220.0/22 list=Estonia
 add address=46.36.220.0/22 list=Estonia
 add address=46.39.128.0/19 list=Estonia
 add address=46.131.0.0/16 list=Estonia
@@ -125,25 +118,18 @@ add address=62.128.112.104/30 list=Estonia
 add address=62.128.112.128/26 list=Estonia
 add address=62.128.116.0/24 list=Estonia
 add address=62.128.118.0/23 list=Estonia
-add address=62.128.118.0/23 list=Estonia
-add address=62.128.122.10/31 list=Estonia
 add address=62.128.122.10/31 list=Estonia
 add address=62.128.122.22/32 list=Estonia
-add address=62.128.122.26/31 list=Estonia
 add address=62.128.122.26/31 list=Estonia
 add address=62.128.122.45/32 list=Estonia
 add address=62.128.122.50/31 list=Estonia
 add address=62.128.122.51/32 list=Estonia
 add address=62.128.122.52/30 list=Estonia
-add address=62.128.122.52/30 list=Estonia
 add address=62.128.122.56/31 list=Estonia
 add address=62.128.122.56/30 list=Estonia
 add address=62.128.122.100/31 list=Estonia
-add address=62.128.122.100/31 list=Estonia
-add address=62.128.122.110/31 list=Estonia
 add address=62.128.122.110/31 list=Estonia
 add address=62.128.122.122/32 list=Estonia
-add address=62.128.122.126/31 list=Estonia
 add address=62.128.122.126/31 list=Estonia
 add address=62.128.122.145/32 list=Estonia
 add address=62.128.122.254/32 list=Estonia
@@ -222,7 +208,6 @@ add address=83.180.108.0/22 list=Estonia
 add address=83.180.112.0/20 list=Estonia
 add address=83.191.192.0/18 list=Estonia
 add address=83.217.210.0/24 list=Estonia
-add address=83.241.174.168/29 list=Estonia
 add address=83.241.174.168/29 list=Estonia
 add address=84.19.140.155/32 list=Estonia
 add address=84.32.210.0/24 list=Estonia
@@ -322,7 +307,6 @@ add address=89.219.128.96/29 list=Estonia
 add address=89.219.128.112/28 list=Estonia
 add address=89.219.128.116/30 list=Estonia
 add address=89.219.128.128/25 list=Estonia
-add address=89.219.128.128/25 list=Estonia
 add address=89.219.129.128/27 list=Estonia
 add address=89.219.129.176/28 list=Estonia
 add address=89.219.130.160/29 list=Estonia
@@ -332,7 +316,6 @@ add address=89.219.131.40/29 list=Estonia
 add address=89.219.134.0/24 list=Estonia
 add address=89.219.136.0/23 list=Estonia
 add address=89.219.138.0/24 list=Estonia
-add address=89.219.139.0/25 list=Estonia
 add address=89.219.139.0/25 list=Estonia
 add address=89.219.139.128/27 list=Estonia
 add address=89.219.139.156/30 list=Estonia
@@ -431,17 +414,13 @@ add address=103.3.224.0/22 list=Estonia
 add address=103.220.220.0/22 list=Estonia
 add address=103.245.116.0/22 list=Estonia
 add address=104.28.9.158/31 list=Estonia
-add address=104.28.9.158/31 list=Estonia
 add address=104.28.9.160/32 list=Estonia
 add address=104.28.31.11/32 list=Estonia
 add address=104.28.31.12/32 list=Estonia
 add address=104.28.45.8/31 list=Estonia
-add address=104.28.45.8/31 list=Estonia
 add address=104.28.65.11/32 list=Estonia
 add address=104.28.65.12/32 list=Estonia
 add address=104.28.105.4/31 list=Estonia
-add address=104.28.105.4/31 list=Estonia
-add address=104.28.131.28/31 list=Estonia
 add address=104.28.131.28/31 list=Estonia
 add address=104.28.139.115/32 list=Estonia
 add address=104.28.139.150/32 list=Estonia
@@ -450,9 +429,7 @@ add address=104.28.156.89/32 list=Estonia
 add address=104.28.157.89/32 list=Estonia
 add address=104.28.159.72/32 list=Estonia
 add address=104.28.201.136/30 list=Estonia
-add address=104.28.201.136/30 list=Estonia
 add address=104.28.201.140/32 list=Estonia
-add address=104.28.233.136/30 list=Estonia
 add address=104.28.233.136/30 list=Estonia
 add address=104.28.233.140/32 list=Estonia
 add address=104.30.135.105/32 list=Estonia
@@ -515,7 +492,6 @@ add address=147.28.0.0/20 list=Estonia
 add address=147.45.60.0/24 list=Estonia
 add address=147.75.147.0/24 list=Estonia
 add address=149.5.208.0/22 list=Estonia
-add address=149.5.208.0/22 list=Estonia
 add address=149.5.212.0/24 list=Estonia
 add address=149.5.214.0/23 list=Estonia
 add address=149.6.188.0/29 list=Estonia
@@ -525,11 +501,9 @@ add address=149.6.188.24/29 list=Estonia
 add address=149.6.188.32/27 list=Estonia
 add address=149.6.188.48/28 list=Estonia
 add address=149.6.188.64/27 list=Estonia
-add address=149.6.188.64/27 list=Estonia
 add address=149.6.188.96/29 list=Estonia
 add address=149.6.188.112/28 list=Estonia
 add address=149.6.188.128/28 list=Estonia
-add address=149.6.188.144/29 list=Estonia
 add address=149.6.188.144/29 list=Estonia
 add address=149.6.188.184/29 list=Estonia
 add address=149.87.144.0/24 list=Estonia
@@ -587,7 +561,6 @@ add address=157.167.239.146/32 list=Estonia
 add address=157.167.240.31/32 list=Estonia
 add address=157.167.240.32/32 list=Estonia
 add address=157.167.240.146/32 list=Estonia
-add address=159.253.16.0/21 list=Estonia
 add address=159.253.16.0/21 list=Estonia
 add address=160.22.180.0/24 list=Estonia
 add address=160.25.104.113/32 list=Estonia
@@ -660,11 +633,9 @@ add address=178.255.11.64/26 list=Estonia
 add address=178.255.11.128/25 list=Estonia
 add address=178.255.12.0/23 list=Estonia
 add address=181.114.240.0/20 list=Estonia
-add address=181.114.240.0/20 list=Estonia
 add address=185.1.235.0/24 list=Estonia
 add address=185.4.72.0/22 list=Estonia
 add address=185.4.72.0/23 list=Estonia
-add address=185.4.72.0/22 list=Estonia
 add address=185.4.75.0/25 list=Estonia
 add address=185.4.75.128/26 list=Estonia
 add address=185.4.75.192/27 list=Estonia
@@ -803,7 +774,6 @@ add address=188.95.208.0/21 list=Estonia
 add address=188.127.247.0/24 list=Estonia
 add address=188.214.32.0/24 list=Estonia
 add address=188.214.36.0/23 list=Estonia
-add address=188.214.36.0/23 list=Estonia
 add address=188.227.248.0/21 list=Estonia
 add address=193.3.30.0/24 list=Estonia
 add address=193.16.32.0/22 list=Estonia
@@ -920,7 +890,6 @@ add address=195.222.6.228/30 list=Estonia
 add address=195.222.6.232/29 list=Estonia
 add address=195.222.6.240/28 list=Estonia
 add address=195.222.7.0/27 list=Estonia
-add address=195.222.7.0/27 list=Estonia
 add address=195.222.7.32/28 list=Estonia
 add address=195.222.7.40/30 list=Estonia
 add address=195.222.7.48/28 list=Estonia
@@ -931,7 +900,6 @@ add address=195.222.7.128/29 list=Estonia
 add address=195.222.7.132/30 list=Estonia
 add address=195.222.7.136/30 list=Estonia
 add address=195.222.7.136/29 list=Estonia
-add address=195.222.7.144/28 list=Estonia
 add address=195.222.7.144/28 list=Estonia
 add address=195.222.7.160/28 list=Estonia
 add address=195.222.7.168/29 list=Estonia
@@ -957,7 +925,6 @@ add address=195.222.10.80/28 list=Estonia
 add address=195.222.10.96/30 list=Estonia
 add address=195.222.10.100/31 list=Estonia
 add address=195.222.10.104/29 list=Estonia
-add address=195.222.10.112/28 list=Estonia
 add address=195.222.10.112/28 list=Estonia
 add address=195.222.10.128/27 list=Estonia
 add address=195.222.10.160/29 list=Estonia
@@ -1085,7 +1052,6 @@ add address=212.27.228.78/31 list=Estonia
 add address=212.27.233.0/24 list=Estonia
 add address=212.27.244.8/29 list=Estonia
 add address=212.27.246.0/23 list=Estonia
-add address=212.27.246.0/23 list=Estonia
 add address=212.27.248.32/27 list=Estonia
 add address=212.27.248.96/27 list=Estonia
 add address=212.27.248.160/27 list=Estonia
@@ -1103,7 +1069,6 @@ add address=212.47.200.0/24 list=Estonia
 add address=212.47.201.0/29 list=Estonia
 add address=212.47.201.8/31 list=Estonia
 add address=212.47.201.28/30 list=Estonia
-add address=212.47.201.28/30 list=Estonia
 add address=212.47.201.48/30 list=Estonia
 add address=212.47.201.52/31 list=Estonia
 add address=212.47.201.56/31 list=Estonia
@@ -1115,8 +1080,6 @@ add address=212.47.201.76/31 list=Estonia
 add address=212.47.201.76/30 list=Estonia
 add address=212.47.201.81/32 list=Estonia
 add address=212.47.201.86/31 list=Estonia
-add address=212.47.201.86/31 list=Estonia
-add address=212.47.201.94/31 list=Estonia
 add address=212.47.201.94/31 list=Estonia
 add address=212.47.201.96/31 list=Estonia
 add address=212.47.201.99/32 list=Estonia
@@ -1130,9 +1093,7 @@ add address=212.47.201.122/31 list=Estonia
 add address=212.47.201.124/31 list=Estonia
 add address=212.47.201.128/31 list=Estonia
 add address=212.47.201.134/31 list=Estonia
-add address=212.47.201.134/31 list=Estonia
 add address=212.47.201.138/31 list=Estonia
-add address=212.47.201.140/31 list=Estonia
 add address=212.47.201.140/31 list=Estonia
 add address=212.47.201.146/31 list=Estonia
 add address=212.47.201.156/31 list=Estonia
@@ -1151,9 +1112,7 @@ add address=212.47.201.192/31 list=Estonia
 add address=212.47.201.192/30 list=Estonia
 add address=212.47.201.198/32 list=Estonia
 add address=212.47.201.204/31 list=Estonia
-add address=212.47.201.204/31 list=Estonia
 add address=212.47.201.220/30 list=Estonia
-add address=212.47.201.224/29 list=Estonia
 add address=212.47.201.224/29 list=Estonia
 add address=212.47.201.229/32 list=Estonia
 add address=212.47.201.236/31 list=Estonia
@@ -1267,7 +1226,6 @@ add address=212.49.22.24/29 list=Estonia
 add address=212.49.22.32/30 list=Estonia
 add address=212.49.22.44/30 list=Estonia
 add address=212.49.22.48/29 list=Estonia
-add address=212.49.22.48/29 list=Estonia
 add address=212.49.22.64/29 list=Estonia
 add address=212.49.22.108/30 list=Estonia
 add address=212.49.22.132/30 list=Estonia
@@ -1279,7 +1237,6 @@ add address=212.49.30.0/28 list=Estonia
 add address=212.49.31.160/30 list=Estonia
 add address=212.81.65.200/29 list=Estonia
 add address=212.102.144.0/22 list=Estonia
-add address=212.105.135.0/24 list=Estonia
 add address=212.105.135.0/24 list=Estonia
 add address=212.107.32.0/19 list=Estonia
 add address=212.115.142.124/30 list=Estonia

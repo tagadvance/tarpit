@@ -1,6 +1,5 @@
 /ip firewall address-list
 add address=104.28.10.158/31 list=Heard_Island_and_McDonald_Islands
-add address=104.28.10.158/31 list=Heard_Island_and_McDonald_Islands
 add address=104.28.10.160/32 list=Heard_Island_and_McDonald_Islands
 add address=136.23.10.200/32 list=Heard_Island_and_McDonald_Islands
 add address=136.23.21.44/32 list=Heard_Island_and_McDonald_Islands

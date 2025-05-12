@@ -7,7 +7,6 @@ add address=27.96.24.0/21 list=Tokelau
 add address=45.138.10.176/30 list=Tokelau
 add address=104.28.13.91/32 list=Tokelau
 add address=104.28.13.92/31 list=Tokelau
-add address=104.28.13.92/31 list=Tokelau
 add address=104.28.29.49/32 list=Tokelau
 add address=104.28.90.59/32 list=Tokelau
 add address=104.28.203.83/32 list=Tokelau

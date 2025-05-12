@@ -7,16 +7,13 @@ add address=57.79.216.0/21 list=Vatican
 add address=57.79.224.0/20 list=Vatican
 add address=104.28.15.69/32 list=Vatican
 add address=104.28.15.70/31 list=Vatican
-add address=104.28.15.70/31 list=Vatican
 add address=104.28.62.97/32 list=Vatican
 add address=104.28.62.98/32 list=Vatican
 add address=104.28.98.74/32 list=Vatican
 add address=104.28.218.219/32 list=Vatican
 add address=104.28.218.220/31 list=Vatican
-add address=104.28.218.220/31 list=Vatican
 add address=104.28.218.222/32 list=Vatican
 add address=104.28.250.219/32 list=Vatican
-add address=104.28.250.220/31 list=Vatican
 add address=104.28.250.220/31 list=Vatican
 add address=104.28.250.222/32 list=Vatican
 add address=136.23.0.156/32 list=Vatican

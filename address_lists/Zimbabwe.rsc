@@ -71,8 +71,6 @@ add address=74.118.126.252/30 list=Zimbabwe
 add address=77.246.48.0/21 list=Zimbabwe
 add address=84.254.153.0/24 list=Zimbabwe
 add address=98.97.132.0/23 list=Zimbabwe
-add address=98.97.132.0/23 list=Zimbabwe
-add address=98.97.185.0/24 list=Zimbabwe
 add address=98.97.185.0/24 list=Zimbabwe
 add address=102.128.76.0/22 list=Zimbabwe
 add address=102.165.112.0/22 list=Zimbabwe
@@ -88,12 +86,10 @@ add address=102.218.12.0/22 list=Zimbabwe
 add address=103.71.60.0/24 list=Zimbabwe
 add address=104.28.15.119/32 list=Zimbabwe
 add address=104.28.15.120/31 list=Zimbabwe
-add address=104.28.15.120/31 list=Zimbabwe
 add address=104.28.38.165/32 list=Zimbabwe
 add address=104.28.38.166/32 list=Zimbabwe
 add address=104.28.46.87/32 list=Zimbabwe
 add address=104.28.46.88/32 list=Zimbabwe
-add address=104.28.80.240/31 list=Zimbabwe
 add address=104.28.80.240/31 list=Zimbabwe
 add address=104.28.82.99/32 list=Zimbabwe
 add address=104.28.82.100/32 list=Zimbabwe
@@ -101,13 +97,9 @@ add address=104.28.146.140/32 list=Zimbabwe
 add address=104.28.154.140/32 list=Zimbabwe
 add address=104.28.219.41/32 list=Zimbabwe
 add address=104.28.219.42/31 list=Zimbabwe
-add address=104.28.219.42/31 list=Zimbabwe
-add address=104.28.219.44/31 list=Zimbabwe
 add address=104.28.219.44/31 list=Zimbabwe
 add address=104.28.251.41/32 list=Zimbabwe
 add address=104.28.251.42/31 list=Zimbabwe
-add address=104.28.251.42/31 list=Zimbabwe
-add address=104.28.251.44/31 list=Zimbabwe
 add address=104.28.251.44/31 list=Zimbabwe
 add address=104.167.194.0/24 list=Zimbabwe
 add address=109.68.56.0/27 list=Zimbabwe
@@ -122,7 +114,6 @@ add address=140.248.60.248/32 list=Zimbabwe
 add address=140.248.61.248/32 list=Zimbabwe
 add address=140.248.62.248/32 list=Zimbabwe
 add address=140.248.63.248/32 list=Zimbabwe
-add address=143.105.36.0/23 list=Zimbabwe
 add address=143.105.36.0/23 list=Zimbabwe
 add address=146.75.168.188/31 list=Zimbabwe
 add address=146.75.198.38/31 list=Zimbabwe
@@ -218,8 +209,6 @@ add address=209.88.93.7/32 list=Zimbabwe
 add address=209.88.93.87/32 list=Zimbabwe
 add address=213.209.165.0/24 list=Zimbabwe
 add address=216.234.214.0/23 list=Zimbabwe
-add address=216.234.214.0/23 list=Zimbabwe
-add address=216.234.221.0/24 list=Zimbabwe
 add address=216.234.221.0/24 list=Zimbabwe
 add address=217.15.113.0/24 list=Zimbabwe
 add address=217.15.114.0/24 list=Zimbabwe

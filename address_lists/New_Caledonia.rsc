@@ -26,17 +26,13 @@ add address=103.152.32.0/24 list=New_Caledonia
 add address=103.173.58.0/23 list=New_Caledonia
 add address=104.28.12.15/32 list=New_Caledonia
 add address=104.28.12.16/31 list=New_Caledonia
-add address=104.28.12.16/31 list=New_Caledonia
 add address=104.28.29.43/32 list=New_Caledonia
-add address=104.28.125.68/31 list=New_Caledonia
 add address=104.28.125.68/31 list=New_Caledonia
 add address=104.28.146.184/32 list=New_Caledonia
 add address=104.28.154.184/32 list=New_Caledonia
 add address=104.28.199.181/32 list=New_Caledonia
 add address=104.28.199.182/31 list=New_Caledonia
-add address=104.28.199.182/31 list=New_Caledonia
 add address=104.28.231.181/32 list=New_Caledonia
-add address=104.28.231.182/31 list=New_Caledonia
 add address=104.28.231.182/31 list=New_Caledonia
 add address=113.20.32.0/21 list=New_Caledonia
 add address=113.20.44.0/22 list=New_Caledonia

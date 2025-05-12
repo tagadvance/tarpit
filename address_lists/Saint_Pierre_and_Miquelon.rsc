@@ -10,7 +10,6 @@ add address=46.36.203.48/31 list=Saint_Pierre_and_Miquelon
 add address=46.36.203.50/32 list=Saint_Pierre_and_Miquelon
 add address=70.36.0.0/20 list=Saint_Pierre_and_Miquelon
 add address=104.28.12.132/31 list=Saint_Pierre_and_Miquelon
-add address=104.28.12.132/31 list=Saint_Pierre_and_Miquelon
 add address=104.28.12.134/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.39.21/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.39.22/32 list=Saint_Pierre_and_Miquelon
@@ -26,14 +25,10 @@ add address=104.28.133.51/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.133.52/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.207.85/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.207.86/31 list=Saint_Pierre_and_Miquelon
-add address=104.28.207.86/31 list=Saint_Pierre_and_Miquelon
-add address=104.28.207.88/31 list=Saint_Pierre_and_Miquelon
 add address=104.28.207.88/31 list=Saint_Pierre_and_Miquelon
 add address=104.28.207.90/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.239.85/32 list=Saint_Pierre_and_Miquelon
 add address=104.28.239.86/31 list=Saint_Pierre_and_Miquelon
-add address=104.28.239.86/31 list=Saint_Pierre_and_Miquelon
-add address=104.28.239.88/31 list=Saint_Pierre_and_Miquelon
 add address=104.28.239.88/31 list=Saint_Pierre_and_Miquelon
 add address=104.28.239.90/32 list=Saint_Pierre_and_Miquelon
 add address=136.23.9.32/32 list=Saint_Pierre_and_Miquelon
@@ -62,5 +57,4 @@ add address=172.225.236.64/27 list=Saint_Pierre_and_Miquelon
 add address=172.225.255.160/27 list=Saint_Pierre_and_Miquelon
 add address=194.50.99.181/32 list=Saint_Pierre_and_Miquelon
 add address=198.165.195.0/24 list=Saint_Pierre_and_Miquelon
-add address=209.198.150.0/24 list=Saint_Pierre_and_Miquelon
 add address=209.198.150.0/24 list=Saint_Pierre_and_Miquelon

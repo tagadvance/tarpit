@@ -16,7 +16,6 @@ add address=84.254.150.0/24 list=Central_African_Republic
 add address=88.202.65.0/24 list=Central_African_Republic
 add address=103.243.65.224/29 list=Central_African_Republic
 add address=104.28.9.18/31 list=Central_African_Republic
-add address=104.28.9.18/31 list=Central_African_Republic
 add address=104.28.9.20/32 list=Central_African_Republic
 add address=104.28.34.17/32 list=Central_African_Republic
 add address=104.28.34.18/32 list=Central_African_Republic
@@ -29,13 +28,9 @@ add address=104.28.80.28/32 list=Central_African_Republic
 add address=104.28.82.15/32 list=Central_African_Republic
 add address=104.28.82.16/32 list=Central_African_Republic
 add address=104.28.218.166/31 list=Central_African_Republic
-add address=104.28.218.166/31 list=Central_African_Republic
-add address=104.28.218.168/31 list=Central_African_Republic
 add address=104.28.218.168/31 list=Central_African_Republic
 add address=104.28.218.170/32 list=Central_African_Republic
 add address=104.28.250.166/31 list=Central_African_Republic
-add address=104.28.250.166/31 list=Central_African_Republic
-add address=104.28.250.168/31 list=Central_African_Republic
 add address=104.28.250.168/31 list=Central_African_Republic
 add address=104.28.250.170/32 list=Central_African_Republic
 add address=140.248.40.12/31 list=Central_African_Republic

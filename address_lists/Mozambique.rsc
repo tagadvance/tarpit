@@ -26,7 +26,6 @@ add address=84.254.169.0/24 list=Mozambique
 add address=95.134.85.0/24 list=Mozambique
 add address=95.210.58.0/24 list=Mozambique
 add address=98.97.150.0/23 list=Mozambique
-add address=98.97.150.0/23 list=Mozambique
 add address=102.36.146.0/24 list=Mozambique
 add address=102.67.188.0/22 list=Mozambique
 add address=102.176.248.0/23 list=Mozambique
@@ -40,21 +39,14 @@ add address=102.211.108.0/22 list=Mozambique
 add address=102.222.88.0/22 list=Mozambique
 add address=104.28.12.9/32 list=Mozambique
 add address=104.28.12.10/31 list=Mozambique
-add address=104.28.12.10/31 list=Mozambique
-add address=104.28.38.60/31 list=Mozambique
 add address=104.28.38.60/31 list=Mozambique
 add address=104.28.46.56/31 list=Mozambique
-add address=104.28.46.56/31 list=Mozambique
 add address=104.28.80.168/31 list=Mozambique
-add address=104.28.80.168/31 list=Mozambique
-add address=104.28.82.64/31 list=Mozambique
 add address=104.28.82.64/31 list=Mozambique
 add address=104.28.146.138/32 list=Mozambique
 add address=104.28.154.138/32 list=Mozambique
 add address=104.28.215.16/30 list=Mozambique
-add address=104.28.215.16/30 list=Mozambique
 add address=104.28.215.20/32 list=Mozambique
-add address=104.28.247.16/30 list=Mozambique
 add address=104.28.247.16/30 list=Mozambique
 add address=104.28.247.20/32 list=Mozambique
 add address=105.16.24.0/23 list=Mozambique
@@ -62,7 +54,6 @@ add address=105.16.144.0/21 list=Mozambique
 add address=105.21.224.0/19 list=Mozambique
 add address=105.28.64.0/20 list=Mozambique
 add address=105.235.216.0/21 list=Mozambique
-add address=129.222.144.0/23 list=Mozambique
 add address=129.222.144.0/23 list=Mozambique
 add address=140.248.40.164/31 list=Mozambique
 add address=140.248.56.158/32 list=Mozambique
@@ -153,5 +144,4 @@ add address=197.242.160.0/20 list=Mozambique
 add address=197.249.0.0/16 list=Mozambique
 add address=199.19.254.80/28 list=Mozambique
 add address=212.32.87.0/24 list=Mozambique
-add address=216.234.210.0/23 list=Mozambique
 add address=216.234.210.0/23 list=Mozambique

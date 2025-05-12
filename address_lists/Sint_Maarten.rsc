@@ -5,18 +5,13 @@ add address=65.198.230.0/24 list=Sint_Maarten
 add address=65.248.160.0/24 list=Sint_Maarten
 add address=72.252.8.0/21 list=Sint_Maarten
 add address=104.28.13.52/31 list=Sint_Maarten
-add address=104.28.13.52/31 list=Sint_Maarten
 add address=104.28.13.54/32 list=Sint_Maarten
 add address=104.28.50.222/31 list=Sint_Maarten
-add address=104.28.50.222/31 list=Sint_Maarten
-add address=104.28.50.224/31 list=Sint_Maarten
 add address=104.28.50.224/31 list=Sint_Maarten
 add address=104.28.92.196/32 list=Sint_Maarten
 add address=104.28.220.111/32 list=Sint_Maarten
 add address=104.28.220.112/30 list=Sint_Maarten
-add address=104.28.220.112/30 list=Sint_Maarten
 add address=104.28.252.111/32 list=Sint_Maarten
-add address=104.28.252.112/30 list=Sint_Maarten
 add address=104.28.252.112/30 list=Sint_Maarten
 add address=131.161.84.0/22 list=Sint_Maarten
 add address=136.23.23.39/32 list=Sint_Maarten
@@ -31,7 +26,6 @@ add address=140.248.60.210/32 list=Sint_Maarten
 add address=140.248.61.210/32 list=Sint_Maarten
 add address=140.248.62.210/32 list=Sint_Maarten
 add address=140.248.63.210/32 list=Sint_Maarten
-add address=143.105.124.0/23 list=Sint_Maarten
 add address=143.105.124.0/23 list=Sint_Maarten
 add address=146.75.160.180/31 list=Sint_Maarten
 add address=146.75.234.46/31 list=Sint_Maarten
@@ -50,7 +44,6 @@ add address=172.226.13.128/28 list=Sint_Maarten
 add address=172.226.86.32/28 list=Sint_Maarten
 add address=172.226.143.160/27 list=Sint_Maarten
 add address=190.102.0.0/19 list=Sint_Maarten
-add address=190.123.16.128/28 list=Sint_Maarten
 add address=190.123.16.128/28 list=Sint_Maarten
 add address=190.123.17.0/24 list=Sint_Maarten
 add address=190.123.17.4/32 list=Sint_Maarten

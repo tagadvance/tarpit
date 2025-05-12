@@ -67,8 +67,6 @@ add address=93.176.48.0/21 list=Guadeloupe
 add address=94.124.155.0/24 list=Guadeloupe
 add address=94.198.179.0/24 list=Guadeloupe
 add address=98.97.50.0/24 list=Guadeloupe
-add address=98.97.50.0/24 list=Guadeloupe
-add address=104.28.10.88/31 list=Guadeloupe
 add address=104.28.10.88/31 list=Guadeloupe
 add address=104.28.10.90/32 list=Guadeloupe
 add address=104.28.36.91/32 list=Guadeloupe
@@ -78,17 +76,12 @@ add address=104.28.76.50/32 list=Guadeloupe
 add address=104.28.78.49/32 list=Guadeloupe
 add address=104.28.78.50/32 list=Guadeloupe
 add address=104.28.92.84/31 list=Guadeloupe
-add address=104.28.92.84/31 list=Guadeloupe
-add address=104.28.94.84/31 list=Guadeloupe
 add address=104.28.94.84/31 list=Guadeloupe
 add address=104.28.109.59/32 list=Guadeloupe
 add address=104.28.109.60/32 list=Guadeloupe
 add address=104.28.126.84/31 list=Guadeloupe
-add address=104.28.126.84/31 list=Guadeloupe
-add address=104.28.209.24/30 list=Guadeloupe
 add address=104.28.209.24/30 list=Guadeloupe
 add address=104.28.209.28/32 list=Guadeloupe
-add address=104.28.241.24/30 list=Guadeloupe
 add address=104.28.241.24/30 list=Guadeloupe
 add address=104.28.241.28/32 list=Guadeloupe
 add address=104.245.113.0/24 list=Guadeloupe
@@ -136,7 +129,6 @@ add address=140.248.60.86/32 list=Guadeloupe
 add address=140.248.61.86/32 list=Guadeloupe
 add address=140.248.62.86/32 list=Guadeloupe
 add address=140.248.63.86/32 list=Guadeloupe
-add address=143.105.28.0/24 list=Guadeloupe
 add address=143.105.28.0/24 list=Guadeloupe
 add address=146.75.128.10/31 list=Guadeloupe
 add address=146.75.128.12/31 list=Guadeloupe

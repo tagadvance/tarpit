@@ -26,7 +26,6 @@ add address=102.220.196.0/22 list=Chad
 add address=102.223.48.0/22 list=Chad
 add address=102.223.192.0/22 list=Chad
 add address=104.28.13.64/31 list=Chad
-add address=104.28.13.64/31 list=Chad
 add address=104.28.13.66/32 list=Chad
 add address=104.28.34.19/32 list=Chad
 add address=104.28.34.20/32 list=Chad
@@ -35,19 +34,13 @@ add address=104.28.60.26/32 list=Chad
 add address=104.28.80.29/32 list=Chad
 add address=104.28.80.30/32 list=Chad
 add address=104.28.88.12/31 list=Chad
-add address=104.28.88.12/31 list=Chad
-add address=104.28.96.8/31 list=Chad
 add address=104.28.96.8/31 list=Chad
 add address=104.28.213.13/32 list=Chad
 add address=104.28.213.14/31 list=Chad
-add address=104.28.213.14/31 list=Chad
-add address=104.28.213.16/31 list=Chad
 add address=104.28.213.16/31 list=Chad
 add address=104.28.213.18/32 list=Chad
 add address=104.28.245.13/32 list=Chad
 add address=104.28.245.14/31 list=Chad
-add address=104.28.245.14/31 list=Chad
-add address=104.28.245.16/31 list=Chad
 add address=104.28.245.16/31 list=Chad
 add address=104.28.245.18/32 list=Chad
 add address=136.23.6.120/32 list=Chad
@@ -62,7 +55,6 @@ add address=140.248.60.214/32 list=Chad
 add address=140.248.61.214/32 list=Chad
 add address=140.248.62.214/32 list=Chad
 add address=140.248.63.214/32 list=Chad
-add address=143.105.160.0/22 list=Chad
 add address=143.105.160.0/22 list=Chad
 add address=146.75.160.134/31 list=Chad
 add address=146.75.169.224/31 list=Chad

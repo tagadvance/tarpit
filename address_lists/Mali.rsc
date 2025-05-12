@@ -20,7 +20,6 @@ add address=102.221.132.0/22 list=Mali
 add address=102.222.204.0/22 list=Mali
 add address=102.223.64.0/22 list=Mali
 add address=104.28.11.216/31 list=Mali
-add address=104.28.11.216/31 list=Mali
 add address=104.28.11.218/32 list=Mali
 add address=104.28.34.73/32 list=Mali
 add address=104.28.34.74/32 list=Mali
@@ -34,14 +33,10 @@ add address=104.28.96.67/32 list=Mali
 add address=104.28.96.68/32 list=Mali
 add address=104.28.221.233/32 list=Mali
 add address=104.28.221.234/31 list=Mali
-add address=104.28.221.234/31 list=Mali
-add address=104.28.221.236/31 list=Mali
 add address=104.28.221.236/31 list=Mali
 add address=104.28.221.238/32 list=Mali
 add address=104.28.253.233/32 list=Mali
 add address=104.28.253.234/31 list=Mali
-add address=104.28.253.234/31 list=Mali
-add address=104.28.253.236/31 list=Mali
 add address=104.28.253.236/31 list=Mali
 add address=104.28.253.238/32 list=Mali
 add address=136.23.4.98/32 list=Mali

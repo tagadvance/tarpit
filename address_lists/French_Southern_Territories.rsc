@@ -2,7 +2,6 @@
 add address=46.243.208.15/32 list=French_Southern_Territories
 add address=104.28.13.67/32 list=French_Southern_Territories
 add address=104.28.13.68/31 list=French_Southern_Territories
-add address=104.28.13.68/31 list=French_Southern_Territories
 add address=136.23.6.121/32 list=French_Southern_Territories
 add address=136.23.20.49/32 list=French_Southern_Territories
 add address=140.248.56.215/32 list=French_Southern_Territories

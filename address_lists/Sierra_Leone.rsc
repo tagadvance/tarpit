@@ -7,7 +7,6 @@ add address=41.223.132.0/22 list=Sierra_Leone
 add address=45.138.10.252/30 list=Sierra_Leone
 add address=57.82.158.0/23 list=Sierra_Leone
 add address=66.9.160.0/24 list=Sierra_Leone
-add address=66.9.160.0/24 list=Sierra_Leone
 add address=74.118.126.196/30 list=Sierra_Leone
 add address=102.22.104.0/22 list=Sierra_Leone
 add address=102.23.140.0/22 list=Sierra_Leone
@@ -23,11 +22,9 @@ add address=102.220.249.0/24 list=Sierra_Leone
 add address=102.223.154.0/23 list=Sierra_Leone
 add address=102.223.168.0/22 list=Sierra_Leone
 add address=104.28.13.28/31 list=Sierra_Leone
-add address=104.28.13.28/31 list=Sierra_Leone
 add address=104.28.13.30/32 list=Sierra_Leone
 add address=104.28.34.151/32 list=Sierra_Leone
 add address=104.28.34.152/32 list=Sierra_Leone
-add address=104.28.61.100/31 list=Sierra_Leone
 add address=104.28.61.100/31 list=Sierra_Leone
 add address=104.28.87.95/32 list=Sierra_Leone
 add address=104.28.87.96/32 list=Sierra_Leone
@@ -36,12 +33,8 @@ add address=104.28.88.114/32 list=Sierra_Leone
 add address=104.28.96.139/32 list=Sierra_Leone
 add address=104.28.96.140/32 list=Sierra_Leone
 add address=104.28.210.176/30 list=Sierra_Leone
-add address=104.28.210.176/30 list=Sierra_Leone
-add address=104.28.210.180/31 list=Sierra_Leone
 add address=104.28.210.180/31 list=Sierra_Leone
 add address=104.28.242.176/30 list=Sierra_Leone
-add address=104.28.242.176/30 list=Sierra_Leone
-add address=104.28.242.180/31 list=Sierra_Leone
 add address=104.28.242.180/31 list=Sierra_Leone
 add address=106.68.64.0/20 list=Sierra_Leone
 add address=136.23.3.235/32 list=Sierra_Leone
@@ -55,7 +48,6 @@ add address=140.248.60.202/32 list=Sierra_Leone
 add address=140.248.61.202/32 list=Sierra_Leone
 add address=140.248.62.202/32 list=Sierra_Leone
 add address=140.248.63.202/32 list=Sierra_Leone
-add address=143.105.45.0/24 list=Sierra_Leone
 add address=143.105.45.0/24 list=Sierra_Leone
 add address=146.75.168.170/31 list=Sierra_Leone
 add address=146.75.174.134/31 list=Sierra_Leone

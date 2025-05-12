@@ -91,7 +91,6 @@ add address=103.219.212.0/23 list=Malta
 add address=103.227.168.0/23 list=Malta
 add address=104.28.11.241/32 list=Malta
 add address=104.28.11.242/31 list=Malta
-add address=104.28.11.242/31 list=Malta
 add address=104.28.34.75/32 list=Malta
 add address=104.28.34.76/32 list=Malta
 add address=104.28.60.111/32 list=Malta
@@ -99,15 +98,11 @@ add address=104.28.60.112/32 list=Malta
 add address=104.28.96.69/32 list=Malta
 add address=104.28.96.70/32 list=Malta
 add address=104.28.98.68/31 list=Malta
-add address=104.28.98.68/31 list=Malta
-add address=104.28.130.98/31 list=Malta
 add address=104.28.130.98/31 list=Malta
 add address=104.28.207.227/32 list=Malta
 add address=104.28.207.228/30 list=Malta
-add address=104.28.207.228/30 list=Malta
 add address=104.28.207.232/32 list=Malta
 add address=104.28.239.227/32 list=Malta
-add address=104.28.239.228/30 list=Malta
 add address=104.28.239.228/30 list=Malta
 add address=104.28.239.232/32 list=Malta
 add address=104.250.177.0/24 list=Malta
@@ -326,7 +321,6 @@ add address=213.198.107.32/29 list=Malta
 add address=213.217.192.0/18 list=Malta
 add address=216.19.206.0/24 list=Malta
 add address=216.19.216.0/23 list=Malta
-add address=216.128.4.0/24 list=Malta
 add address=216.128.4.0/24 list=Malta
 add address=216.131.88.192/26 list=Malta
 add address=217.15.96.0/20 list=Malta

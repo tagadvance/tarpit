@@ -42,7 +42,6 @@ add address=35.50.214.0/24 list=Bahrain
 add address=35.71.99.0/24 list=Bahrain
 add address=37.131.0.0/17 list=Bahrain
 add address=38.54.2.0/23 list=Bahrain
-add address=38.54.2.0/23 list=Bahrain
 add address=45.11.72.0/22 list=Bahrain
 add address=45.138.10.216/30 list=Bahrain
 add address=45.197.116.0/24 list=Bahrain
@@ -113,7 +112,6 @@ add address=94.76.0.0/18 list=Bahrain
 add address=94.79.192.0/18 list=Bahrain
 add address=95.84.64.0/18 list=Bahrain
 add address=98.97.182.0/24 list=Bahrain
-add address=98.97.182.0/24 list=Bahrain
 add address=99.77.147.0/24 list=Bahrain
 add address=99.77.236.0/24 list=Bahrain
 add address=99.78.220.0/22 list=Bahrain
@@ -122,9 +120,7 @@ add address=99.82.144.0/21 list=Bahrain
 add address=99.82.152.0/22 list=Bahrain
 add address=103.152.99.0/24 list=Bahrain
 add address=104.28.8.116/31 list=Bahrain
-add address=104.28.8.116/31 list=Bahrain
 add address=104.28.8.118/32 list=Bahrain
-add address=104.28.37.10/31 list=Bahrain
 add address=104.28.37.10/31 list=Bahrain
 add address=104.28.51.13/32 list=Bahrain
 add address=104.28.51.14/32 list=Bahrain
@@ -138,13 +134,9 @@ add address=104.28.155.68/32 list=Bahrain
 add address=104.28.158.117/32 list=Bahrain
 add address=104.28.204.11/32 list=Bahrain
 add address=104.28.204.12/30 list=Bahrain
-add address=104.28.204.12/30 list=Bahrain
-add address=104.28.204.16/31 list=Bahrain
 add address=104.28.204.16/31 list=Bahrain
 add address=104.28.236.11/32 list=Bahrain
 add address=104.28.236.12/30 list=Bahrain
-add address=104.28.236.12/30 list=Bahrain
-add address=104.28.236.16/31 list=Bahrain
 add address=104.28.236.16/31 list=Bahrain
 add address=104.30.133.143/32 list=Bahrain
 add address=109.63.0.0/18 list=Bahrain

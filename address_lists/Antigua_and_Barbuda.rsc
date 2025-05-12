@@ -45,16 +45,13 @@ add address=95.161.248.0/22 list=Antigua_and_Barbuda
 add address=95.161.253.0/24 list=Antigua_and_Barbuda
 add address=95.161.254.0/23 list=Antigua_and_Barbuda
 add address=104.28.8.10/31 list=Antigua_and_Barbuda
-add address=104.28.8.10/31 list=Antigua_and_Barbuda
 add address=104.28.8.12/32 list=Antigua_and_Barbuda
 add address=104.28.76.1/32 list=Antigua_and_Barbuda
 add address=104.28.76.47/32 list=Antigua_and_Barbuda
 add address=104.28.92.1/32 list=Antigua_and_Barbuda
 add address=104.28.200.237/32 list=Antigua_and_Barbuda
 add address=104.28.200.238/31 list=Antigua_and_Barbuda
-add address=104.28.200.238/31 list=Antigua_and_Barbuda
 add address=104.28.232.237/32 list=Antigua_and_Barbuda
-add address=104.28.232.238/31 list=Antigua_and_Barbuda
 add address=104.28.232.238/31 list=Antigua_and_Barbuda
 add address=104.255.178.0/23 list=Antigua_and_Barbuda
 add address=136.23.23.43/32 list=Antigua_and_Barbuda

@@ -24,7 +24,6 @@ add address=5.179.80.0/20 list=Denmark
 add address=5.181.152.0/22 list=Denmark
 add address=5.182.104.0/23 list=Denmark
 add address=5.182.128.0/23 list=Denmark
-add address=5.182.128.0/23 list=Denmark
 add address=5.182.130.0/24 list=Denmark
 add address=5.182.130.0/29 list=Denmark
 add address=5.182.130.120/29 list=Denmark
@@ -270,7 +269,6 @@ add address=62.182.250.0/23 list=Denmark
 add address=62.182.252.0/22 list=Denmark
 add address=62.192.160.0/22 list=Denmark
 add address=62.198.0.0/15 list=Denmark
-add address=62.198.0.0/15 list=Denmark
 add address=62.200.69.0/24 list=Denmark
 add address=62.200.71.8/29 list=Denmark
 add address=62.200.71.48/28 list=Denmark
@@ -438,7 +436,6 @@ add address=80.239.151.104/30 list=Denmark
 add address=80.239.151.216/29 list=Denmark
 add address=80.239.151.224/29 list=Denmark
 add address=80.239.198.96/28 list=Denmark
-add address=80.239.198.96/28 list=Denmark
 add address=80.239.198.188/30 list=Denmark
 add address=80.239.200.88/29 list=Denmark
 add address=80.239.213.216/29 list=Denmark
@@ -475,18 +472,15 @@ add address=80.253.116.208/30 list=Denmark
 add address=80.253.116.216/29 list=Denmark
 add address=80.253.116.228/30 list=Denmark
 add address=80.253.116.240/28 list=Denmark
-add address=80.253.116.240/28 list=Denmark
 add address=80.253.117.100/30 list=Denmark
 add address=80.253.117.104/29 list=Denmark
 add address=80.253.117.120/29 list=Denmark
 add address=80.253.117.132/30 list=Denmark
 add address=80.253.117.136/29 list=Denmark
-add address=80.253.117.136/29 list=Denmark
 add address=80.253.117.144/29 list=Denmark
 add address=80.253.117.144/28 list=Denmark
 add address=80.253.117.184/29 list=Denmark
 add address=80.253.117.192/29 list=Denmark
-add address=80.253.119.176/28 list=Denmark
 add address=80.253.119.176/28 list=Denmark
 add address=80.253.119.208/29 list=Denmark
 add address=80.253.119.240/29 list=Denmark
@@ -591,7 +585,6 @@ add address=83.137.6.251/32 list=Denmark
 add address=83.137.6.252/32 list=Denmark
 add address=83.137.6.254/31 list=Denmark
 add address=83.137.120.0/21 list=Denmark
-add address=83.140.2.0/27 list=Denmark
 add address=83.140.2.0/27 list=Denmark
 add address=83.140.2.192/27 list=Denmark
 add address=83.140.2.252/30 list=Denmark
@@ -918,11 +911,9 @@ add address=87.72.0.0/15 list=Denmark
 add address=87.104.0.0/16 list=Denmark
 add address=87.116.0.0/18 list=Denmark
 add address=87.119.82.16/28 list=Denmark
-add address=87.119.82.16/28 list=Denmark
 add address=87.119.82.144/30 list=Denmark
 add address=87.119.82.200/29 list=Denmark
 add address=87.119.82.208/29 list=Denmark
-add address=87.119.83.0/27 list=Denmark
 add address=87.119.83.0/27 list=Denmark
 add address=87.119.83.56/29 list=Denmark
 add address=87.119.83.232/29 list=Denmark
@@ -936,7 +927,6 @@ add address=88.218.176.0/22 list=Denmark
 add address=88.221.104.0/24 list=Denmark
 add address=89.19.52.0/22 list=Denmark
 add address=89.19.132.187/32 list=Denmark
-add address=89.23.224.0/19 list=Denmark
 add address=89.23.224.0/19 list=Denmark
 add address=89.28.236.0/24 list=Denmark
 add address=89.38.46.0/24 list=Denmark
@@ -958,7 +948,6 @@ add address=89.188.80.0/20 list=Denmark
 add address=89.202.158.128/26 list=Denmark
 add address=89.221.160.0/20 list=Denmark
 add address=89.233.0.0/18 list=Denmark
-add address=89.233.0.0/18 list=Denmark
 add address=89.239.192.0/18 list=Denmark
 add address=89.249.0.0/20 list=Denmark
 add address=90.152.98.192/26 list=Denmark
@@ -977,7 +966,6 @@ add address=91.103.38.128/26 list=Denmark
 add address=91.132.36.0/22 list=Denmark
 add address=91.132.92.0/24 list=Denmark
 add address=91.133.32.0/19 list=Denmark
-add address=91.133.32.0/19 list=Denmark
 add address=91.142.136.0/24 list=Denmark
 add address=91.143.112.0/20 list=Denmark
 add address=91.144.192.0/18 list=Denmark
@@ -995,7 +983,6 @@ add address=91.194.154.0/23 list=Denmark
 add address=91.195.58.0/23 list=Denmark
 add address=91.196.172.0/22 list=Denmark
 add address=91.196.188.0/24 list=Denmark
-add address=91.196.232.0/22 list=Denmark
 add address=91.196.232.0/22 list=Denmark
 add address=91.197.248.0/22 list=Denmark
 add address=91.198.42.0/24 list=Denmark
@@ -1035,7 +1022,6 @@ add address=91.212.224.0/24 list=Denmark
 add address=91.213.70.0/24 list=Denmark
 add address=91.214.20.0/25 list=Denmark
 add address=91.214.20.128/30 list=Denmark
-add address=91.214.20.132/31 list=Denmark
 add address=91.214.20.132/31 list=Denmark
 add address=91.214.20.135/32 list=Denmark
 add address=91.214.20.136/29 list=Denmark
@@ -1193,7 +1179,6 @@ add address=95.138.208.0/20 list=Denmark
 add address=95.141.93.42/32 list=Denmark
 add address=95.154.0.0/18 list=Denmark
 add address=95.164.10.0/24 list=Denmark
-add address=95.164.10.0/24 list=Denmark
 add address=95.164.85.0/24 list=Denmark
 add address=95.166.64.0/18 list=Denmark
 add address=95.166.128.0/17 list=Denmark
@@ -1228,10 +1213,7 @@ add address=103.221.58.0/24 list=Denmark
 add address=103.221.233.0/24 list=Denmark
 add address=104.28.9.141/32 list=Denmark
 add address=104.28.9.142/31 list=Denmark
-add address=104.28.9.142/31 list=Denmark
 add address=104.28.9.144/31 list=Denmark
-add address=104.28.9.144/31 list=Denmark
-add address=104.28.30.12/31 list=Denmark
 add address=104.28.30.12/31 list=Denmark
 add address=104.28.31.9/32 list=Denmark
 add address=104.28.31.10/32 list=Denmark
@@ -1239,8 +1221,6 @@ add address=104.28.45.4/31 list=Denmark
 add address=104.28.45.4/30 list=Denmark
 add address=104.28.45.6/31 list=Denmark
 add address=104.28.64.2/31 list=Denmark
-add address=104.28.64.2/31 list=Denmark
-add address=104.28.64.4/31 list=Denmark
 add address=104.28.64.4/31 list=Denmark
 add address=104.28.105.0/31 list=Denmark
 add address=104.28.105.0/30 list=Denmark
@@ -1253,37 +1233,25 @@ add address=104.28.141.82/32 list=Denmark
 add address=104.28.142.71/32 list=Denmark
 add address=104.28.143.93/32 list=Denmark
 add address=104.28.148.26/31 list=Denmark
-add address=104.28.148.26/31 list=Denmark
-add address=104.28.148.28/30 list=Denmark
 add address=104.28.148.28/30 list=Denmark
 add address=104.28.156.26/31 list=Denmark
-add address=104.28.156.26/31 list=Denmark
-add address=104.28.156.28/30 list=Denmark
 add address=104.28.156.28/30 list=Denmark
 add address=104.28.160.245/32 list=Denmark
 add address=104.28.160.246/32 list=Denmark
 add address=104.28.162.70/32 list=Denmark
 add address=104.28.162.222/32 list=Denmark
 add address=104.28.201.170/31 list=Denmark
-add address=104.28.201.170/31 list=Denmark
-add address=104.28.201.172/31 list=Denmark
 add address=104.28.201.172/31 list=Denmark
 add address=104.28.201.174/32 list=Denmark
 add address=104.28.219.81/32 list=Denmark
 add address=104.28.219.82/31 list=Denmark
-add address=104.28.219.82/31 list=Denmark
-add address=104.28.219.84/30 list=Denmark
 add address=104.28.219.84/30 list=Denmark
 add address=104.28.219.88/32 list=Denmark
 add address=104.28.233.170/31 list=Denmark
-add address=104.28.233.170/31 list=Denmark
-add address=104.28.233.172/31 list=Denmark
 add address=104.28.233.172/31 list=Denmark
 add address=104.28.233.174/32 list=Denmark
 add address=104.28.251.81/32 list=Denmark
 add address=104.28.251.82/31 list=Denmark
-add address=104.28.251.82/31 list=Denmark
-add address=104.28.251.84/30 list=Denmark
 add address=104.28.251.84/30 list=Denmark
 add address=104.28.251.88/32 list=Denmark
 add address=104.30.160.143/32 list=Denmark
@@ -1486,7 +1454,6 @@ add address=141.138.209.192/28 list=Denmark
 add address=141.138.210.56/29 list=Denmark
 add address=141.138.211.64/26 list=Denmark
 add address=141.138.211.128/26 list=Denmark
-add address=141.138.211.128/26 list=Denmark
 add address=141.138.212.160/28 list=Denmark
 add address=141.138.213.160/28 list=Denmark
 add address=141.138.214.192/28 list=Denmark
@@ -1540,11 +1507,9 @@ add address=148.64.14.0/24 list=Denmark
 add address=149.6.136.4/31 list=Denmark
 add address=149.6.136.8/29 list=Denmark
 add address=149.6.136.16/28 list=Denmark
-add address=149.6.136.16/28 list=Denmark
 add address=149.6.136.32/28 list=Denmark
 add address=149.6.136.48/29 list=Denmark
 add address=149.6.136.64/29 list=Denmark
-add address=149.6.136.80/28 list=Denmark
 add address=149.6.136.80/28 list=Denmark
 add address=149.6.136.96/28 list=Denmark
 add address=149.6.136.96/27 list=Denmark
@@ -1554,14 +1519,11 @@ add address=149.6.136.168/29 list=Denmark
 add address=149.6.136.176/28 list=Denmark
 add address=149.6.136.196/30 list=Denmark
 add address=149.6.136.208/28 list=Denmark
-add address=149.6.136.208/28 list=Denmark
 add address=149.6.136.224/27 list=Denmark
 add address=149.6.137.0/27 list=Denmark
 add address=149.6.137.32/28 list=Denmark
 add address=149.6.137.64/27 list=Denmark
-add address=149.6.137.64/27 list=Denmark
 add address=149.6.137.104/29 list=Denmark
-add address=149.6.137.112/28 list=Denmark
 add address=149.6.137.112/28 list=Denmark
 add address=149.6.137.136/29 list=Denmark
 add address=149.6.137.144/28 list=Denmark
@@ -1591,7 +1553,6 @@ add address=152.95.0.0/16 list=Denmark
 add address=152.115.0.0/16 list=Denmark
 add address=153.92.164.0/24 list=Denmark
 add address=154.14.0.48/28 list=Denmark
-add address=154.14.0.48/28 list=Denmark
 add address=154.14.0.64/29 list=Denmark
 add address=154.14.1.68/30 list=Denmark
 add address=154.14.2.144/29 list=Denmark
@@ -1610,11 +1571,8 @@ add address=154.14.11.28/30 list=Denmark
 add address=154.14.11.88/30 list=Denmark
 add address=154.14.12.12/30 list=Denmark
 add address=154.14.12.16/29 list=Denmark
-add address=154.14.12.16/29 list=Denmark
 add address=154.14.12.24/30 list=Denmark
 add address=154.14.13.40/29 list=Denmark
-add address=154.14.13.40/29 list=Denmark
-add address=154.14.13.48/28 list=Denmark
 add address=154.14.13.48/28 list=Denmark
 add address=154.14.13.64/30 list=Denmark
 add address=154.14.14.36/30 list=Denmark
@@ -1866,7 +1824,6 @@ add address=162.120.215.154/31 list=Denmark
 add address=162.120.215.156/30 list=Denmark
 add address=162.120.215.160/30 list=Denmark
 add address=162.158.132.0/23 list=Denmark
-add address=162.158.132.0/23 list=Denmark
 add address=162.158.134.0/24 list=Denmark
 add address=163.116.166.155/32 list=Denmark
 add address=163.116.166.156/32 list=Denmark
@@ -1909,7 +1866,6 @@ add address=166.49.162.40/30 list=Denmark
 add address=166.49.162.75/32 list=Denmark
 add address=166.49.168.0/25 list=Denmark
 add address=166.49.197.203/32 list=Denmark
-add address=167.167.172.0/23 list=Denmark
 add address=167.167.172.0/23 list=Denmark
 add address=167.167.174.0/24 list=Denmark
 add address=169.224.175.0/26 list=Denmark
@@ -1977,7 +1933,6 @@ add address=178.155.128.0/17 list=Denmark
 add address=178.157.192.0/18 list=Denmark
 add address=178.171.54.0/23 list=Denmark
 add address=178.209.160.0/19 list=Denmark
-add address=178.209.160.0/19 list=Denmark
 add address=178.249.48.0/21 list=Denmark
 add address=178.251.0.0/21 list=Denmark
 add address=181.214.3.0/24 list=Denmark
@@ -1989,7 +1944,6 @@ add address=182.160.40.0/22 list=Denmark
 add address=185.1.57.0/24 list=Denmark
 add address=185.3.12.0/22 list=Denmark
 add address=185.4.136.0/22 list=Denmark
-add address=185.4.216.0/22 list=Denmark
 add address=185.4.216.0/22 list=Denmark
 add address=185.5.164.0/22 list=Denmark
 add address=185.9.4.0/22 list=Denmark
@@ -2211,7 +2165,6 @@ add address=185.157.16.0/22 list=Denmark
 add address=185.157.84.0/22 list=Denmark
 add address=185.157.112.0/21 list=Denmark
 add address=185.157.132.0/22 list=Denmark
-add address=185.157.132.0/22 list=Denmark
 add address=185.158.60.0/22 list=Denmark
 add address=185.158.160.0/23 list=Denmark
 add address=185.158.163.0/24 list=Denmark
@@ -2383,7 +2336,6 @@ add address=192.38.0.0/17 list=Denmark
 add address=192.38.0.0/21 list=Denmark
 add address=192.38.8.0/23 list=Denmark
 add address=192.38.10.0/25 list=Denmark
-add address=192.38.10.0/25 list=Denmark
 add address=192.38.10.128/26 list=Denmark
 add address=192.38.10.192/28 list=Denmark
 add address=192.38.10.192/27 list=Denmark
@@ -2409,7 +2361,6 @@ add address=192.94.162.0/24 list=Denmark
 add address=192.104.248.0/24 list=Denmark
 add address=192.112.99.0/24 list=Denmark
 add address=192.121.35.0/24 list=Denmark
-add address=192.121.118.0/23 list=Denmark
 add address=192.121.118.0/23 list=Denmark
 add address=192.121.126.0/24 list=Denmark
 add address=192.121.181.0/24 list=Denmark
@@ -2717,8 +2668,6 @@ add address=194.11.80.0/23 list=Denmark
 add address=194.11.82.0/24 list=Denmark
 add address=194.14.210.0/24 list=Denmark
 add address=194.19.128.0/18 list=Denmark
-add address=194.19.128.0/18 list=Denmark
-add address=194.19.192.0/19 list=Denmark
 add address=194.19.192.0/19 list=Denmark
 add address=194.28.24.0/22 list=Denmark
 add address=194.28.248.0/21 list=Denmark
@@ -2951,7 +2900,6 @@ add address=195.182.39.0/24 list=Denmark
 add address=195.182.216.0/23 list=Denmark
 add address=195.184.32.0/19 list=Denmark
 add address=195.184.96.0/19 list=Denmark
-add address=195.184.96.0/19 list=Denmark
 add address=195.189.130.0/23 list=Denmark
 add address=195.189.232.0/23 list=Denmark
 add address=195.190.18.0/24 list=Denmark
@@ -3056,7 +3004,6 @@ add address=212.56.6.12/30 list=Denmark
 add address=212.56.6.56/30 list=Denmark
 add address=212.56.6.100/30 list=Denmark
 add address=212.56.7.128/28 list=Denmark
-add address=212.56.7.128/28 list=Denmark
 add address=212.56.9.68/30 list=Denmark
 add address=212.56.9.136/29 list=Denmark
 add address=212.56.10.80/29 list=Denmark
@@ -3064,11 +3011,9 @@ add address=212.56.10.104/30 list=Denmark
 add address=212.56.10.112/28 list=Denmark
 add address=212.56.10.120/29 list=Denmark
 add address=212.56.10.128/29 list=Denmark
-add address=212.56.10.128/29 list=Denmark
 add address=212.56.10.164/30 list=Denmark
 add address=212.56.10.200/29 list=Denmark
 add address=212.56.10.208/28 list=Denmark
-add address=212.56.10.224/29 list=Denmark
 add address=212.56.10.224/29 list=Denmark
 add address=212.56.10.232/30 list=Denmark
 add address=212.56.11.8/29 list=Denmark
@@ -3100,7 +3045,6 @@ add address=212.97.140.0/22 list=Denmark
 add address=212.97.144.0/20 list=Denmark
 add address=212.97.158.0/23 list=Denmark
 add address=212.97.192.0/18 list=Denmark
-add address=212.97.192.0/18 list=Denmark
 add address=212.98.64.0/18 list=Denmark
 add address=212.99.224.0/19 list=Denmark
 add address=212.112.19.32/27 list=Denmark
@@ -3119,7 +3063,6 @@ add address=212.112.148.0/22 list=Denmark
 add address=212.112.152.0/21 list=Denmark
 add address=212.115.140.176/29 list=Denmark
 add address=212.115.140.244/30 list=Denmark
-add address=212.115.142.16/28 list=Denmark
 add address=212.115.142.16/28 list=Denmark
 add address=212.115.142.224/29 list=Denmark
 add address=212.115.143.40/29 list=Denmark
@@ -3167,7 +3110,6 @@ add address=212.221.30.112/29 list=Denmark
 add address=212.221.30.176/29 list=Denmark
 add address=212.221.32.48/30 list=Denmark
 add address=212.221.40.112/29 list=Denmark
-add address=212.221.40.152/29 list=Denmark
 add address=212.221.40.152/29 list=Denmark
 add address=212.221.40.240/29 list=Denmark
 add address=212.221.43.120/30 list=Denmark
@@ -3226,7 +3168,6 @@ add address=212.222.177.128/29 list=Denmark
 add address=212.222.177.192/29 list=Denmark
 add address=212.222.198.24/29 list=Denmark
 add address=212.222.199.224/28 list=Denmark
-add address=212.222.199.224/28 list=Denmark
 add address=212.222.199.248/29 list=Denmark
 add address=212.222.208.112/29 list=Denmark
 add address=212.222.208.200/29 list=Denmark
@@ -3264,14 +3205,12 @@ add address=212.222.222.216/30 list=Denmark
 add address=212.222.223.232/29 list=Denmark
 add address=212.222.239.176/29 list=Denmark
 add address=212.222.240.64/28 list=Denmark
-add address=212.222.240.64/28 list=Denmark
 add address=212.222.240.160/29 list=Denmark
 add address=212.222.242.0/29 list=Denmark
 add address=212.222.243.72/29 list=Denmark
 add address=212.237.96.0/20 list=Denmark
 add address=212.237.128.0/20 list=Denmark
 add address=212.237.176.0/21 list=Denmark
-add address=212.237.248.0/22 list=Denmark
 add address=212.237.248.0/22 list=Denmark
 add address=212.242.0.0/16 list=Denmark
 add address=213.5.32.0/21 list=Denmark
@@ -3306,7 +3245,6 @@ add address=213.150.32.0/19 list=Denmark
 add address=213.155.140.40/30 list=Denmark
 add address=213.155.140.64/28 list=Denmark
 add address=213.155.144.120/29 list=Denmark
-add address=213.173.224.0/19 list=Denmark
 add address=213.173.224.0/19 list=Denmark
 add address=213.174.64.0/19 list=Denmark
 add address=213.179.80.0/20 list=Denmark
@@ -3390,7 +3328,6 @@ add address=213.251.27.88/29 list=Denmark
 add address=213.251.27.168/29 list=Denmark
 add address=213.251.27.200/29 list=Denmark
 add address=216.128.8.0/24 list=Denmark
-add address=216.128.8.0/24 list=Denmark
 add address=217.10.16.0/20 list=Denmark
 add address=217.12.144.0/20 list=Denmark
 add address=217.13.230.224/30 list=Denmark
@@ -3420,9 +3357,7 @@ add address=217.63.100.0/22 list=Denmark
 add address=217.63.104.0/21 list=Denmark
 add address=217.63.112.0/20 list=Denmark
 add address=217.65.142.0/24 list=Denmark
-add address=217.65.142.0/24 list=Denmark
 add address=217.71.0.0/20 list=Denmark
-add address=217.74.128.0/19 list=Denmark
 add address=217.74.128.0/19 list=Denmark
 add address=217.74.208.0/20 list=Denmark
 add address=217.78.237.0/24 list=Denmark

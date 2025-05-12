@@ -33,11 +33,9 @@ add address=94.199.16.0/21 list=Tajikistan
 add address=95.46.156.0/24 list=Tajikistan
 add address=95.142.80.0/20 list=Tajikistan
 add address=104.28.13.88/31 list=Tajikistan
-add address=104.28.13.88/31 list=Tajikistan
 add address=104.28.13.90/32 list=Tajikistan
 add address=104.28.38.169/32 list=Tajikistan
 add address=104.28.38.170/32 list=Tajikistan
-add address=104.28.51.218/31 list=Tajikistan
 add address=104.28.51.218/31 list=Tajikistan
 add address=104.28.81.5/32 list=Tajikistan
 add address=104.28.81.6/32 list=Tajikistan
@@ -45,13 +43,9 @@ add address=104.28.106.219/32 list=Tajikistan
 add address=104.28.106.220/32 list=Tajikistan
 add address=104.28.201.25/32 list=Tajikistan
 add address=104.28.201.26/31 list=Tajikistan
-add address=104.28.201.26/31 list=Tajikistan
-add address=104.28.201.28/30 list=Tajikistan
 add address=104.28.201.28/30 list=Tajikistan
 add address=104.28.233.25/32 list=Tajikistan
 add address=104.28.233.26/31 list=Tajikistan
-add address=104.28.233.26/31 list=Tajikistan
-add address=104.28.233.28/30 list=Tajikistan
 add address=104.28.233.28/30 list=Tajikistan
 add address=108.171.38.0/24 list=Tajikistan
 add address=109.68.232.0/21 list=Tajikistan
@@ -81,7 +75,6 @@ add address=150.48.174.0/28 list=Tajikistan
 add address=150.48.174.16/30 list=Tajikistan
 add address=150.48.174.232/31 list=Tajikistan
 add address=154.220.162.0/24 list=Tajikistan
-add address=156.246.166.0/23 list=Tajikistan
 add address=156.246.166.0/23 list=Tajikistan
 add address=157.5.102.44/31 list=Tajikistan
 add address=157.5.110.44/31 list=Tajikistan

@@ -56,7 +56,6 @@ add address=79.135.105.104/29 list=Oman
 add address=80.65.209.0/24 list=Oman
 add address=81.161.80.0/20 list=Oman
 add address=82.149.72.0/22 list=Oman
-add address=82.149.72.0/22 list=Oman
 add address=82.178.0.0/19 list=Oman
 add address=82.178.34.0/23 list=Oman
 add address=82.178.36.0/22 list=Oman
@@ -99,12 +98,8 @@ add address=103.194.113.0/24 list=Oman
 add address=104.23.193.0/24 list=Oman
 add address=104.28.12.89/32 list=Oman
 add address=104.28.12.90/31 list=Oman
-add address=104.28.12.90/31 list=Oman
-add address=104.28.38.62/31 list=Oman
 add address=104.28.38.62/31 list=Oman
 add address=104.28.51.142/31 list=Oman
-add address=104.28.51.142/31 list=Oman
-add address=104.28.80.170/31 list=Oman
 add address=104.28.80.170/31 list=Oman
 add address=104.28.106.127/32 list=Oman
 add address=104.28.106.128/32 list=Oman
@@ -119,13 +114,9 @@ add address=104.28.160.73/32 list=Oman
 add address=104.28.163.20/32 list=Oman
 add address=104.28.163.221/32 list=Oman
 add address=104.28.197.182/31 list=Oman
-add address=104.28.197.182/31 list=Oman
-add address=104.28.197.184/30 list=Oman
 add address=104.28.197.184/30 list=Oman
 add address=104.28.197.188/32 list=Oman
 add address=104.28.229.182/31 list=Oman
-add address=104.28.229.182/31 list=Oman
-add address=104.28.229.184/30 list=Oman
 add address=104.28.229.184/30 list=Oman
 add address=104.28.229.188/32 list=Oman
 add address=119.31.250.0/24 list=Oman
@@ -148,7 +139,6 @@ add address=140.248.63.171/32 list=Oman
 add address=141.105.168.0/21 list=Oman
 add address=142.4.160.168/29 list=Oman
 add address=145.14.128.0/23 list=Oman
-add address=145.224.120.0/23 list=Oman
 add address=145.224.120.0/23 list=Oman
 add address=145.255.64.0/18 list=Oman
 add address=146.75.160.108/30 list=Oman
@@ -270,11 +260,8 @@ add address=194.60.200.0/24 list=Oman
 add address=194.156.226.0/24 list=Oman
 add address=194.163.0.0/20 list=Oman
 add address=194.195.80.0/22 list=Oman
-add address=194.195.80.0/22 list=Oman
 add address=194.233.108.0/22 list=Oman
 add address=195.179.196.0/22 list=Oman
-add address=195.179.196.0/22 list=Oman
-add address=195.179.204.0/22 list=Oman
 add address=195.179.204.0/22 list=Oman
 add address=195.245.85.0/24 list=Oman
 add address=196.48.152.0/24 list=Oman
@@ -288,7 +275,6 @@ add address=199.48.224.0/24 list=Oman
 add address=202.168.112.0/24 list=Oman
 add address=206.148.22.80/31 list=Oman
 add address=206.167.33.0/24 list=Oman
-add address=209.198.146.0/23 list=Oman
 add address=209.198.146.0/23 list=Oman
 add address=212.72.0.0/19 list=Oman
 add address=212.146.160.0/19 list=Oman

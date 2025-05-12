@@ -22,8 +22,6 @@ add address=5.181.179.0/24 list=Lithuania
 add address=5.188.174.0/23 list=Lithuania
 add address=5.196.202.64/30 list=Lithuania
 add address=5.199.160.0/22 list=Lithuania
-add address=5.199.160.0/22 list=Lithuania
-add address=5.199.168.0/21 list=Lithuania
 add address=5.199.168.0/21 list=Lithuania
 add address=5.242.0.0/15 list=Lithuania
 add address=8.29.230.14/32 list=Lithuania
@@ -155,7 +153,6 @@ add address=62.3.0.0/24 list=Lithuania
 add address=62.3.20.0/24 list=Lithuania
 add address=62.68.79.0/24 list=Lithuania
 add address=62.72.20.0/22 list=Lithuania
-add address=62.72.32.0/22 list=Lithuania
 add address=62.72.32.0/22 list=Lithuania
 add address=62.76.232.0/24 list=Lithuania
 add address=62.77.152.0/21 list=Lithuania
@@ -404,7 +401,6 @@ add address=84.32.173.0/24 list=Lithuania
 add address=84.32.176.0/21 list=Lithuania
 add address=84.32.192.0/20 list=Lithuania
 add address=84.32.209.0/24 list=Lithuania
-add address=84.32.214.0/23 list=Lithuania
 add address=84.32.214.0/23 list=Lithuania
 add address=84.32.217.0/24 list=Lithuania
 add address=84.32.218.0/24 list=Lithuania
@@ -816,17 +812,13 @@ add address=103.228.84.0/22 list=Lithuania
 add address=103.231.72.0/24 list=Lithuania
 add address=103.252.111.0/24 list=Lithuania
 add address=104.28.11.180/31 list=Lithuania
-add address=104.28.11.180/31 list=Lithuania
 add address=104.28.11.182/32 list=Lithuania
 add address=104.28.31.31/32 list=Lithuania
 add address=104.28.31.32/32 list=Lithuania
 add address=104.28.45.30/31 list=Lithuania
-add address=104.28.45.30/31 list=Lithuania
-add address=104.28.51.138/31 list=Lithuania
 add address=104.28.51.138/31 list=Lithuania
 add address=104.28.65.37/32 list=Lithuania
 add address=104.28.65.38/32 list=Lithuania
-add address=104.28.131.98/31 list=Lithuania
 add address=104.28.131.98/31 list=Lithuania
 add address=104.28.148.63/32 list=Lithuania
 add address=104.28.148.64/32 list=Lithuania
@@ -837,14 +829,10 @@ add address=104.28.157.153/32 list=Lithuania
 add address=104.28.223.0/32 list=Lithuania
 add address=104.28.223.43/32 list=Lithuania
 add address=104.28.223.44/30 list=Lithuania
-add address=104.28.223.44/30 list=Lithuania
-add address=104.28.223.48/31 list=Lithuania
 add address=104.28.223.48/31 list=Lithuania
 add address=104.28.255.0/32 list=Lithuania
 add address=104.28.255.43/32 list=Lithuania
 add address=104.28.255.44/30 list=Lithuania
-add address=104.28.255.44/30 list=Lithuania
-add address=104.28.255.48/31 list=Lithuania
 add address=104.28.255.48/31 list=Lithuania
 add address=104.30.133.209/32 list=Lithuania
 add address=104.30.133.233/32 list=Lithuania
@@ -897,7 +885,6 @@ add address=141.136.37.0/24 list=Lithuania
 add address=141.136.38.0/24 list=Lithuania
 add address=141.136.40.0/24 list=Lithuania
 add address=141.136.44.0/23 list=Lithuania
-add address=141.136.44.0/23 list=Lithuania
 add address=144.125.49.192/26 list=Lithuania
 add address=145.223.90.0/23 list=Lithuania
 add address=145.239.107.39/32 list=Lithuania
@@ -918,13 +905,9 @@ add address=147.93.76.0/24 list=Lithuania
 add address=147.185.250.0/24 list=Lithuania
 add address=148.222.52.0/23 list=Lithuania
 add address=149.14.10.0/27 list=Lithuania
-add address=149.14.10.0/27 list=Lithuania
 add address=149.14.10.32/29 list=Lithuania
 add address=149.14.10.40/30 list=Lithuania
-add address=149.14.10.40/30 list=Lithuania
 add address=149.14.10.48/28 list=Lithuania
-add address=149.14.10.48/28 list=Lithuania
-add address=149.14.10.64/27 list=Lithuania
 add address=149.14.10.64/27 list=Lithuania
 add address=149.14.10.104/29 list=Lithuania
 add address=149.14.10.112/29 list=Lithuania
@@ -942,7 +925,6 @@ add address=150.241.124.0/24 list=Lithuania
 add address=151.80.187.34/32 list=Lithuania
 add address=152.176.145.118/32 list=Lithuania
 add address=153.92.0.0/23 list=Lithuania
-add address=153.92.0.0/23 list=Lithuania
 add address=153.92.3.0/24 list=Lithuania
 add address=154.14.1.244/30 list=Lithuania
 add address=154.14.50.156/30 list=Lithuania
@@ -952,7 +934,6 @@ add address=154.14.228.104/29 list=Lithuania
 add address=154.14.238.84/30 list=Lithuania
 add address=154.14.242.208/30 list=Lithuania
 add address=154.14.247.56/30 list=Lithuania
-add address=154.14.250.96/28 list=Lithuania
 add address=154.14.250.96/28 list=Lithuania
 add address=154.50.205.33/32 list=Lithuania
 add address=154.50.208.33/32 list=Lithuania
@@ -1118,7 +1099,6 @@ add address=185.112.132.29/32 list=Lithuania
 add address=185.113.251.0/24 list=Lithuania
 add address=185.115.160.0/24 list=Lithuania
 add address=185.122.140.0/22 list=Lithuania
-add address=185.122.140.0/22 list=Lithuania
 add address=185.122.184.0/24 list=Lithuania
 add address=185.127.0.0/22 list=Lithuania
 add address=185.140.228.0/22 list=Lithuania
@@ -1136,7 +1116,6 @@ add address=185.164.128.0/22 list=Lithuania
 add address=185.168.12.0/22 list=Lithuania
 add address=185.168.64.0/22 list=Lithuania
 add address=185.169.140.0/22 list=Lithuania
-add address=185.170.196.0/22 list=Lithuania
 add address=185.170.196.0/22 list=Lithuania
 add address=185.170.252.0/22 list=Lithuania
 add address=185.172.156.0/22 list=Lithuania
@@ -1332,7 +1311,6 @@ add address=194.176.32.0/19 list=Lithuania
 add address=195.8.218.0/23 list=Lithuania
 add address=195.12.160.0/19 list=Lithuania
 add address=195.12.228.112/28 list=Lithuania
-add address=195.12.228.112/28 list=Lithuania
 add address=195.14.160.0/19 list=Lithuania
 add address=195.16.88.0/22 list=Lithuania
 add address=195.22.160.0/19 list=Lithuania
@@ -1384,15 +1362,11 @@ add address=212.27.228.80/31 list=Lithuania
 add address=212.27.230.0/28 list=Lithuania
 add address=212.47.96.0/19 list=Lithuania
 add address=212.47.201.34/31 list=Lithuania
-add address=212.47.201.34/31 list=Lithuania
 add address=212.47.201.38/31 list=Lithuania
-add address=212.47.201.38/31 list=Lithuania
-add address=212.47.201.66/31 list=Lithuania
 add address=212.47.201.66/31 list=Lithuania
 add address=212.47.201.71/32 list=Lithuania
 add address=212.47.201.73/32 list=Lithuania
 add address=212.47.201.119/32 list=Lithuania
-add address=212.47.201.232/31 list=Lithuania
 add address=212.47.201.232/31 list=Lithuania
 add address=212.47.203.160/28 list=Lithuania
 add address=212.52.20.0/24 list=Lithuania
@@ -1404,7 +1378,6 @@ add address=212.56.13.232/30 list=Lithuania
 add address=212.59.0.0/19 list=Lithuania
 add address=212.80.216.0/22 list=Lithuania
 add address=212.81.116.248/29 list=Lithuania
-add address=212.115.142.152/29 list=Lithuania
 add address=212.115.142.152/29 list=Lithuania
 add address=212.117.0.0/19 list=Lithuania
 add address=212.122.64.0/20 list=Lithuania
@@ -1453,12 +1426,10 @@ add address=213.226.136.0/22 list=Lithuania
 add address=213.226.144.0/20 list=Lithuania
 add address=213.226.160.0/19 list=Lithuania
 add address=213.248.108.16/28 list=Lithuania
-add address=213.248.108.16/28 list=Lithuania
 add address=213.251.27.208/28 list=Lithuania
 add address=213.252.192.0/18 list=Lithuania
 add address=216.25.0.0/22 list=Lithuania
 add address=216.66.95.102/32 list=Lithuania
-add address=216.128.1.0/24 list=Lithuania
 add address=216.128.1.0/24 list=Lithuania
 add address=216.151.183.192/26 list=Lithuania
 add address=217.9.240.0/22 list=Lithuania

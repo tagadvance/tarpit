@@ -8,7 +8,6 @@ add address=34.100.4.0/22 list=Bolivia
 add address=34.100.46.0/23 list=Bolivia
 add address=38.142.194.32/29 list=Bolivia
 add address=38.246.58.0/23 list=Bolivia
-add address=38.246.58.0/23 list=Bolivia
 add address=38.246.61.0/24 list=Bolivia
 add address=38.246.63.0/24 list=Bolivia
 add address=45.4.98.0/23 list=Bolivia
@@ -16,7 +15,6 @@ add address=45.5.13.0/24 list=Bolivia
 add address=45.68.0.0/22 list=Bolivia
 add address=45.70.180.0/22 list=Bolivia
 add address=45.134.189.0/24 list=Bolivia
-add address=45.145.132.0/23 list=Bolivia
 add address=45.145.132.0/23 list=Bolivia
 add address=45.145.134.0/24 list=Bolivia
 add address=45.148.104.0/22 list=Bolivia
@@ -51,9 +49,7 @@ add address=72.14.201.214/32 list=Bolivia
 add address=77.81.118.96/30 list=Bolivia
 add address=81.114.122.163/32 list=Bolivia
 add address=84.247.90.0/23 list=Bolivia
-add address=84.247.90.0/23 list=Bolivia
 add address=98.159.34.160/28 list=Bolivia
-add address=104.28.8.134/31 list=Bolivia
 add address=104.28.8.134/31 list=Bolivia
 add address=104.28.8.136/32 list=Bolivia
 add address=104.28.47.35/32 list=Bolivia
@@ -68,7 +64,6 @@ add address=104.28.59.36/31 list=Bolivia
 add address=104.28.59.36/30 list=Bolivia
 add address=104.28.59.38/31 list=Bolivia
 add address=104.28.63.35/32 list=Bolivia
-add address=104.28.63.36/31 list=Bolivia
 add address=104.28.63.36/31 list=Bolivia
 add address=104.28.63.38/32 list=Bolivia
 add address=104.28.113.35/32 list=Bolivia
@@ -89,25 +84,17 @@ add address=104.28.141.49/32 list=Bolivia
 add address=104.28.160.217/32 list=Bolivia
 add address=104.28.209.5/32 list=Bolivia
 add address=104.28.209.6/31 list=Bolivia
-add address=104.28.209.6/31 list=Bolivia
-add address=104.28.209.8/30 list=Bolivia
 add address=104.28.209.8/30 list=Bolivia
 add address=104.28.217.243/32 list=Bolivia
 add address=104.28.217.244/31 list=Bolivia
-add address=104.28.217.244/31 list=Bolivia
 add address=104.28.217.246/32 list=Bolivia
-add address=104.28.218.240/30 list=Bolivia
 add address=104.28.218.240/30 list=Bolivia
 add address=104.28.241.5/32 list=Bolivia
 add address=104.28.241.6/31 list=Bolivia
-add address=104.28.241.6/31 list=Bolivia
-add address=104.28.241.8/30 list=Bolivia
 add address=104.28.241.8/30 list=Bolivia
 add address=104.28.249.243/32 list=Bolivia
 add address=104.28.249.244/31 list=Bolivia
-add address=104.28.249.244/31 list=Bolivia
 add address=104.28.249.246/32 list=Bolivia
-add address=104.28.250.240/30 list=Bolivia
 add address=104.28.250.240/30 list=Bolivia
 add address=104.224.19.0/24 list=Bolivia
 add address=109.172.127.0/24 list=Bolivia
@@ -202,7 +189,6 @@ add address=157.5.124.82/31 list=Bolivia
 add address=157.5.124.84/32 list=Bolivia
 add address=157.167.17.0/24 list=Bolivia
 add address=158.172.152.0/21 list=Bolivia
-add address=158.172.224.0/19 list=Bolivia
 add address=158.172.224.0/19 list=Bolivia
 add address=159.148.225.0/24 list=Bolivia
 add address=160.20.225.0/24 list=Bolivia
@@ -334,8 +320,6 @@ add address=172.225.222.32/28 list=Bolivia
 add address=172.225.232.0/28 list=Bolivia
 add address=173.244.55.144/28 list=Bolivia
 add address=177.222.32.0/19 list=Bolivia
-add address=177.222.32.0/19 list=Bolivia
-add address=177.222.96.0/19 list=Bolivia
 add address=177.222.96.0/19 list=Bolivia
 add address=179.0.30.0/24 list=Bolivia
 add address=179.42.80.0/22 list=Bolivia
@@ -348,7 +332,6 @@ add address=181.114.96.0/19 list=Bolivia
 add address=181.114.160.0/19 list=Bolivia
 add address=181.115.128.0/17 list=Bolivia
 add address=181.177.128.0/18 list=Bolivia
-add address=181.188.128.0/18 list=Bolivia
 add address=181.188.128.0/18 list=Bolivia
 add address=181.191.68.0/22 list=Bolivia
 add address=181.227.0.0/16 list=Bolivia
@@ -382,7 +365,6 @@ add address=190.52.48.0/21 list=Bolivia
 add address=190.98.149.0/26 list=Bolivia
 add address=190.99.92.0/22 list=Bolivia
 add address=190.103.64.0/20 list=Bolivia
-add address=190.104.0.0/19 list=Bolivia
 add address=190.104.0.0/19 list=Bolivia
 add address=190.106.240.0/20 list=Bolivia
 add address=190.107.32.0/19 list=Bolivia
@@ -421,7 +403,6 @@ add address=200.25.80.0/24 list=Bolivia
 add address=200.33.113.0/24 list=Bolivia
 add address=200.58.64.0/19 list=Bolivia
 add address=200.58.160.0/19 list=Bolivia
-add address=200.73.96.0/21 list=Bolivia
 add address=200.73.96.0/21 list=Bolivia
 add address=200.75.160.0/20 list=Bolivia
 add address=200.85.128.0/21 list=Bolivia

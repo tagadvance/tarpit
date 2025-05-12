@@ -11,7 +11,6 @@ add address=66.102.38.192/26 list=Burundi
 add address=102.134.96.0/20 list=Burundi
 add address=104.28.8.119/32 list=Burundi
 add address=104.28.8.120/31 list=Burundi
-add address=104.28.8.120/31 list=Burundi
 add address=104.28.46.7/32 list=Burundi
 add address=104.28.46.8/32 list=Burundi
 add address=104.28.60.17/32 list=Burundi
@@ -24,13 +23,9 @@ add address=104.28.106.27/32 list=Burundi
 add address=104.28.106.28/32 list=Burundi
 add address=104.28.209.197/32 list=Burundi
 add address=104.28.209.198/31 list=Burundi
-add address=104.28.209.198/31 list=Burundi
-add address=104.28.209.200/31 list=Burundi
 add address=104.28.209.200/31 list=Burundi
 add address=104.28.241.197/32 list=Burundi
 add address=104.28.241.198/31 list=Burundi
-add address=104.28.241.198/31 list=Burundi
-add address=104.28.241.200/31 list=Burundi
 add address=104.28.241.200/31 list=Burundi
 add address=140.248.36.26/31 list=Burundi
 add address=140.248.56.23/32 list=Burundi
@@ -53,7 +48,6 @@ add address=157.5.101.16/32 list=Burundi
 add address=157.5.109.15/32 list=Burundi
 add address=157.5.109.16/32 list=Burundi
 add address=157.117.194.0/24 list=Burundi
-add address=170.203.223.0/24 list=Burundi
 add address=170.203.223.0/24 list=Burundi
 add address=172.224.230.16/28 list=Burundi
 add address=172.225.98.32/27 list=Burundi

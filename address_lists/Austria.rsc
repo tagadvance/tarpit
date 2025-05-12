@@ -17,7 +17,6 @@ add address=2.23.154.0/24 list=Austria
 add address=2.56.160.0/22 list=Austria
 add address=2.56.208.0/22 list=Austria
 add address=2.57.48.0/22 list=Austria
-add address=2.57.48.0/22 list=Austria
 add address=2.57.104.0/22 list=Austria
 add address=2.57.156.0/22 list=Austria
 add address=2.57.180.0/22 list=Austria
@@ -323,7 +322,6 @@ add address=45.15.36.0/23 list=Austria
 add address=45.15.52.0/22 list=Austria
 add address=45.38.113.0/24 list=Austria
 add address=45.38.114.0/23 list=Austria
-add address=45.38.114.0/23 list=Austria
 add address=45.39.76.0/24 list=Austria
 add address=45.39.96.0/24 list=Austria
 add address=45.39.99.0/24 list=Austria
@@ -373,7 +371,6 @@ add address=45.94.164.0/22 list=Austria
 add address=45.95.124.0/22 list=Austria
 add address=45.95.140.0/22 list=Austria
 add address=45.95.152.0/22 list=Austria
-add address=45.95.243.0/24 list=Austria
 add address=45.95.243.0/24 list=Austria
 add address=45.128.28.0/22 list=Austria
 add address=45.128.164.0/22 list=Austria
@@ -448,13 +445,11 @@ add address=45.151.204.0/22 list=Austria
 add address=45.152.40.0/22 list=Austria
 add address=45.152.52.0/22 list=Austria
 add address=45.153.82.24/30 list=Austria
-add address=45.153.82.24/30 list=Austria
 add address=45.153.82.54/31 list=Austria
 add address=45.153.82.72/31 list=Austria
 add address=45.153.82.126/31 list=Austria
 add address=45.153.82.152/31 list=Austria
 add address=45.153.82.216/31 list=Austria
-add address=45.153.83.64/30 list=Austria
 add address=45.153.83.64/30 list=Austria
 add address=45.153.83.184/30 list=Austria
 add address=45.153.140.0/22 list=Austria
@@ -864,11 +859,9 @@ add address=80.239.150.236/30 list=Austria
 add address=80.239.151.16/30 list=Austria
 add address=80.239.152.168/29 list=Austria
 add address=80.239.152.176/28 list=Austria
-add address=80.239.152.176/28 list=Austria
 add address=80.239.172.12/30 list=Austria
 add address=80.239.202.148/30 list=Austria
 add address=80.239.209.144/30 list=Austria
-add address=80.239.216.240/28 list=Austria
 add address=80.239.216.240/28 list=Austria
 add address=80.240.224.0/20 list=Austria
 add address=80.241.16.0/20 list=Austria
@@ -995,7 +988,6 @@ add address=83.137.40.0/21 list=Austria
 add address=83.137.112.0/21 list=Austria
 add address=83.138.55.0/24 list=Austria
 add address=83.164.0.0/16 list=Austria
-add address=83.175.64.0/18 list=Austria
 add address=83.175.64.0/18 list=Austria
 add address=83.215.0.0/16 list=Austria
 add address=83.216.32.0/20 list=Austria
@@ -1131,7 +1123,6 @@ add address=85.208.154.128/25 list=Austria
 add address=85.208.168.0/22 list=Austria
 add address=85.209.20.0/22 list=Austria
 add address=85.217.172.0/22 list=Austria
-add address=85.217.172.0/22 list=Austria
 add address=85.217.184.0/23 list=Austria
 add address=85.232.64.0/19 list=Austria
 add address=85.233.96.0/19 list=Austria
@@ -1162,7 +1153,6 @@ add address=86.56.224.0/19 list=Austria
 add address=86.59.0.0/17 list=Austria
 add address=86.62.32.0/22 list=Austria
 add address=86.106.119.0/24 list=Austria
-add address=86.106.182.0/23 list=Austria
 add address=86.106.182.0/23 list=Austria
 add address=86.107.21.0/24 list=Austria
 add address=86.109.24.0/21 list=Austria
@@ -1233,7 +1223,6 @@ add address=91.112.0.0/14 list=Austria
 add address=91.118.0.0/15 list=Austria
 add address=91.132.139.0/24 list=Austria
 add address=91.133.64.0/18 list=Austria
-add address=91.135.160.0/20 list=Austria
 add address=91.135.160.0/20 list=Austria
 add address=91.141.0.0/17 list=Austria
 add address=91.142.16.0/20 list=Austria
@@ -1453,7 +1442,6 @@ add address=94.140.26.0/23 list=Austria
 add address=94.142.160.0/21 list=Austria
 add address=94.158.20.0/24 list=Austria
 add address=94.177.8.0/23 list=Austria
-add address=94.177.8.0/23 list=Austria
 add address=94.177.116.0/23 list=Austria
 add address=94.198.41.0/24 list=Austria
 add address=94.198.136.0/21 list=Austria
@@ -1492,13 +1480,9 @@ add address=103.203.180.0/22 list=Austria
 add address=103.209.79.0/24 list=Austria
 add address=103.214.94.0/24 list=Austria
 add address=104.23.162.0/23 list=Austria
-add address=104.23.162.0/23 list=Austria
 add address=104.28.8.43/32 list=Austria
 add address=104.28.8.44/30 list=Austria
-add address=104.28.8.44/30 list=Austria
 add address=104.28.8.48/30 list=Austria
-add address=104.28.8.48/30 list=Austria
-add address=104.28.8.52/31 list=Austria
 add address=104.28.8.52/31 list=Austria
 add address=104.28.8.54/32 list=Austria
 add address=104.28.15.122/32 list=Austria
@@ -1549,7 +1533,6 @@ add address=104.28.207.40/30 list=Austria
 add address=104.28.239.39/32 list=Austria
 add address=104.28.239.40/30 list=Austria
 add address=104.29.74.0/23 list=Austria
-add address=104.29.74.0/23 list=Austria
 add address=104.30.132.39/32 list=Austria
 add address=104.30.132.231/32 list=Austria
 add address=104.30.134.34/32 list=Austria
@@ -1584,7 +1567,6 @@ add address=104.253.185.0/24 list=Austria
 add address=104.253.196.0/24 list=Austria
 add address=108.161.242.0/23 list=Austria
 add address=108.162.220.0/23 list=Austria
-add address=108.162.220.0/23 list=Austria
 add address=108.165.200.0/24 list=Austria
 add address=108.171.59.0/24 list=Austria
 add address=109.68.104.0/21 list=Austria
@@ -1597,7 +1579,6 @@ add address=109.107.135.0/24 list=Austria
 add address=109.121.127.0/24 list=Austria
 add address=109.126.64.0/18 list=Austria
 add address=109.175.234.0/24 list=Austria
-add address=109.176.250.0/24 list=Austria
 add address=109.176.250.0/24 list=Austria
 add address=109.203.167.0/24 list=Austria
 add address=109.207.64.0/22 list=Austria
@@ -1735,7 +1716,6 @@ add address=137.208.0.0/16 list=Austria
 add address=138.22.0.0/16 list=Austria
 add address=138.124.90.0/24 list=Austria
 add address=138.124.208.0/21 list=Austria
-add address=138.124.208.0/21 list=Austria
 add address=138.124.220.0/22 list=Austria
 add address=138.128.145.0/24 list=Austria
 add address=138.232.0.0/16 list=Austria
@@ -1761,7 +1741,6 @@ add address=141.8.236.44/30 list=Austria
 add address=141.98.176.0/22 list=Austria
 add address=141.98.214.0/24 list=Austria
 add address=141.98.224.0/22 list=Austria
-add address=141.101.104.0/23 list=Austria
 add address=141.101.104.0/23 list=Austria
 add address=141.201.0.0/16 list=Austria
 add address=141.203.0.0/16 list=Austria
@@ -1835,52 +1814,36 @@ add address=148.198.0.0/16 list=Austria
 add address=149.3.164.0/22 list=Austria
 add address=149.6.141.176/29 list=Austria
 add address=149.6.174.0/28 list=Austria
-add address=149.6.174.0/28 list=Austria
 add address=149.6.174.16/29 list=Austria
 add address=149.6.174.24/30 list=Austria
 add address=149.6.174.30/31 list=Austria
 add address=149.6.174.32/27 list=Austria
-add address=149.6.174.32/27 list=Austria
-add address=149.6.174.64/28 list=Austria
 add address=149.6.174.64/28 list=Austria
 add address=149.6.174.80/29 list=Austria
 add address=149.6.174.96/27 list=Austria
-add address=149.6.174.96/27 list=Austria
-add address=149.6.174.128/26 list=Austria
 add address=149.6.174.128/26 list=Austria
 add address=149.6.174.192/29 list=Austria
 add address=149.6.174.208/28 list=Austria
-add address=149.6.174.208/28 list=Austria
 add address=149.6.174.224/27 list=Austria
-add address=149.6.174.224/27 list=Austria
-add address=149.6.175.0/28 list=Austria
 add address=149.6.175.0/28 list=Austria
 add address=149.6.175.16/29 list=Austria
 add address=149.6.175.32/30 list=Austria
-add address=149.6.175.32/30 list=Austria
 add address=149.6.175.40/29 list=Austria
-add address=149.6.175.48/28 list=Austria
 add address=149.6.175.48/28 list=Austria
 add address=149.6.175.72/29 list=Austria
 add address=149.6.175.80/28 list=Austria
-add address=149.6.175.80/28 list=Austria
 add address=149.6.175.96/27 list=Austria
-add address=149.6.175.96/27 list=Austria
-add address=149.6.175.128/27 list=Austria
 add address=149.6.175.128/27 list=Austria
 add address=149.6.175.160/29 list=Austria
 add address=149.6.175.184/29 list=Austria
 add address=149.6.175.192/27 list=Austria
-add address=149.6.175.192/27 list=Austria
 add address=149.6.175.232/29 list=Austria
-add address=149.6.175.240/28 list=Austria
 add address=149.6.175.240/28 list=Austria
 add address=149.7.192.16/28 list=Austria
 add address=149.7.192.32/27 list=Austria
 add address=149.7.192.96/28 list=Austria
 add address=149.7.192.112/29 list=Austria
 add address=149.7.193.0/24 list=Austria
-add address=149.7.194.0/27 list=Austria
 add address=149.7.194.0/27 list=Austria
 add address=149.7.194.64/26 list=Austria
 add address=149.7.195.0/24 list=Austria
@@ -1891,14 +1854,10 @@ add address=149.11.89.48/29 list=Austria
 add address=149.14.102.120/29 list=Austria
 add address=149.19.53.0/24 list=Austria
 add address=149.38.4.0/28 list=Austria
-add address=149.38.4.0/28 list=Austria
 add address=149.38.4.16/29 list=Austria
 add address=149.38.4.32/27 list=Austria
-add address=149.38.4.32/27 list=Austria
-add address=149.38.4.64/27 list=Austria
 add address=149.38.4.64/27 list=Austria
 add address=149.38.4.104/29 list=Austria
-add address=149.38.4.128/26 list=Austria
 add address=149.38.4.128/26 list=Austria
 add address=149.40.52.0/24 list=Austria
 add address=149.62.33.0/24 list=Austria
@@ -1907,7 +1866,6 @@ add address=149.148.0.0/16 list=Austria
 add address=149.154.96.0/21 list=Austria
 add address=149.154.152.0/23 list=Austria
 add address=149.154.152.0/22 list=Austria
-add address=149.154.156.0/24 list=Austria
 add address=149.154.156.0/24 list=Austria
 add address=150.48.128.12/30 list=Austria
 add address=150.48.128.16/28 list=Austria
@@ -1919,7 +1877,6 @@ add address=150.48.149.84/31 list=Austria
 add address=151.236.0.0/22 list=Austria
 add address=151.236.1.0/24 list=Austria
 add address=151.236.5.0/24 list=Austria
-add address=151.236.6.0/23 list=Austria
 add address=151.236.6.0/23 list=Austria
 add address=151.236.8.0/22 list=Austria
 add address=151.236.10.0/23 list=Austria
@@ -2152,7 +2109,6 @@ add address=154.14.116.160/29 list=Austria
 add address=154.14.117.80/29 list=Austria
 add address=154.14.120.24/30 list=Austria
 add address=154.14.122.32/28 list=Austria
-add address=154.14.122.32/28 list=Austria
 add address=154.14.123.28/30 list=Austria
 add address=154.14.124.92/30 list=Austria
 add address=154.14.125.172/30 list=Austria
@@ -2162,7 +2118,6 @@ add address=154.14.225.240/29 list=Austria
 add address=154.14.228.152/29 list=Austria
 add address=154.14.229.104/30 list=Austria
 add address=154.14.229.144/29 list=Austria
-add address=154.14.230.64/28 list=Austria
 add address=154.14.230.64/28 list=Austria
 add address=154.14.230.104/29 list=Austria
 add address=154.14.230.192/29 list=Austria
@@ -2184,7 +2139,6 @@ add address=154.14.243.120/30 list=Austria
 add address=154.14.244.152/29 list=Austria
 add address=154.14.247.216/29 list=Austria
 add address=154.14.250.8/29 list=Austria
-add address=154.37.68.0/22 list=Austria
 add address=154.37.68.0/22 list=Austria
 add address=154.47.18.0/23 list=Austria
 add address=154.50.205.14/32 list=Austria
@@ -2211,7 +2165,6 @@ add address=156.109.35.56/29 list=Austria
 add address=156.109.248.200/29 list=Austria
 add address=156.109.248.224/29 list=Austria
 add address=156.109.249.96/29 list=Austria
-add address=156.146.60.0/23 list=Austria
 add address=156.146.60.0/23 list=Austria
 add address=156.253.248.0/24 list=Austria
 add address=157.5.96.1/32 list=Austria
@@ -2441,7 +2394,6 @@ add address=165.85.187.32/27 list=Austria
 add address=165.87.227.64/28 list=Austria
 add address=165.140.196.0/24 list=Austria
 add address=165.225.200.0/23 list=Austria
-add address=165.225.200.0/23 list=Austria
 add address=166.1.29.0/24 list=Austria
 add address=166.1.108.0/24 list=Austria
 add address=166.49.215.128/25 list=Austria
@@ -2619,12 +2571,10 @@ add address=185.68.248.0/22 list=Austria
 add address=185.69.160.0/22 list=Austria
 add address=185.69.236.0/22 list=Austria
 add address=185.69.244.0/22 list=Austria
-add address=185.69.244.0/22 list=Austria
 add address=185.71.136.0/24 list=Austria
 add address=185.71.164.0/22 list=Austria
 add address=185.71.252.0/22 list=Austria
 add address=185.72.68.0/22 list=Austria
-add address=185.72.72.0/22 list=Austria
 add address=185.72.72.0/22 list=Austria
 add address=185.72.136.0/22 list=Austria
 add address=185.74.0.0/22 list=Austria
@@ -2647,7 +2597,6 @@ add address=185.81.212.0/22 list=Austria
 add address=185.81.240.0/22 list=Austria
 add address=185.82.120.0/22 list=Austria
 add address=185.85.28.0/22 list=Austria
-add address=185.85.32.0/22 list=Austria
 add address=185.85.32.0/22 list=Austria
 add address=185.85.64.0/22 list=Austria
 add address=185.86.24.0/22 list=Austria
@@ -3425,7 +3374,6 @@ add address=193.228.208.0/20 list=Austria
 add address=193.228.227.0/24 list=Austria
 add address=193.228.232.0/23 list=Austria
 add address=193.233.232.0/23 list=Austria
-add address=193.233.232.0/23 list=Austria
 add address=193.234.68.8/32 list=Austria
 add address=193.238.156.0/22 list=Austria
 add address=193.238.236.0/22 list=Austria
@@ -3747,7 +3695,6 @@ add address=195.210.50.0/23 list=Austria
 add address=195.216.229.0/24 list=Austria
 add address=195.219.25.0/25 list=Austria
 add address=195.219.25.128/30 list=Austria
-add address=195.219.25.128/30 list=Austria
 add address=195.222.120.0/22 list=Austria
 add address=195.225.236.0/22 list=Austria
 add address=195.226.195.0/24 list=Austria
@@ -3830,7 +3777,6 @@ add address=208.127.33.64/26 list=Austria
 add address=209.35.235.0/24 list=Austria
 add address=209.40.110.45/32 list=Austria
 add address=209.198.158.0/23 list=Austria
-add address=209.198.158.0/23 list=Austria
 add address=209.199.22.176/28 list=Austria
 add address=209.199.24.64/26 list=Austria
 add address=209.199.24.128/26 list=Austria
@@ -3867,7 +3813,6 @@ add address=212.56.14.96/29 list=Austria
 add address=212.56.15.72/29 list=Austria
 add address=212.56.15.120/29 list=Austria
 add address=212.56.26.128/29 list=Austria
-add address=212.56.160.0/19 list=Austria
 add address=212.56.160.0/19 list=Austria
 add address=212.60.160.0/19 list=Austria
 add address=212.67.224.0/19 list=Austria
@@ -3978,7 +3923,6 @@ add address=212.221.70.248/29 list=Austria
 add address=212.221.74.200/29 list=Austria
 add address=212.221.74.208/29 list=Austria
 add address=212.221.75.48/28 list=Austria
-add address=212.221.75.48/28 list=Austria
 add address=212.221.75.72/29 list=Austria
 add address=212.221.111.0/29 list=Austria
 add address=212.221.116.176/29 list=Austria
@@ -3996,7 +3940,6 @@ add address=212.222.9.216/29 list=Austria
 add address=212.222.10.0/30 list=Austria
 add address=212.222.10.8/30 list=Austria
 add address=212.222.11.96/27 list=Austria
-add address=212.222.11.96/27 list=Austria
 add address=212.222.32.0/29 list=Austria
 add address=212.222.33.40/29 list=Austria
 add address=212.222.33.200/29 list=Austria
@@ -4008,7 +3951,6 @@ add address=212.222.86.64/29 list=Austria
 add address=212.222.86.88/29 list=Austria
 add address=212.222.92.20/30 list=Austria
 add address=212.222.92.168/29 list=Austria
-add address=212.222.95.16/28 list=Austria
 add address=212.222.95.16/28 list=Austria
 add address=212.222.95.80/29 list=Austria
 add address=212.222.95.160/29 list=Austria
@@ -4059,7 +4001,6 @@ add address=212.236.0.0/16 list=Austria
 add address=212.241.64.0/18 list=Austria
 add address=213.33.0.0/17 list=Austria
 add address=213.39.12.96/29 list=Austria
-add address=213.39.64.224/29 list=Austria
 add address=213.39.64.224/29 list=Austria
 add address=213.39.64.232/30 list=Austria
 add address=213.39.76.88/29 list=Austria
@@ -4335,7 +4276,6 @@ add address=216.66.82.74/32 list=Austria
 add address=216.66.95.0/27 list=Austria
 add address=216.120.174.0/23 list=Austria
 add address=216.128.18.0/23 list=Austria
-add address=216.128.18.0/23 list=Austria
 add address=216.131.110.0/24 list=Austria
 add address=216.205.164.0/22 list=Austria
 add address=217.13.99.0/24 list=Austria
@@ -4417,7 +4357,6 @@ add address=217.19.38.192/27 list=Austria
 add address=217.19.38.224/30 list=Austria
 add address=217.19.38.232/30 list=Austria
 add address=217.19.38.240/28 list=Austria
-add address=217.19.39.0/24 list=Austria
 add address=217.19.39.0/24 list=Austria
 add address=217.19.40.0/21 list=Austria
 add address=217.19.40.0/24 list=Austria

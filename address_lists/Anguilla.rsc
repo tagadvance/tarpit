@@ -15,15 +15,12 @@ add address=69.57.248.0/22 list=Anguilla
 add address=76.76.176.0/20 list=Anguilla
 add address=104.28.8.13/32 list=Anguilla
 add address=104.28.8.14/31 list=Anguilla
-add address=104.28.8.14/31 list=Anguilla
 add address=104.28.76.48/32 list=Anguilla
 add address=104.28.76.55/32 list=Anguilla
 add address=104.28.92.68/32 list=Anguilla
 add address=104.28.208.181/32 list=Anguilla
 add address=104.28.208.182/31 list=Anguilla
-add address=104.28.208.182/31 list=Anguilla
 add address=104.28.240.181/32 list=Anguilla
-add address=104.28.240.182/31 list=Anguilla
 add address=104.28.240.182/31 list=Anguilla
 add address=104.192.94.0/23 list=Anguilla
 add address=104.193.196.0/22 list=Anguilla

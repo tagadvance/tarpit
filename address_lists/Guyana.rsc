@@ -8,8 +8,6 @@ add address=57.74.246.0/23 list=Guyana
 add address=57.75.112.0/21 list=Guyana
 add address=104.28.10.113/32 list=Guyana
 add address=104.28.10.114/31 list=Guyana
-add address=104.28.10.114/31 list=Guyana
-add address=104.28.36.96/31 list=Guyana
 add address=104.28.36.96/31 list=Guyana
 add address=104.28.61.83/32 list=Guyana
 add address=104.28.61.84/32 list=Guyana
@@ -23,12 +21,9 @@ add address=104.28.145.48/32 list=Guyana
 add address=104.28.153.48/32 list=Guyana
 add address=104.28.218.153/32 list=Guyana
 add address=104.28.218.154/31 list=Guyana
-add address=104.28.218.154/31 list=Guyana
 add address=104.28.250.153/32 list=Guyana
 add address=104.28.250.154/31 list=Guyana
-add address=104.28.250.154/31 list=Guyana
 add address=104.224.18.0/24 list=Guyana
-add address=135.129.126.0/24 list=Guyana
 add address=135.129.126.0/24 list=Guyana
 add address=136.23.23.38/32 list=Guyana
 add address=136.23.27.22/32 list=Guyana
@@ -43,7 +38,6 @@ add address=140.248.60.93/32 list=Guyana
 add address=140.248.61.93/32 list=Guyana
 add address=140.248.62.93/32 list=Guyana
 add address=140.248.63.93/32 list=Guyana
-add address=143.105.128.0/23 list=Guyana
 add address=143.105.128.0/23 list=Guyana
 add address=146.75.252.6/31 list=Guyana
 add address=157.5.67.129/32 list=Guyana
@@ -84,6 +78,5 @@ add address=196.58.96.0/24 list=Guyana
 add address=196.197.96.0/24 list=Guyana
 add address=196.198.96.0/24 list=Guyana
 add address=196.199.96.0/24 list=Guyana
-add address=198.45.242.0/27 list=Guyana
 add address=198.45.242.0/27 list=Guyana
 add address=209.59.74.141/32 list=Guyana

@@ -20,18 +20,13 @@ add address=79.133.24.0/21 list=Aland_Islands
 add address=82.199.160.0/19 list=Aland_Islands
 add address=91.210.154.0/24 list=Aland_Islands
 add address=104.28.8.84/31 list=Aland_Islands
-add address=104.28.8.84/31 list=Aland_Islands
 add address=104.28.8.86/32 list=Aland_Islands
 add address=104.28.62.93/32 list=Aland_Islands
 add address=104.28.62.94/32 list=Aland_Islands
 add address=104.28.105.16/32 list=Aland_Islands
 add address=104.28.199.118/31 list=Aland_Islands
-add address=104.28.199.118/31 list=Aland_Islands
-add address=104.28.199.120/31 list=Aland_Islands
 add address=104.28.199.120/31 list=Aland_Islands
 add address=104.28.231.118/31 list=Aland_Islands
-add address=104.28.231.118/31 list=Aland_Islands
-add address=104.28.231.120/31 list=Aland_Islands
 add address=104.28.231.120/31 list=Aland_Islands
 add address=136.23.6.119/32 list=Aland_Islands
 add address=136.23.20.47/32 list=Aland_Islands
@@ -85,6 +80,5 @@ add address=194.132.144.0/23 list=Aland_Islands
 add address=212.17.160.0/20 list=Aland_Islands
 add address=212.17.176.0/21 list=Aland_Islands
 add address=213.204.32.0/19 list=Aland_Islands
-add address=216.128.16.0/24 list=Aland_Islands
 add address=216.128.16.0/24 list=Aland_Islands
 add address=217.29.224.0/20 list=Aland_Islands

@@ -100,7 +100,6 @@ add address=64.210.64.0/24 list=Panama
 add address=64.213.56.0/21 list=Panama
 add address=64.215.120.0/21 list=Panama
 add address=65.175.34.176/28 list=Panama
-add address=65.175.34.176/28 list=Panama
 add address=77.73.184.0/21 list=Panama
 add address=77.81.118.40/30 list=Panama
 add address=83.137.198.72/29 list=Panama
@@ -118,7 +117,6 @@ add address=92.249.38.0/23 list=Panama
 add address=98.159.34.96/28 list=Panama
 add address=98.159.232.160/27 list=Panama
 add address=103.173.150.0/23 list=Panama
-add address=104.28.12.92/31 list=Panama
 add address=104.28.12.92/31 list=Panama
 add address=104.28.12.94/32 list=Panama
 add address=104.28.32.84/31 list=Panama
@@ -174,7 +172,6 @@ add address=136.23.32.0/32 list=Panama
 add address=136.227.141.114/31 list=Panama
 add address=136.227.141.116/30 list=Panama
 add address=138.84.46.0/24 list=Panama
-add address=138.84.46.0/24 list=Panama
 add address=138.99.136.0/22 list=Panama
 add address=138.99.144.0/24 list=Panama
 add address=138.99.146.0/24 list=Panama
@@ -207,7 +204,6 @@ add address=140.248.62.172/32 list=Panama
 add address=140.248.63.172/32 list=Panama
 add address=141.98.80.0/22 list=Panama
 add address=142.202.136.39/32 list=Panama
-add address=143.105.66.0/23 list=Panama
 add address=143.105.66.0/23 list=Panama
 add address=143.202.152.0/22 list=Panama
 add address=143.255.156.0/22 list=Panama
@@ -317,7 +313,6 @@ add address=181.78.52.0/22 list=Panama
 add address=181.78.120.0/21 list=Panama
 add address=181.78.128.0/18 list=Panama
 add address=181.78.212.0/22 list=Panama
-add address=181.78.212.0/22 list=Panama
 add address=181.119.124.0/23 list=Panama
 add address=181.119.126.0/24 list=Panama
 add address=181.174.124.58/32 list=Panama
@@ -396,7 +391,6 @@ add address=190.61.86.0/24 list=Panama
 add address=190.61.124.0/22 list=Panama
 add address=190.97.160.0/21 list=Panama
 add address=190.98.128.0/24 list=Panama
-add address=190.98.133.176/28 list=Panama
 add address=190.98.133.176/28 list=Panama
 add address=190.98.148.65/32 list=Panama
 add address=190.98.148.66/32 list=Panama

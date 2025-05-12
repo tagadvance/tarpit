@@ -16,7 +16,6 @@ add address=62.16.187.247/32 list=Svalbard_and_Jan_Mayen
 add address=62.16.187.248/29 list=Svalbard_and_Jan_Mayen
 add address=91.228.189.0/24 list=Svalbard_and_Jan_Mayen
 add address=104.28.13.22/31 list=Svalbard_and_Jan_Mayen
-add address=104.28.13.22/31 list=Svalbard_and_Jan_Mayen
 add address=104.28.13.24/32 list=Svalbard_and_Jan_Mayen
 add address=136.23.1.172/32 list=Svalbard_and_Jan_Mayen
 add address=136.23.4.176/32 list=Svalbard_and_Jan_Mayen
@@ -32,5 +31,4 @@ add address=162.120.206.16/32 list=Svalbard_and_Jan_Mayen
 add address=162.120.215.137/32 list=Svalbard_and_Jan_Mayen
 add address=185.112.132.46/32 list=Svalbard_and_Jan_Mayen
 add address=194.50.99.202/32 list=Svalbard_and_Jan_Mayen
-add address=212.105.148.0/24 list=Svalbard_and_Jan_Mayen
 add address=212.105.148.0/24 list=Svalbard_and_Jan_Mayen

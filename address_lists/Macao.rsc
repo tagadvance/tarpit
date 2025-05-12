@@ -36,15 +36,11 @@ add address=103.237.100.0/23 list=Macao
 add address=103.237.124.0/22 list=Macao
 add address=103.240.56.0/23 list=Macao
 add address=104.28.11.226/31 list=Macao
-add address=104.28.11.226/31 list=Macao
 add address=104.28.11.228/32 list=Macao
-add address=104.28.66.94/31 list=Macao
 add address=104.28.66.94/31 list=Macao
 add address=104.28.66.106/32 list=Macao
 add address=104.28.99.61/32 list=Macao
 add address=104.28.205.192/30 list=Macao
-add address=104.28.205.192/30 list=Macao
-add address=104.28.237.192/30 list=Macao
 add address=104.28.237.192/30 list=Macao
 add address=113.52.64.0/18 list=Macao
 add address=116.193.8.0/21 list=Macao

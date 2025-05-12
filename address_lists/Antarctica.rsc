@@ -11,16 +11,12 @@ add address=79.110.169.137/32 list=Antarctica
 add address=85.215.235.150/32 list=Antarctica
 add address=103.152.126.128/25 list=Antarctica
 add address=103.152.127.0/24 list=Antarctica
-add address=103.152.127.0/24 list=Antarctica
 add address=103.189.238.0/23 list=Antarctica
-add address=104.28.8.26/31 list=Antarctica
 add address=104.28.8.26/31 list=Antarctica
 add address=104.28.8.28/32 list=Antarctica
 add address=104.28.92.69/32 list=Antarctica
 add address=104.28.123.20/32 list=Antarctica
 add address=104.28.212.152/31 list=Antarctica
-add address=104.28.212.152/31 list=Antarctica
-add address=104.28.244.152/31 list=Antarctica
 add address=104.28.244.152/31 list=Antarctica
 add address=136.23.3.227/32 list=Antarctica
 add address=136.23.11.195/32 list=Antarctica
